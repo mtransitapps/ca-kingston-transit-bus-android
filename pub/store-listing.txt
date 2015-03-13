@@ -1,0 +1,45 @@
+Title: Kingston Transit Bus - MonTr…
+----------
+Short description:
+Kingston Transit buses for MonTransit BETA
+Schedule…
+----------
+What's new in this version?:
+Schedule from December 17, 2014 to May 3, 2015.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+----------
+Full description:
+This application adds Kingston Transit buses information to MonTransit BETA.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Kingston Transit serves Kingston & Amherstview in Ontario, Canada.
+
+Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
+
+This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by Kingston Transit.
+https://www.cityofkingston.ca/residents/transit/about
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-kingston-transit-bus-android
+
+This app is not related with the Corporation of the City of Kingston and Kingston Transit .
+----------
+Application type: Applications
+----------
+Category: Transportation
+----------
+Content rating: Low Maturity
+----------
+Website: https://github.com/mtransitapps/ca-kingston-transit-bus-android
+----------
+Email: mtransit.apps+GooglePlay@gmail.com
+----------
+Phone: 
+----------
+Privacy Policy:
