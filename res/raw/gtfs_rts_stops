@@ -66,13 +66,13 @@
 75,'','Tivoli & Sierra Avenues (South Side Of Tivoli)',44.272702,-76.576888
 77,'','Loblaws (East Side Of Midland)',44.260567,-76.57396
 78,'','Cataraqui Woods Drive (East Side Of Midland)',44.268654,-76.574096
-79,'','Wellington Street (East Side Of Highway 15)',44.241349,-76.459008
+79,'','Barriefield (East Side Of Highway 15)',44.241349,-76.459008
 80,'','Givenchy Street (South Side Of Craftsman)',44.243309,-76.45163
 81,'','Sicily Drive (West Side Of Niagara Park)',44.237674,-76.455316
 82,'','Lundy''S Lane (East Side Of Niagara Park)',44.236002,-76.45418
 83,'','49 Lundy''S Lane (North Side)',44.237692,-76.451153
 84,'','Batoche Avenue (North Side Of Lundy''S)',44.237978,-76.448514
-85,'','13 Lundy''S Lane (North Side)',44.238156,-76.444525
+85,'','13 Lundy''S Lane (South Side)',44.238156,-76.444525
 86,'','Canal Du Nord Drive (North Side Of Lundy''S)',44.238512,-76.440885
 88,'','Mercury Crescent (East Side Of Craftsman)',44.242434,-76.438967
 89,'','Mercury Crescent (West Side Of Craftsman)',44.242297,-76.439095
@@ -98,7 +98,7 @@
 114,'','Moro Street (North Side Of Craftsman)',44.244152,-76.442757
 115,'','Princess Mary Avenue (South Side Of Caen)',44.240428,-76.439663
 116,'','Canal Du Nord Drive (South Side Of Lundy''S)',44.238413,-76.440719
-117,'','13 Lundy''S Lane (South Side)',44.238218,-76.445157
+117,'','13 Lundy''S Lane (North Side)',44.238218,-76.445157
 118,'','Batoche Avenue (South Side Of Lundy''S)',44.237904,-76.44832
 119,'','Lance Street (North Side Of Craftsman)',44.243793,-76.447231
 120,'','Givenchy Street (North Side Of Craftsman)',44.243447,-76.45175
@@ -107,16 +107,16 @@
 123,'','Canex (East Side Of Niagara Park)',44.238021,-76.455173
 124,'','Canex (West Side Of Niagara Park)',44.23936,-76.455484
 125,'','Apprentice Street (North Side Of Craftsman)',44.24317,-76.455264
-126,'','Fort Henry Drive (South Side Of Highway 2)',44.237025,-76.465156
-127,'','Navy Way (North Side Of Highway 2)',44.236662,-76.466773
+126,'','Highway 2 At Royal Military College (South Side)',44.237024,-76.465157
+127,'','Highway 2 At Royal Military College (North Side)',44.23646,-76.467285
 128,'','Constantine Arena (North Side Of Highway 2)',44.235915,-76.468478
 130,'','Craftsman Boulevard (West Side Of Highway 15)',44.246537,-76.46211
-132,'','702 Highway 15 (West Side)',44.249332,-76.461105
-134,'','Barriefield Centre (West Side Of Highway 15)',44.252837,-76.460839
-135,'','LaSalle Secondary School (East Side Of Highway 15)',44.252254,-76.460523
+132,'','Barrett Court (West Side Of Highway 15)',44.249332,-76.461105
+133,'','Barrett Court (East Side Of Highway 15)',44.249313,-76.460876
+134,'','Medley Court (West Side Of Highway 15)',44.252837,-76.460839
 136,'','Windfield Crescent (South Side Of Grenadier Drive)',44.254933,-76.459514
 137,'','Regency Court (South Side Of Grenadier)',44.25788,-76.454054
-139,'','226 Gore Road (North Side)',44.259608,-76.455977
+139,'','Rideau Town Centre (North Side Of Gore)',44.259613,-76.455978
 140,'','Dalgleish Avenue (North Side Of Gore Road)',44.25933,-76.459029
 141,'','Esdon Street (West Side Of Guthrie)',44.272195,-76.481721
 142,'','Esdon Street (East Side Of Guthrie)',44.272403,-76.481245
@@ -455,7 +455,7 @@
 516,'','Kingsdale Avenue (East Side Of Armstrong)',44.241925,-76.542971
 517,'','Armstrong Road (South Side Of Kingsdale)',44.241898,-76.543569
 518,'','Owens Crescent (South Side Of Kingsdale)',44.241535,-76.547584
-519,'','Owens Crescent (North Side Of Kingsdale)',44.241667,-76.547698
+519,'','259 Kingsdale Avenue (North Side)',44.241667,-76.547698
 520,'','Lake Ontario Park (South Side Of King)',44.220156,-76.529289
 521,'','Country Club Drive (North Side Of King)',44.220377,-76.529336
 523,'','Trailhead Place (North Side Of King)',44.220154,-76.538259
@@ -542,8 +542,8 @@
 613,'','645 Gardiners Road (West Side)',44.243567,-76.567967
 614,'','660 Progress Avenue (North Side)',44.246695,-76.569284
 615,'','Gardiners Road (South Side Of Progress)',44.246541,-76.568398
-616,'','753 Gardiners Road (West Side)',44.248812,-76.568396
-617,'','RioCan Centre (East Side Of Gardiners)',44.24785,-76.568038
+616,'','Arlington Park Place (West Side Of Gardiners)',44.248812,-76.568396
+617,'','Arlington Park Place (East Side Of Gardiners)',44.24785,-76.568038
 618,'','Blackburn Mews (North Side Of Taylor-Kidd)',44.250687,-76.570609
 619,'','780 Old Colony Road (East Side)',44.250624,-76.575291
 621,'','Holy Cross Secondary (South Side Of Woodbine)',44.258345,-76.596864
@@ -632,24 +632,24 @@
 716,'','Hyde Street (East Side Of Lakeview)',44.222911,-76.571962
 717,'','Henderson Boulevard (West Side Of Lakeview)',44.227639,-76.57255
 718,'','McEwen Drive (West Side Of Lakeview)',44.224021,-76.572226
-725,'','43 Grant Timmins Drive (South Side)',44.266844,-76.528418
+725,'','43 Grant Timmins Drive (South Side)',44.267088,-76.528818
 726,'','Binnington Court (North Side Of Dalton)',44.270288,-76.52863
 727,'','93 Grant Timmins Drive (South Side)',44.267436,-76.525053
 728,'','Dalton Avenue (East Side Of Grant Timmins)',44.269298,-76.523089
-731,'','289 Kingsdale Avenue (North Side)',44.241702,-76.545959
+731,'','Owens Crescent (North Side Of Kingsdale)',44.241777,-76.544575
 732,'','284 Kingsdale Avenue (South Side)',44.241619,-76.545139
 733,'','Tanner Drive (North Side Of Bath)',44.236873,-76.559501
 734,'','Tanner Drive (South Side Of Bath)',44.237135,-76.559826
 735,'','Ridley Drive (North Side Of Norwest)',44.257264,-76.577036
 736,'','Norwest Road (East Side Of Ridley)',44.257107,-76.576895
 737,'','Hudson Park (North Side Of Hudson)',44.243733,-76.585512
-739,'','2774 Princess Street (North Side)',44.259475,-76.581311
+739,'','Princess Street East Of Bayridge Dr. (North Side)',44.259475,-76.581311
 740,'','2697 Princess Street (South Side)',44.258622,-76.576862
 741,'','2698 Princess Street (North Side)',44.258825,-76.576571
 742,'','Peachwood Street (West Side Of Birchwood)',44.27034,-76.578628
 743,'','Peachwood Street (East Side Of Birchwood)',44.270158,-76.578417
 744,'','2485 Princess Street (South Side)',44.258155,-76.566225
-745,'','King''S Crossing Mall (West Side Of Division)',44.264196,-76.498534
+745,'','First Canada Avenue (West Side Of Division)',44.264196,-76.498534
 746,'','King''S Crossing Mall (East Side Of Division)',44.263662,-76.498175
 749,'','358 Yonge Street (West Side)',44.229003,-76.518415
 750,'','Churchill Street (West Side Of Portsmouth)',44.222414,-76.525416
@@ -731,6 +731,7 @@
 851,'','Atkinson Street (West Side Of Centennial)',44.267253,-76.559329
 852,'','Emerald Street (South Side Of Crossfield)',44.264288,-76.557559
 854,'','Cataraqui Woods Drive (West Side Of Midland)',44.266605,-76.57426
+855,'','Seniors Centre (East Side Of Francis)',44.224719,-76.521791
 856,'','1341 Crossfield Avenue (South Side)',44.264302,-76.554708
 857,'','1181 Crossfield Avenue (South Side)',44.264811,-76.54973
 858,'','Chadwick Parkette (West Side Of Andersen)',44.26207,-76.548493
@@ -847,8 +848,9 @@
 9051,'','263 Chelsea Road (West Side)',44.224539,-76.575099
 9053,'','Bayridge Centre (North Side Of Taylor-Kidd)',44.250679,-76.590258
 9054,'','Bayridge Drive (South Side Of Taylor-Kidd)',44.250174,-76.589294
-9055,'','Highway 15 (South Side Of Craftsman)',44.246233,-76.461869
+9055,'','Highway 15 (South Side Of Craftsman)',44.246158,-76.461706
 9057,'','Princess Street East Of Bayridge (South Side)',44.259275,-76.581373
 9060,'','117 Sherwood Avenue (North Side)',44.225621,-76.646641
 9061,'','Amherst Drive (East Side Of Manitou)',44.227101,-76.651047
 9062,'','Bayridge Secondary (South Side Of Taylor-Kidd)',44.251513,-76.594664
+9226,'','Grenadier Drive (East Side Of Highway 15)',44.253788,-76.460387
