@@ -5,7 +5,7 @@ Kingston Transit buses for MonTransit BETA
 Schedule…
 ----------
 What's new in this version?:
-Schedule from December 17, 2014 to May 3, 2015.
+Schedule from March 20, 2015 to May 3, 2015.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
@@ -28,7 +28,7 @@ https://www.cityofkingston.ca/residents/transit/about
 This application is free and open-source:
 https://github.com/mtransitapps/ca-kingston-transit-bus-android
 
-This app is not related with the Corporation of the City of Kingston and Kingston Transit .
+This app is not related with the Corporation of the City of Kingston and Kingston Transit.
 ----------
 Application type: Applications
 ----------
