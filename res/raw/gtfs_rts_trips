@@ -2,14 +2,14 @@
 100,0,'St. Lawrence College',1
 201,0,'Division St',2
 200,0,'Kingston Centre',2
-300,0,'Downtown Via Queen Mary Rd',3
-301,0,'Kingston Centre Via Queen Mary Rd',3
-401,0,'Cataraqui Centre Via Princess St',4
-400,0,'Downtown Via Princess St.',4
+300,0,'Downtown',3
+301,0,'Kingston Centre',3
+401,0,'Cataraqui Centre',4
+400,0,'Downtown',4
 601,0,'Cataraqui Centre',6
 600,0,'St. Lawrence College',6
-700,0,'Dalton/Division Via John Counter Blvd',7
-701,0,'Invista Centre Via John Counter Blvd',7
+700,0,'Dalton/Division',7
+701,0,'Invista Centre',7
 900,0,'Brock St/Barrie St',9
 901,0,'Cataraqui Centre',9
 1001,0,'Amherstview',10
@@ -19,14 +19,14 @@
 1201,0,'Highway 15',12
 1200,0,'Kingston Centre',12
 1400,0,'Crossfield Ave/Waterloo Dr',14
-1501,0,'Cataraqui Centre/Cataraqui Woods',15
+1501,0,'Cataraqui',15
 1500,0,'Reddendale',15
-1601,0,'Bus Terminal Via Kingston Centre',16
-1600,0,'Train Station Via Kingston Centre',16
+1601,0,'Bus Terminal',16
+1600,0,'Train Station',16
 1700,0,'Queen''S Shuttle - Main Campus',17
 1800,0,'Train Station Circuit',18
 1901,0,'Montreal St. Park & Ride',19
-1900,0,'Queen''S/KGH Via Downtown',19
+1900,0,'Queen''S/KGH',19
 50100,0,'Express',501
 50201,0,'Express',502
 101200,0,'CFB Kingston',1012
