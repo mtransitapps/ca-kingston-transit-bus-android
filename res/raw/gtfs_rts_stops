@@ -32,8 +32,6 @@
 33,'','Invista (South Side Of Front)',44.218866,-76.559268
 34,'','Commodore''S Cove (South Side Of King)',44.219969,-76.539575
 35,'','McEwen Dr (North Side Of Bath)',44.237669,-76.57423
-36,'','Duncan McArthur Hall (South Side Of Drway)',44.223469,-76.515282
-37,'','Duncan McArthur Hall (North Side Of Drway)',44.22363,-76.515356
 39,'','Taylor-Kidd Blvd (East Side Of Progress)',44.248204,-76.578164
 40,'','775 Progress Ave (South Side)',44.247564,-76.577801
 41,'','Futures Gate (South Side Of Princess)',44.258027,-76.553042
@@ -621,13 +619,6 @@
 700,'','St. Martha St (South Side Of Rose Abbey)',44.266354,-76.447311
 701,'','Rose Abbey Dr (East Side Of Hwy 15)',44.268057,-76.452128
 702,'','Greenlees Dr (East Side Of Hwy 15)',44.265999,-76.454432
-705,'','John Orr Tower (West Side Of Drway)',44.225801,-76.514185
-706,'','John Orr Tower (East Side Of Drway)',44.225694,-76.514052
-707,'','Jean Royce Hall (North Side Of Drway)',44.224596,-76.51613
-708,'','Jean Royce Hall (South Side Of Drway)',44.224499,-76.516011
-709,'','Earl St (East Side Of University Ave)',44.22976,-76.495514
-710,'','Victoria Hall (North Side Of Bader)',44.225056,-76.498223
-711,'','Victoria Hall (South Side Of Bader)',44.22489,-76.498467
 712,'','INVISTA Centre',44.276089,-76.568368
 716,'','Hyde St (East Side Of Lakeview)',44.222911,-76.571962
 717,'','Henderson Blvd (West Side Of Lakeview)',44.227639,-76.57255
