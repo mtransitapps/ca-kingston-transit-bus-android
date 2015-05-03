@@ -5,7 +5,7 @@ Kingston Transit buses for MonTransit BETA
 Schedule…
 ----------
 What's new in this version?:
-Schedule from April 26, 2015 to May 3, 2015.
+Schedule from May 4, 2015 to September 7, 2015.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
