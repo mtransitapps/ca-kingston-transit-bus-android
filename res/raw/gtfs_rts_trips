@@ -10,23 +10,20 @@
 600,0,'St. Lawrence College',6
 700,0,'Dalton/Division',7
 701,0,'Invista Centre',7
-900,0,'Brock St/Barrie St',9
-901,0,'Cataraqui Centre',9
 1001,0,'Amherstview',10
 1000,0,'Cataraqui Centre',10
 1101,0,'Cataraqui Centre',11
 1100,0,'Kingston Centre',11
-1201,0,'Highway 15',12
 1200,0,'Kingston Centre',12
-1400,0,'Crossfield Ave/Waterloo Dr',14
+1400,0,'Crossfield Ave/Waterloo Dr/Old Colony Rd',14
 1501,0,'Cataraqui',15
 1500,0,'Reddendale',15
 1601,0,'Bus Terminal',16
 1600,0,'Train Station',16
 1800,0,'Train Station Circuit',18
-1901,0,'Montreal St. Park & Ride',19
-1900,0,'Queen''S/KGH',19
 50100,0,'Express',501
 50201,0,'Express',502
-101200,0,'CFB Kingston',1012
-101201,0,'Downtown',1012
+60101,0,'Express - Queen''S/KGH',601
+60200,0,'Express - Innovation Dr',602
+70100,0,'Express - Cataraqui Centre',701
+70201,0,'Express - King''S Crossing',702
