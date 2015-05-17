@@ -1,10 +1,10 @@
-1,'','Montreal St Park & Ride',44.278803,-76.472478
+1,'','Montreal St Pk & Ride',44.278803,-76.472478
 2,'','Downing St (North Side Of Hudson)',44.248738,-76.59734
-3,'','Bayridge Park (East Side Of Hudson)',44.247209,-76.59402
+3,'','Bayridge Pk (East Side Of Hudson)',44.247209,-76.59402
 4,'','Holgate Cr (North Side Of Hudson)',44.245049,-76.592393
 5,'','Holgate Cr (South Side Of Hudson)',44.244901,-76.592618
 6,'','Sheridan St (West Side Of Andersen)',44.260393,-76.549104
-7,'','W. J. Henderson Recreation Centre',44.22594,-76.658933
+7,'','W. J. Henderson Recreation Ctr',44.22594,-76.658933
 8,'','Collins Bay School (North Side Of Bath)',44.240991,-76.611012
 10,'','Barnsley Cr (South Side Of Acadia)',44.232194,-76.59637
 11,'','1071 Acadia Dr (South Side)',44.232302,-76.594344
@@ -19,7 +19,7 @@
 20,'','Lower Dr (South Side Of Bath)',44.235592,-76.621216
 21,'','Homeward Ave (North Side Of Bath)',44.231803,-76.625191
 22,'','Homeward Ave (South Side Of Bath)',44.231497,-76.625153
-23,'','Maple Ridge Dr (North Side Of Bath)',44.22805,-76.627525
+23,'','Maple Rdg Dr (North Side Of Bath)',44.22805,-76.627525
 24,'','Coronation Blvd (South Side Of Bath)',44.224951,-76.628967
 25,'','Coronation Blvd (North Side Of Bath)',44.225073,-76.629173
 26,'','Sackville Cr (South Side Of Acadia)',44.232929,-76.598081
@@ -30,16 +30,16 @@
 31,'','Conservatory Pond (North Side Of Coverdale)',44.237438,-76.592063
 32,'','Brock St (North Side) East Of Bagot St',44.230997,-76.484183
 33,'','Invista (South Side Of Front)',44.218866,-76.559268
-34,'','Commodore''s Cove (South Side Of King)',44.219969,-76.539575
+34,'','Trailhead Pl (South Side Of King)',44.219908,-76.538267
 35,'','McEwen Dr (North Side Of Bath)',44.237669,-76.57423
 39,'','Taylor-Kidd Blvd (East Side Of Progress)',44.248204,-76.578164
 40,'','775 Progress Ave (South Side)',44.247564,-76.577801
-41,'','Futures Gate (South Side Of Princess)',44.258027,-76.553042
+41,'','Futures Gt (South Side Of Princess)',44.258027,-76.553042
 42,'','King St E. (South Side Of Princess)',44.231347,-76.481421
 43,'','Parkway (North Side Of Princess)',44.251339,-76.532871
 44,'','Parkway (South Side Of Princess)',44.251381,-76.533556
 48,'','Assurant (West Side Of Gardiners)',44.272013,-76.569326
-50,'','Trillium Ridge (West Side Of Edgar)',44.250517,-76.552933
+50,'','Trillium Rdg (West Side Of Edgar)',44.250517,-76.552933
 51,'','Rockford Pl (North Side Of Elliott)',44.256214,-76.501465
 52,'','John Counter Blvd (East Side Of Leroy Grant)',44.258819,-76.506039
 53,'','Russell St (West Side Of Montreal)',44.244218,-76.487762
@@ -54,16 +54,16 @@
 64,'','Windfield Cr (North Side)',44.255015,-76.459814
 65,'','McCallum St (West Side Of Rose Abbey)',44.263964,-76.446798
 68,'','Truedell Rd (South Side Of Development)',44.240701,-76.579773
-69,'','Maple Ridge Dr (South Side Of Bath)',44.228131,-76.62722
+69,'','Maple Rdg Dr (South Side Of Bath)',44.228131,-76.62722
 70,'','Fraser St (West Side Of Division)',44.245348,-76.495562
 73,'','Rockford Pl (South Side Of Elliott)',44.256124,-76.50076
-75,'','Tivoli & Sierra Aves (South Side Of Tivoli)',44.272702,-76.576888
+75,'','Tivoli & Sierra Avenues (South Side Of Tivoli)',44.272702,-76.576888
 77,'','Loblaws (East Side Of Midland)',44.260567,-76.57396
 78,'','Cataraqui Woods Dr (East Side Of Midland)',44.268654,-76.574096
 79,'','Barriefield (East Side Of Hwy 15)',44.241349,-76.459008
 80,'','Givenchy St (South Side Of Craftsman)',44.243309,-76.45163
-81,'','Sicily Dr (West Side Of Niagara Park)',44.237674,-76.455316
-82,'','Lundy''s Ln (East Side Of Niagara Park)',44.236002,-76.45418
+81,'','Sicily Dr (West Side Of Niagara Pk)',44.237674,-76.455316
+82,'','Lundy''s Ln (East Side Of Niagara Pk)',44.236002,-76.45418
 83,'','49 Lundy''s Ln (North Side)',44.237692,-76.451153
 84,'','Batoche Ave (North Side Of Lundy''s)',44.237978,-76.448514
 85,'','13 Lundy''s Ln (South Side)',44.238156,-76.444525
@@ -77,10 +77,10 @@
 94,'','Kimberley St (East Side Of Old Colony)',44.252016,-76.576939
 96,'','Ridley Dr (East Side Of Old Colony)',44.253841,-76.577244
 97,'','Norwest Rd (West Side Of Midland)',44.257052,-76.574201
-98,'','Bexley Gate (North Side Of Taylor-Kidd)',44.251253,-76.561299
+98,'','Bexley Gt (North Side Of Taylor-Kidd)',44.251253,-76.561299
 100,'','Milford Dr (South Side Of Taylor-Kidd)',44.247966,-76.581779
-101,'','RioCan Centre (East Side Of Drway)',44.244917,-76.565368
-103,'','RioCan Centre (West Side Of Drway)',44.244954,-76.565499
+101,'','RioCan Ctr (East Side Of Driveway)',44.244917,-76.565368
+103,'','RioCan Ctr (West Side Of Driveway)',44.244954,-76.565499
 105,'','768 Aylmer Cr (East Side)',44.24817,-76.614334
 107,'','Albert St (North Side Of Union)',44.227303,-76.500075
 108,'','Albert St (South Side Of Johnson)',44.231529,-76.499329
@@ -95,16 +95,16 @@
 119,'','Lance St (North Side Of Craftsman)',44.243793,-76.447231
 120,'','Givenchy St (North Side Of Craftsman)',44.243447,-76.45175
 121,'','48 Lundy''s Ln (South Side)',44.237565,-76.451195
-122,'','6 Niagara Park Dr (South Side)',44.235772,-76.453854
-123,'','Canex (East Side Of Niagara Park)',44.238021,-76.455173
-124,'','Canex (West Side Of Niagara Park)',44.23936,-76.455484
+122,'','6 Niagara Pk Dr (South Side)',44.235772,-76.453854
+123,'','Canex (East Side Of Niagara Pk)',44.238021,-76.455173
+124,'','Canex (West Side Of Niagara Pk)',44.23936,-76.455484
 125,'','Apprentice St (North Side Of Craftsman)',44.24317,-76.455264
 126,'','Hwy 2 / Royal Military College (South Side)',44.237024,-76.465157
 127,'','Hwy 2 / Royal Military College (North Side)',44.23646,-76.467285
 128,'','Constantine Arena (North Side Of Hwy 2)',44.235915,-76.468478
 132,'','Barrett Court (West Side Of Hwy 15)',44.249332,-76.461105
 134,'','Medley Court (West Side Of Hwy 15)',44.252837,-76.460839
-139,'','Rideau Town Centre (North Side Of Gore)',44.259613,-76.455978
+139,'','Rideau Town Ctr (North Side Of Gore)',44.259613,-76.455978
 141,'','Esdon St (West Side Of Guthrie)',44.272195,-76.481721
 142,'','Esdon St (East Side Of Guthrie)',44.272403,-76.481245
 143,'','1382 Montreal St (West Side)',44.272289,-76.478185
@@ -168,20 +168,20 @@
 206,'','230 Conacher Dr / Walkway (South Side)',44.26564,-76.491333
 207,'','235 Conacher Dr (North Side)',44.265768,-76.491195
 208,'','300 Conacher Dr (South Side)',44.266198,-76.494725
-209,'','Kingslake Plaza (South Side Of Benson)',44.266344,-76.497317
+209,'','Kingslake Plz (South Side Of Benson)',44.266344,-76.497317
 210,'','Division St (North Side Of Benson)',44.266486,-76.497336
 212,'','Briceland St (East Side Of Montreal)',44.259587,-76.48168
 213,'','John Counter Blvd (East Side Of Montreal)',44.257127,-76.482809
-216,'','Derby Gate Cr (North Side Of Elliott)',44.256373,-76.498602
+216,'','Derby Gt Cr (North Side Of Elliott)',44.256373,-76.498602
 217,'','Rigney St (North Side Of John Counter)',44.259561,-76.502978
 218,'','Rigney St (South Side Of John Counter)',44.259403,-76.503032
 219,'','Wycliffe Cr (South Side Of Elliott)',44.256043,-76.502086
 220,'','Adley Pl (South Side Of Elliott)',44.255935,-76.504635
-222,'','Village Dr (East Side Of Montreal)',44.254814,-76.483168
+222,'','Vlg Dr (East Side Of Montreal)',44.254814,-76.483168
 223,'','Hickson Ave (East Side Of Montreal)',44.252758,-76.48494
 224,'','Hickson Ave (West Side Of Montreal)',44.252824,-76.485114
 225,'','Royal Canadian Legion (West Side Of Montreal)',44.251305,-76.485683
-226,'','Belle Park (East Side Of Montreal)',44.25115,-76.485444
+226,'','Belle Pk (East Side Of Montreal)',44.25115,-76.485444
 227,'','687 Montreal St (East Side)',44.250128,-76.485671
 228,'','670 Montreal St (West Side)',44.249904,-76.486019
 229,'','Railway St (East Side Of Montreal)',44.248755,-76.486387
@@ -212,8 +212,8 @@
 261,'','Rideau St (South Side Of North)',44.236939,-76.482825
 262,'','North St (West Side Of Bagot)',44.236373,-76.483949
 264,'','North St (East Side Of Montreal)',44.236355,-76.485005
-265,'','Artillery Park (West Side Of Bagot)',44.234142,-76.483928
-266,'','K-Rock Centre (West Side Of Ontario)',44.233332,-76.478892
+265,'','Artillery Pk (West Side Of Bagot)',44.234142,-76.483928
+266,'','K-Rock Ctr (West Side Of Ontario)',44.233332,-76.478892
 269,'','Queen St (East Side Of Montreal)',44.233185,-76.485106
 270,'','Sydenham St (South Side Of Princess)',44.232222,-76.487013
 271,'','342 Princess St (South Side)',44.232695,-76.490086
@@ -263,12 +263,12 @@
 322,'','Maitland St (South Side Of King)',44.223913,-76.48795
 323,'','Barrie St (North Side Of King)',44.222787,-76.490848
 324,'','George St (South Side Of King)',44.222633,-76.491309
-325,'','Palace Rd (North Side Of Park)',44.2382,-76.514143
+325,'','Palace Rd (North Side Of Pk)',44.2382,-76.514143
 326,'','Wright Cr (East Side Of Palace)',44.239495,-76.514278
-327,'','Park St (West Side Of Palace)',44.238344,-76.514337
-328,'','Helen St (North Side Of Park)',44.238322,-76.512081
-329,'','Helen St (South Side Of Park)',44.238188,-76.512139
-330,'','Regent St (North Side Of Park)',44.238466,-76.509861
+327,'','Pk St (West Side Of Palace)',44.238344,-76.514337
+328,'','Helen St (North Side Of Pk)',44.238322,-76.512081
+329,'','Helen St (South Side Of Pk)',44.238188,-76.512139
+330,'','Regent St (North Side Of Pk)',44.238466,-76.509861
 331,'','Dunlop St (East Side Of Regent)',44.237118,-76.509148
 332,'','Dunlop St (West Side Of Regent)',44.237014,-76.50935
 333,'','Carruthers Ave (West Side Of Regent)',44.235597,-76.509182
@@ -314,7 +314,7 @@
 383,'','Sir John A Macdonald Blvd (North Side Of Princess)',44.2454,-76.520563
 384,'','Jane Ave (West Side Of Ave)',44.246701,-76.518968
 385,'','McMahon Ave (West Side Of Ave)',44.250184,-76.519171
-386,'','Avenue Rd (South Side Of Glengarry)',44.252863,-76.519955
+386,'','Ave Rd (South Side Of Glengarry)',44.252863,-76.519955
 387,'','Seaforth Rd (South Side Of Glengarry)',44.252709,-76.523413
 388,'','McMichael St (South Side Of Glengarry)',44.252618,-76.525669
 389,'','Portsmouth Ave (South Side Of Glengarry)',44.252331,-76.52941
@@ -323,7 +323,7 @@
 392,'','Indian Rd (North Side Of Champlain)',44.255222,-76.527123
 393,'','Indian Rd (North Side Of Old Quarry)',44.25718,-76.525717
 394,'','Old Quarry Rd (West Side Of Aberfoyle)',44.25745,-76.522224
-396,'','Train Station Transfer Point',44.257527,-76.53663
+396,'','Train Sta Transfer Pt',44.257527,-76.53663
 397,'','Taylor-Kidd Blvd (South Side Of Princess)',44.256577,-76.541683
 398,'','John Counter Blvd (North Side Of Princess)',44.257455,-76.542285
 399,'','Kingston Gospel Temple (South Side Of Princess)',44.257988,-76.548342
@@ -343,8 +343,8 @@
 415,'','Livingston Ave (South Side Of King)',44.221355,-76.508924
 416,'','Livingston Ave (North Side Of King)',44.22153,-76.508164
 417,'','The Isabel/Tett Centres (South Side Of King)',44.221524,-76.506548
-418,'','Centre St (North Side Of King)',44.221719,-76.504441
-419,'','Centre St (South Side Of King)',44.221798,-76.504741
+418,'','Ctr St (North Side Of King)',44.221719,-76.504441
+419,'','Ctr St (South Side Of King)',44.221798,-76.504741
 420,'','Beverley St (South Side Of King)',44.222163,-76.501907
 421,'','Beverley St (North Side Of King)',44.222244,-76.502024
 422,'','Albert St (North Side Of King)',44.222603,-76.499296
@@ -361,9 +361,9 @@
 433,'','Albert St (South Side Of Union)',44.227202,-76.499889
 436,'','Beverley St (South Side Of Union)',44.226627,-76.502609
 437,'','Victoria St (North Side Of Union)',44.226873,-76.502334
-438,'','Centre St (North Side Of Union)',44.226025,-76.505031
-439,'','Centre St (South Side Of Union)',44.22591,-76.505007
-440,'','St Mary''s Of The Lake Hosp. (North Side Of Union)',44.225472,-76.506925
+438,'','Ctr St (North Side Of Union)',44.226025,-76.505031
+439,'','Ctr St (South Side Of Union)',44.22591,-76.505007
+440,'','St Mary''s Of The Lk Hosp. (North Side Of Union)',44.225472,-76.506925
 441,'','Pembroke St (North Side Of Union)',44.22457,-76.509805
 442,'','Alwington Ave (South Side Of Union)',44.223837,-76.511756
 444,'','Queen''s West Campus (North Side Of Union)',44.22337,-76.513975
@@ -375,7 +375,7 @@
 450,'','Herbert St (East Side Of Mowat)',44.225186,-76.520381
 451,'','Francis St (South Side Of Churchill)',44.222565,-76.521629
 452,'','Cartwright Ave (North Side Of Churchill)',44.222558,-76.523798
-454,'','Seniors Centre (West Side Of Francis)',44.224483,-76.521931
+454,'','Seniors Ctr (West Side Of Francis)',44.224483,-76.521931
 455,'','Yonge St (South Side Of Union)',44.222207,-76.517284
 456,'','Yonge St (North Side Of Union)',44.222025,-76.51803
 457,'','Sierra Ave (East Side Of Birchwood)',44.271908,-76.578333
@@ -387,8 +387,8 @@
 464,'','Calderwood Dr (East Side Of Portsmouth)',44.224453,-76.525419
 465,'','KFL&A Health Unit (East Side Of Portsmouth)',44.227063,-76.525701
 467,'','Nickle Ave (West Side Of Portsmouth)',44.227041,-76.525876
-468,'','High Gate Park Dr (South Side Of Prince Charles',44.247259,-76.604789
-469,'','Glen Cove St (South Side Of Prince Charles)',44.246944,-76.609337
+468,'','High Gt Pk Dr (South Side Of Prince Charles',44.247259,-76.604789
+469,'','Gln Cv St (South Side Of Prince Charles)',44.246944,-76.609337
 470,'','Edwin St (East Side Of Waverley)',44.246597,-76.611088
 471,'','Mulcaster St (East Side Of Norman Rogers)',44.235324,-76.522916
 472,'','Van Order Dr (North Side Of Norman Rogers)',44.233857,-76.515842
@@ -420,11 +420,11 @@
 498,'','Metcalfe Ave (West Side Of Van Order)',44.237415,-76.520021
 499,'','164 Van Order Dr (South Side)',44.238487,-76.522312
 500,'','Machar Pl (North Side Of Van Order)',44.238532,-76.521828
-501,'','Kingston Centre - Northeast Bay',44.242145,-76.51677
+501,'','Kingston Ctr - Northeast Bay',44.242145,-76.51677
 502,'','Miles Ave (North Side Of Robert Wallace)',44.234694,-76.528255
 503,'','Miles Ave (South Side Of Robert Wallace)',44.234602,-76.528359
-504,'','Polson Park School (South Side Of Robert Wallace)',44.234751,-76.529552
-505,'','Polson Park School (North Side Of Robert Wallace)',44.234854,-76.529637
+504,'','Polson Pk School (South Side Of Robert Wallace)',44.234751,-76.529552
+505,'','Polson Pk School (North Side Of Robert Wallace)',44.234854,-76.529637
 506,'','Elmwood St (East Side Of Portsmouth)',44.24115,-76.529012
 507,'','Queen Mary Rd (South Side Of Robert Wallace)',44.234415,-76.532866
 508,'','Portsmouth Ave (North Side Of Bath)',44.239456,-76.530335
@@ -438,7 +438,7 @@
 517,'','Armstrong Rd (South Side Of Kingsdale)',44.241898,-76.543569
 518,'','Owens Cr (South Side Of Kingsdale)',44.241535,-76.547584
 519,'','259 Kingsdale Ave (North Side)',44.241667,-76.547698
-520,'','Lake Ontario Park (South Side Of King)',44.220156,-76.529289
+520,'','Lk Ontario Pk (South Side Of King)',44.220156,-76.529289
 521,'','Country Club Dr (North Side Of King)',44.220377,-76.529336
 522,'','1031 King St West (North Side)',44.220077,-76.535415
 523,'','Trailhead Pl (North Side Of King)',44.220154,-76.538259
@@ -453,10 +453,10 @@
 535,'','Sunny Acres Rd (North Side Of Front)',44.218757,-76.564675
 536,'','Bishop St (North Side Of Front)',44.218616,-76.567106
 537,'','Bishop St (South Side Of Front)',44.218419,-76.567326
-539,'','Crystal Springs (North Side Of Front)',44.218328,-76.572445
+539,'','Crystal Spgs (North Side Of Front)',44.218328,-76.572445
 540,'','Woodside Dr (West Side Of Mona)',44.252799,-76.602313
-542,'','234 Glen Castle Rd (East Side)',44.223467,-76.578291
-545,'','Glen Castle Rd (West Side Of Chelsea)',44.219714,-76.574224
+542,'','234 Gln Castle Rd (East Side)',44.223467,-76.578291
+545,'','Gln Castle Rd (West Side Of Chelsea)',44.219714,-76.574224
 546,'','Evelyn St (East Side Of Lakeview)',44.221088,-76.571787
 547,'','Evelyn St (West Side Of Lakeview)',44.221423,-76.571973
 548,'','Old Colony Rd (North Side Of Ridley)',44.254004,-76.577329
@@ -475,14 +475,14 @@
 562,'','Vista Dr (South Side Of Bath)',44.23715,-76.582642
 563,'','Roosevelt Dr (East Side Of Knightsbridge)',44.233443,-76.578589
 564,'','Vista Dr (North Side Of Roosevelt)',44.234445,-76.583723
-565,'','420 Glen Castle Rd (South Side)',44.231647,-76.579155
+565,'','420 Gln Castle Rd (South Side)',44.231647,-76.579155
 566,'','860 Norwest Rd (North Side)',44.257436,-76.574692
 567,'','Henderson Blvd (East Side Of McEwen)',44.228501,-76.573612
 568,'','Henderson Blvd (West Side Of McEwen)',44.228358,-76.573784
-569,'','Henderson Blvd (East Side Of Glen Castle)',44.22796,-76.579421
+569,'','Henderson Blvd (East Side Of Gln Castle)',44.22796,-76.579421
 570,'','Springfield Dr (West Side Of Roosevelt)',44.22977,-76.588675
 571,'','672 Roosevelt Dr (West Side)',44.231817,-76.588691
-572,'','Trimble Gate (North Side Of Roosevelt)',44.234859,-76.586932
+572,'','Trimble Gt (North Side Of Roosevelt)',44.234859,-76.586932
 575,'','Conservatory Pond (South Side Of Coverdale)',44.237248,-76.592189
 576,'','Evangeline Ave (North Side Of Acadia)',44.232406,-76.594364
 577,'','Barnsley Cr (North Side Of Acadia)',44.232308,-76.596425
@@ -500,15 +500,15 @@
 589,'','745 Davis Dr (North Side)',44.256026,-76.564287
 590,'','425 Knightsbridge Rd (West Side)',44.233183,-76.578825
 591,'','Bigham Crourt (South Side Of Davis)',44.252886,-76.564196
-592,'','419 Glen Castle Rd (North Side)',44.231768,-76.579021
-593,'','Whistler Terrace (South Side Of Davis)',44.252265,-76.561975
-594,'','Henderson Blvd (West Side Of Glen Castle)',44.228306,-76.579592
-595,'','Bexley Gate (South Side Of Davis)',44.251693,-76.560597
-596,'','Chelsea Rd (West Side Of Glen Castle)',44.226096,-76.579404
+592,'','419 Gln Castle Rd (North Side)',44.231768,-76.579021
+593,'','Whistler Ter (South Side Of Davis)',44.252265,-76.561975
+594,'','Henderson Blvd (West Side Of Gln Castle)',44.228306,-76.579592
+595,'','Bexley Gt (South Side Of Davis)',44.251693,-76.560597
+596,'','Chelsea Rd (West Side Of Gln Castle)',44.226096,-76.579404
 597,'','McKay St (South Side Of Development)',44.241275,-76.576584
 598,'','McKay St (North Side Of Development)',44.241267,-76.577127
 599,'','Brookside Dr (North Side Of Prince Charles)',44.247104,-76.608523
-600,'','High Gate Park Dr (North Side Of Prince Charles',44.247389,-76.604524
+600,'','High Gt Pk Dr (North Side Of Prince Charles',44.247389,-76.604524
 601,'','Taylor-Kidd Blvd (West Side Of Liston)',44.251745,-76.594507
 602,'','865 Lancaster Dr (West Side)',44.254793,-76.589856
 603,'','917 Lancaster Dr (South Side)',44.256415,-76.591421
@@ -522,8 +522,8 @@
 612,'','Development Dr (East Side Of Gardiners)',44.241693,-76.567589
 614,'','660 Progress Ave (North Side)',44.246695,-76.569284
 615,'','Gardiners Rd (South Side Of Progress)',44.246541,-76.568398
-616,'','Arlington Park Pl (West Side Of Gardiners)',44.248812,-76.568396
-617,'','Arlington Park Pl (East Side Of Gardiners)',44.24785,-76.568038
+616,'','Arlington Pk Pl (West Side Of Gardiners)',44.248812,-76.568396
+617,'','Arlington Pk Pl (East Side Of Gardiners)',44.24785,-76.568038
 618,'','Blackburn Mews (North Side Of Taylor-Kidd)',44.250687,-76.570609
 619,'','780 Old Colony Rd (East Side)',44.250624,-76.575291
 621,'','Holy Cross Secondary (South Side Of Woodbine)',44.258345,-76.596864
@@ -534,7 +534,7 @@
 626,'','966 Mona Dr (East Side)',44.25388,-76.606278
 627,'','917 Development Dr (South Side)',44.241029,-76.584796
 628,'','Hudson Dr (North Side Of Development)',44.241131,-76.584743
-629,'','Hudson Park (South Side Of Hudson)',44.243621,-76.58562
+629,'','Hudson Pk (South Side Of Hudson)',44.243621,-76.58562
 630,'','Laidlaw Cr (South Side Of Hudson)',44.245023,-76.589418
 631,'','988 Hudson Dr (North Side)',44.245158,-76.588903
 632,'','Pembridge Cr (North Side Of Taylor-Kidd)',44.249254,-76.585424
@@ -587,7 +587,7 @@
 682,'','1121 Hudson Dr (South Side)',44.248475,-76.599868
 684,'','Lakeview Ave (South Side Of Cranbrook)',44.219489,-76.571827
 685,'','Cranbrook St (East Side Of Chelsea)',44.219198,-76.573974
-687,'','290 Glen Castle Rd (East Side Of Glen Castle)',44.225854,-76.579205
+687,'','290 Gln Castle Rd (East Side Of Gln Castle)',44.225854,-76.579205
 689,'','1055 Hudson Dr (West Side)',44.247211,-76.594186
 690,'','Douglas Ave (North Side Of Elliott)',44.256124,-76.503758
 692,'','Milford Dr (North Side Of Taylor-Kidd)',44.248117,-76.580795
@@ -597,7 +597,7 @@
 697,'','Littlestone Cr (South Side Of Davis)',44.251579,-76.557863
 698,'','Vista Dr (North Side Of Bath)',44.237358,-76.584267
 700,'','St. Martha St (South Side Of Rose Abbey)',44.266354,-76.447311
-712,'','INVISTA Centre',44.276089,-76.568368
+712,'','INVISTA Ctr',44.276089,-76.568368
 716,'','Hyde St (East Side Of Lakeview)',44.222911,-76.571962
 717,'','Henderson Blvd (West Side Of Lakeview)',44.227639,-76.57255
 718,'','McEwen Dr (West Side Of Lakeview)',44.224021,-76.572226
@@ -612,7 +612,7 @@
 734,'','Tanner Dr (South Side Of Bath)',44.237135,-76.559826
 735,'','Ridley Dr (North Side Of Norwest)',44.257264,-76.577036
 736,'','Norwest Rd (East Side Of Ridley)',44.257107,-76.576895
-737,'','Hudson Park (North Side Of Hudson)',44.243733,-76.585512
+737,'','Hudson Pk (North Side Of Hudson)',44.243733,-76.585512
 739,'','Princess St East Of Bayridge Dr. (North Side)',44.259475,-76.581311
 740,'','2697 Princess St (South Side)',44.258622,-76.576862
 741,'','2698 Princess St (North Side)',44.258825,-76.576571
@@ -620,7 +620,7 @@
 743,'','Peachwood St (East Side Of Birchwood)',44.270158,-76.578417
 744,'','2485 Princess St (South Side)',44.258155,-76.566225
 745,'','1st Canada Ave (West Side Of Division)',44.264196,-76.498534
-746,'','King''s Crossing Mall (East Side Of Division)',44.263662,-76.498175
+746,'','King''s Xing Mall (East Side Of Division)',44.263662,-76.498175
 749,'','358 Yonge St (West Side)',44.229003,-76.518415
 750,'','Churchill St (West Side Of Portsmouth)',44.222414,-76.525416
 751,'','Baiden St (West Side Of Portsmouth)',44.221509,-76.525308
@@ -631,18 +631,18 @@
 761,'','Elmwood St (West Side Of Sir John A Macdonald)',44.242647,-76.51953
 762,'','Macdonnell St (North Side Of Concession)',44.241318,-76.505633
 765,'','Fairfield Blvd (North Side Of Amherst)',44.226263,-76.639039
-766,'','Upper Park Rd (North Side Of Amherst)',44.226105,-76.642479
+766,'','Upper Pk Rd (North Side Of Amherst)',44.226105,-76.642479
 767,'','Pittsfield St (North Side Of Amherst)',44.227116,-76.646518
 768,'','Manitou Cr (North Side Of Amherst)',44.227597,-76.650801
 774,'','Briscoe St (West Side Of Manitou)',44.221094,-76.649654
-775,'','Loyalist Plaza (South Side Of Manitou)',44.219388,-76.645455
+775,'','Loyalist Plz (South Side Of Manitou)',44.219388,-76.645455
 776,'','Sherwood Ave (South Side Of Manitou)',44.220002,-76.643417
 777,'','The Moorings (South Side Of Bath)',44.221462,-76.633553
 780,'','Kildare Ave (West Side Of Manitou)',44.223097,-76.6511
 782,'','Kildare Ave (East Side Of Kidd)',44.222274,-76.655041
 785,'','286 Amherst Dr (South Side)',44.227183,-76.654877
 787,'','Pittsfield St (South Side Of Amherst)',44.226842,-76.646699
-788,'','Upper Park Rd (South Side Of Amherst)',44.225883,-76.642591
+788,'','Upper Pk Rd (South Side Of Amherst)',44.225883,-76.642591
 789,'','Fairfield Blvd (South Side Of Amherst)',44.226031,-76.639204
 790,'','Henry Cr (West Side Of Loyalist)',44.226024,-76.636343
 791,'','Addington St (West Side Of Loyalist)',44.223126,-76.636169
@@ -657,10 +657,10 @@
 803,'','Henderson Blvd (East Side Of Lakeview)',44.228025,-76.572422
 804,'','Frontenac Secondary School (North Side Of Bath)',44.237833,-76.577243
 806,'','Centennial Dr (South Side Of Bath)',44.237431,-76.548205
-809,'','172 Glen Castle Rd (East Side)',44.220715,-76.5774
-810,'','Camberley Cr (East Side Of Glen Castle)',44.222486,-76.577568
+809,'','172 Gln Castle Rd (East Side)',44.220715,-76.5774
+810,'','Camberley Cr (East Side Of Gln Castle)',44.222486,-76.577568
 811,'','McEwen Dr (South Side Of Bath)',44.237462,-76.574973
-815,'','RioCan Centre (North Side Of Taylor-Kidd)',44.25098,-76.564802
+815,'','RioCan Ctr (North Side Of Taylor-Kidd)',44.25098,-76.564802
 816,'','940 Gardiners Rd (West Side)',44.257182,-76.568933
 818,'','École Secondaire Catholique Marie-Rivier',44.269264,-76.522146
 819,'','Fortune Cr (East Side Of Gardiners)',44.272025,-76.568916
@@ -671,15 +671,15 @@
 828,'','295 Dalton Ave (North Side)',44.268899,-76.512009
 829,'','259 Dalton Ave (North Side)',44.267981,-76.507579
 830,'','St. Remy Pl (South Side Of Dalton)',44.267858,-76.510365
-831,'','King''s Crossing Mall (North Side Of Dalton)',44.265887,-76.50358
+831,'','King''s Xing Mall (North Side Of Dalton)',44.265887,-76.50358
 832,'','Weller Ave (East Side Of 1st Canada)',44.26308,-76.497046
 833,'','MTO Office (South Side Of John Counter)',44.258976,-76.514841
 834,'','Aberfoyle Rd (North Side Of John Counter)',44.258995,-76.522664
 835,'','Aberfoyle Rd (South Side Of John Counter)',44.258909,-76.521714
 836,'','Indian Rd (North Side Of John Counter)',44.258954,-76.52528
 837,'','Indian Rd (South Side Of John Counter)',44.258826,-76.525261
-838,'','VIA Rail Station (North Side Of John Counter)',44.258762,-76.535521
-839,'','VIA Rail Station (South Side Of John Counter)',44.258585,-76.535442
+838,'','VIA Rail Sta (North Side Of John Counter)',44.258762,-76.535521
+839,'','VIA Rail Sta (South Side Of John Counter)',44.258585,-76.535442
 841,'','Norris Court (East Side Of Gardiners)',44.263105,-76.568621
 842,'','O''Connor Dr (East Side Of Gardiners)',44.259691,-76.56848
 843,'','Johnson St (East Side Of Portsmouth)',44.230605,-76.526058
@@ -692,7 +692,7 @@
 851,'','Atkinson St (West Side Of Centennial)',44.267253,-76.559329
 852,'','Emerald St (South Side Of Crossfield)',44.264288,-76.557559
 854,'','Cataraqui Woods Dr (West Side Of Midland)',44.266605,-76.57426
-855,'','Seniors Centre (East Side Of Francis)',44.224719,-76.521791
+855,'','Seniors Ctr (East Side Of Francis)',44.224719,-76.521791
 856,'','1341 Crossfield Ave (South Side)',44.264302,-76.554708
 857,'','1181 Crossfield Ave (South Side)',44.264811,-76.54973
 858,'','Chadwick Parkette (West Side Of Andersen)',44.26207,-76.548493
@@ -711,23 +711,23 @@
 1017,'','277 Bath Rd (North Side)',44.239879,-76.526026
 2001,'','Kirkpatrick St (West Side Of Division)',44.253245,-76.496787
 2002,'','Pembridge Cr (South Side Of Taylor-Kidd)',44.249032,-76.585456
-2003,'','Bayridge Centre (East Side Of Bayridge)',44.250759,-76.589329
-2004,'','Bayridge Centre (West Side Of Bayridge)',44.25175,-76.589214
-2007,'','Bus Terminal Transfer Point',44.260002,-76.506241
-2008,'','Lafleur Park (South Side Of Bath)',44.23998,-76.523326
+2003,'','Bayridge Ctr (East Side Of Bayridge)',44.250759,-76.589329
+2004,'','Bayridge Ctr (West Side Of Bayridge)',44.25175,-76.589214
+2007,'','Bus Terminal Transfer Pt',44.260002,-76.506241
+2008,'','Lafleur Pk (South Side Of Bath)',44.23998,-76.523326
 2009,'','Queen''s West Campus (South Side Of Union)',44.223031,-76.514471
 2010,'','Wellington St (West Side Of Hwy 15)',44.241263,-76.459233
 2012,'','Dalgleish Ave (West Side Of Rose Abbey)',44.261536,-76.449613
 2013,'','102 Virginia St (North Side)',44.27104,-76.485045
-2014,'','Bus Terminal Transfer Point On John Counter',44.259336,-76.505732
+2014,'','Bus Terminal Transfer Pt On John Counter',44.259336,-76.505732
 2015,'','Briceland St (West Side Of Montreal)',44.259441,-76.482012
 2016,'','Weller Ave (East Side Of Wilson)',44.26271,-76.486493
 2017,'','300 Conacher Dr (North Side)',44.266331,-76.494754
-2018,'','Worthington Park (South Side Of Weller)',44.261655,-76.493208
-2019,'','Helen Henderson Centre (North Side Of Amherst)',44.226173,-76.659035
+2018,'','Worthington Pk (South Side Of Weller)',44.261655,-76.493208
+2019,'','Helen Henderson Ctr (North Side Of Amherst)',44.226173,-76.659035
 2021,'','Division St (South Side Of Elliott)',44.256264,-76.497776
 2022,'','John Counter Blvd (West Side Of Montreal)',44.256165,-76.48317
-2023,'','Village Dr (West Side Of Montreal)',44.254714,-76.483517
+2023,'','Vlg Dr (West Side Of Montreal)',44.254714,-76.483517
 2025,'','Railway St (West Side Of Montreal)',44.248049,-76.487062
 2026,'','Railway St (West Side Of Division)',44.247631,-76.495899
 2027,'','5th Ave (East Side Of Kingscourt)',44.246356,-76.501483
@@ -739,8 +739,8 @@
 2037,'','Brock St (North Side) West Of Bagot St',44.231078,-76.484744
 2039,'','Bagot St (West Side) North Of Brock St',44.231308,-76.484446
 2042,'','Alfred St (North Side Of Union)',44.227872,-76.497145
-2043,'','St. Mary''s Of The Lake Hosp. (North Side Of Union)',44.225499,-76.506318
-2044,'','Regent St (South Side Of Park)',44.238337,-76.509536
+2043,'','St. Mary''s Of The Lk Hosp. (North Side Of Union)',44.225499,-76.506318
+2044,'','Regent St (South Side Of Pk)',44.238337,-76.509536
 2046,'','Wright Cr (West Side Of Palace)',44.239632,-76.514526
 2047,'','Leroy Grant Dr (West Side / Walkway)',44.25794,-76.50618
 2050,'','MTO Office (North Side Of John Counter)',44.259148,-76.514891
@@ -752,19 +752,19 @@
 2061,'','Portsmouth Ave (South Side Of Bath)',44.239214,-76.530351
 2062,'','Grenville Rd (South Side Of Bath)',44.238863,-76.533514
 2063,'','258 Queen Mary Rd (West Side)',44.237798,-76.536018
-2064,'','Notch Hill Rd (East Side Of Queen Mary)',44.23726,-76.535535
+2064,'','Notch Hl Rd (East Side Of Queen Mary)',44.23726,-76.535535
 2065,'','204 Queen Mary Rd (West Side)',44.235764,-76.534904
 2066,'','211 Queen Mary Rd (East Side)',44.235916,-76.534787
 2067,'','Queen Mary Rd (North Side Of Robert Wallace)',44.234486,-76.533048
 2068,'','Mowat Ave (South Side Of King)',44.220637,-76.520767
 2069,'','Beechgrove (South Side Of King)',44.220466,-76.52296
-2070,'','St. Lawrence College Transfer Point',44.223724,-76.526421
+2070,'','St. Lawrence College Transfer Pt',44.223724,-76.526421
 2072,'','1000 King St West (South Side)',44.219858,-76.535223
-2074,'','Gardiners Centre Transfer Point',44.236274,-76.567685
-2075,'','Gardiners Centre Transfer Point',44.236142,-76.567772
+2074,'','Gardiners Ctr Transfer Pt',44.236274,-76.567685
+2075,'','Gardiners Ctr Transfer Pt',44.236142,-76.567772
 2076,'','Centennial Dr (South Side Of Princess)',44.258054,-76.557569
-2077,'','Cataraqui Centre Transfer Point',44.255084,-76.571984
-2078,'','Cataraqui Centre Transfer Point',44.255079,-76.572609
+2077,'','Cataraqui Ctr Transfer Pt',44.255084,-76.571984
+2078,'','Cataraqui Ctr Transfer Pt',44.255079,-76.572609
 2080,'','Hwy 15 / StarTek (North Side Of Innovation)',44.272163,-76.446106
 9001,'','Prince Charles Dr (East Side Of Collins Bay)',44.24686,-76.610375
 9002,'','Taylor-Kidd Blvd (East Side Of Collins Bay)',44.249958,-76.610546
@@ -781,32 +781,32 @@
 9023,'','Dolshire St (North Side Of Malabar)',44.242556,-76.553711
 9024,'','Tanner Dr (East Side Of Melrose)',44.243732,-76.554896
 9025,'','Farnham Cr (West Side Of Tanner)',44.241145,-76.559722
-9026,'','Arbour Heights (East Side Of Tanner)',44.239369,-76.559392
-9027,'','Arbour Heights (West Side Of Tanner)',44.239414,-76.559608
+9026,'','Arbour Hts (East Side Of Tanner)',44.239369,-76.559392
+9027,'','Arbour Hts (West Side Of Tanner)',44.239414,-76.559608
 9028,'','Bath Rd (West Side Of Tanner)',44.237404,-76.559502
 9029,'','Bath Rd (East Side Of Tanner)',44.237721,-76.559311
 9030,'','Hudson Dr (East Side Of Bayridge)',44.24527,-76.59037
 9031,'','Hudson Dr (West Side Of Bayridge)',44.244808,-76.590645
 9032,'','Conservatory Dr (East Side Of Bayridge)',44.232775,-76.59302
 9033,'','Acadia Dr (West Side Of Bayridge)',44.232162,-76.593231
-9034,'','Glen Castle Rd (North Side Of Henderson)',44.228157,-76.57991
-9035,'','Glen Castle Rd (South Side Of Henderson)',44.228111,-76.579275
-9036,'','Centre 70 Park & Ride (East Side Of Days)',44.218695,-76.56915
-9037,'','Centre 70 Park & Ride (West Side Of Days)',44.219067,-76.56945
+9034,'','Gln Castle Rd (North Side Of Henderson)',44.228157,-76.57991
+9035,'','Gln Castle Rd (South Side Of Henderson)',44.228111,-76.579275
+9036,'','Ctr 70 Pk & Ride (East Side Of Days)',44.218695,-76.56915
+9037,'','Ctr 70 Pk & Ride (West Side Of Days)',44.219067,-76.56945
 9038,'','Portsmouth Ave (North Side Of King)',44.220497,-76.52607
 9039,'','Portsmouth Ave (South Side Of King)',44.220318,-76.525299
 9040,'','Sir John A Macdonald Blvd (North Side Of King)',44.221191,-76.512947
-9041,'','1055 Princess St/Kingston Centre (North Side)',44.243753,-76.51695
-9042,'','Kingston Centre (South Side Of Princess)',44.243138,-76.516251
-9043,'','Reddendale Plaza (North Side Of Front)',44.218436,-76.57047
+9041,'','1055 Princess St/Kingston Ctr (North Side)',44.243753,-76.51695
+9042,'','Kingston Ctr (South Side Of Princess)',44.243138,-76.516251
+9043,'','Reddendale Plz (North Side Of Front)',44.218436,-76.57047
 9044,'','Lappan''s Ln (South Side Of John Counter)',44.259115,-76.509128
-9045,'','RioCan / Best Buy (North Side Of Drway)',44.248046,-76.567157
-9046,'','RioCan / Petsmart (South Side Of Drway)',44.247893,-76.567148
+9045,'','RioCan / Best Buy (North Side Of Driveway)',44.248046,-76.567157
+9046,'','RioCan / Petsmart (South Side Of Driveway)',44.247893,-76.567148
 9048,'','Bath Rd (East Side Of Collins Bay)',44.242006,-76.609897
 9049,'','Bath Rd (West Side Of Collins Bay)',44.241635,-76.610133
 9050,'','Lappan''s Ln (North Side Of John Counter)',44.259319,-76.509925
 9051,'','263 Chelsea Rd (West Side)',44.224539,-76.575099
-9053,'','Bayridge Centre (North Side Of Taylor-Kidd)',44.250679,-76.590258
+9053,'','Bayridge Ctr (North Side Of Taylor-Kidd)',44.250679,-76.590258
 9054,'','Bayridge Dr (South Side Of Taylor-Kidd)',44.250174,-76.589294
 9056,'','Weller Ave (West Side Of 1st Canada)',44.262648,-76.497159
 9057,'','Princess St East Of Bayridge (South Side)',44.259275,-76.581373
@@ -816,24 +816,25 @@
 9066,'','MacLean Court (South Side Of Gore)',44.259168,-76.458968
 9067,'','Grenadier Dr (South Side Of Gore)',44.259743,-76.452831
 9068,'','336 Weller Ave (South Side)',44.261409,-76.496212
+9069,'','212 Dalton Ave (South Side)',44.267724,-76.507335
 9202,'','Bagot St (East Side) North Of Brock St',44.231267,-76.484236
 9203,'','Wolfe Island Ferry Dock (East Side Of Ontario)',44.232682,-76.478871
-9205,'','Rideau Town Centre (South Side Of Gore)',44.259413,-76.455914
+9205,'','Rideau Town Ctr (South Side Of Gore)',44.259413,-76.455914
 9206,'','Dalgleish Ave (East Side Of Rose Abbey)',44.261279,-76.449241
 9207,'','St. Martha St (North Side Of Rose Abbey)',44.266088,-76.446421
-9208,'','RioCan Centre (West Side Of Gardiners)',44.244553,-76.567995
-9209,'','Gardiners Town Centre (South Side Of Bath)',44.237038,-76.566835
-9210,'','Kingston Centre (South Side Of Bath)',44.240496,-76.516575
+9208,'','RioCan Ctr (West Side Of Gardiners)',44.244553,-76.567995
+9209,'','Gardiners Town Ctr (South Side Of Bath)',44.237038,-76.566835
+9210,'','Kingston Ctr (South Side Of Bath)',44.240496,-76.516575
 9211,'','324 Palace Rd (West Side)',44.233922,-76.513949
 9212,'','Barrie St (South Side Of Johnson)',44.230931,-76.491395
-9215,'','King''s Crossing South (North Side Of Access Rd)',44.263908,-76.499555
+9215,'','King''s Xing South (North Side Of Access Rd)',44.263908,-76.499555
 9217,'','325 Palace Rd (East Side)',44.233918,-76.51368
-9218,'','Gardiners Centre (North Side Of Bath)',44.237269,-76.566817
+9218,'','Gardiners Ctr (North Side Of Bath)',44.237269,-76.566817
 9221,'','McCallum St (East Side Of Rose Abbey)',44.263439,-76.447134
 9222,'','Discovery Ave (South Side Of Innovation)',44.274531,-76.44285
 9225,'','Barrett Court (East Side Of Hwy 15)',44.25054,-76.460621
 9226,'','Grenadier Dr (East Side Of Hwy 15)',44.253788,-76.460387
-9227,'','King''s Crossing North (East Side Of Access Rd)',44.265093,-76.502179
+9227,'','King''s Xing North (East Side Of Access Rd)',44.265093,-76.502179
 9228,'','Development Dr. (West Side Of Gardiners)',44.242018,-76.567924
 9229,'','Kirkpatrick St. (East Side Of Division)',44.253649,-76.496633
 9230,'','Ridley Dr (West Side Of Old Colony)',44.25392,-76.577553
