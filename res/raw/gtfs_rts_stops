@@ -256,8 +256,6 @@
 314,'','Lower Union St (East Side Of Ontario)',44.22509,-76.484399
 315,'','King St E. (East Side Of West)',44.224764,-76.486105
 316,'','Ontario St (West Side Of West)',44.224521,-76.486125
-317,'','George St (North Side Of Stuart)',44.224805,-76.491975
-318,'','George St (South Side Of Stuart)',44.224638,-76.492211
 320,'','Barrie St (North Side Of Bagot)',44.225467,-76.490393
 321,'','Maitland St (North Side Of King)',44.22386,-76.488354
 322,'','Maitland St (South Side Of King)',44.223913,-76.48795
@@ -351,8 +349,6 @@
 423,'','Albert St (South Side Of King)',44.222486,-76.499278
 424,'','Lower University Ave (South Side Of King)',44.222917,-76.494293
 425,'','Lower University Ave (North Side Of King)',44.223,-76.4953
-426,'','Kingston General Hosp (South Side Of Stuart)',44.224275,-76.494835
-427,'','Kingston General Hosp (North Side Of Stuart)',44.22443,-76.494788
 428,'','University Ave / Grant Hall (East Side)',44.225531,-76.495405
 429,'','Bader Ln (West Side Of University)',44.225415,-76.495724
 430,'','Douglas Library (East Side Of University)',44.22728,-76.495401
@@ -440,7 +436,6 @@
 519,'','259 Kingsdale Ave (North Side)',44.241667,-76.547698
 520,'','Lk Ontario Pk (South Side Of King)',44.220156,-76.529289
 521,'','Country Club Dr (North Side Of King)',44.220377,-76.529336
-522,'','1031 King St West (North Side)',44.220077,-76.535415
 523,'','Trailhead Pl (North Side Of King)',44.220154,-76.538259
 524,'','Invista (North Side Of Front)',44.219022,-76.55952
 527,'','1600 Bath Rd (South Side Of Bath)',44.2369,-76.563545
@@ -550,10 +545,9 @@
 644,'','706 Cedarwood Dr (West Side)',44.264939,-76.577468
 645,'','Birchwood Dr (North Side Of Sierra)',44.272059,-76.57829
 646,'','Sierra Ave (North Side Of Tivoli)',44.272819,-76.576486
-647,'','Cataraqui Woods Dr (West Side Of Midland)',44.268719,-76.574318
+647,'','1245 Midland Ave (West Side)',44.268719,-76.574318
 648,'','Walmart (West Side Of Midland)',44.263321,-76.574226
 649,'','Walmart (East Side Of Midland)',44.264922,-76.57396
-650,'','Canadian Tire (North Side Of Princess)',44.25858,-76.570645
 651,'','Loblaws (West Side Of Midland)',44.260305,-76.574204
 652,'','Redwood Cr (East Side Of Cedarwood)',44.262207,-76.577885
 653,'','Redwood Cr (North Side Of Cedarwood)',44.262181,-76.578162
@@ -766,6 +760,9 @@
 2077,'','Cataraqui Ctr Transfer Pt',44.255084,-76.571984
 2078,'','Cataraqui Ctr Transfer Pt',44.255079,-76.572609
 2080,'','Hwy 15 / StarTek (North Side Of Innovation)',44.272163,-76.446106
+3000,'','Stuart St (East Side Of Lower University)',44.224054,-76.494881
+3001,'','Lower University Ave (South Side Of Stuart)',44.224196,-76.495258
+3002,'','Stuart St (East Side Of Barrie)',44.224757,-76.490341
 9001,'','Prince Charles Dr (East Side Of Collins Bay)',44.24686,-76.610375
 9002,'','Taylor-Kidd Blvd (East Side Of Collins Bay)',44.249958,-76.610546
 9003,'','Mona Dr (South Side Of Taylor-Kidd)',44.251549,-76.601242
@@ -827,6 +824,7 @@
 9210,'','Kingston Ctr (South Side Of Bath)',44.240496,-76.516575
 9211,'','324 Palace Rd (West Side)',44.233922,-76.513949
 9212,'','Barrie St (South Side Of Johnson)',44.230931,-76.491395
+9213,'','Stuart St (West Side Of Barrie)',44.225496,-76.490687
 9215,'','King''s Xing South (North Side Of Access Rd)',44.263908,-76.499555
 9217,'','325 Palace Rd (East Side)',44.233918,-76.51368
 9218,'','Gardiners Ctr (North Side Of Bath)',44.237269,-76.566817
