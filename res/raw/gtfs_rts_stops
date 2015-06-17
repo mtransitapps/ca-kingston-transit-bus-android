@@ -418,7 +418,7 @@
 500,'','Machar Pl (North Side Of Van Order)',44.238532,-76.521828
 501,'','Kingston Ctr - Northeast Bay',44.242145,-76.51677
 502,'','Miles Ave (North Side Of Robert Wallace)',44.234694,-76.528255
-503,'','Miles Ave (South Side Of Robert Wallace)',44.234602,-76.528359
+503,'','Kingston Ctr - Southeast Bay',44.241834,-76.516756
 504,'','Polson Pk School (South Side Of Robert Wallace)',44.234751,-76.529552
 505,'','Polson Pk School (North Side Of Robert Wallace)',44.234854,-76.529637
 506,'','Elmwood St (East Side Of Portsmouth)',44.24115,-76.529012
@@ -633,7 +633,7 @@
 776,'','Sherwood Ave (South Side Of Manitou)',44.220002,-76.643417
 777,'','The Moorings (South Side Of Bath)',44.221462,-76.633553
 780,'','Kildare Ave (West Side Of Manitou)',44.223097,-76.6511
-782,'','Kildare Ave (East Side Of Kidd)',44.222274,-76.655041
+782,'','Clifford St (North Side Of Kidd)',44.220924,-76.659918
 785,'','286 Amherst Dr (South Side)',44.227183,-76.654877
 787,'','Pittsfield St (South Side Of Amherst)',44.226842,-76.646699
 788,'','Upper Pk Rd (South Side Of Amherst)',44.225883,-76.642591
@@ -826,7 +826,7 @@
 9212,'','Barrie St (South Side Of Johnson)',44.230931,-76.491395
 9213,'','Stuart St (West Side Of Barrie)',44.225496,-76.490687
 9215,'','King''s Xing South (North Side Of Access Rd)',44.263908,-76.499555
-9217,'','325 Palace Rd (East Side)',44.233918,-76.51368
+9217,'','Kingston Ctr (North Side Of Bath)',44.240705,-76.516591
 9218,'','Gardiners Ctr (North Side Of Bath)',44.237269,-76.566817
 9221,'','McCallum St (East Side Of Rose Abbey)',44.263439,-76.447134
 9222,'','Discovery Ave (South Side Of Innovation)',44.274531,-76.44285
