@@ -221,7 +221,6 @@
 273,'','Princess St (East Side Of Division)',44.232561,-76.492708
 274,'','University Ave (North Side Of Brock)',44.232638,-76.495361
 275,'','Alfred St (North Side Of Princess)',44.235529,-76.497969
-276,'','Alfred St (South Side Of Princess)',44.234966,-76.497061
 277,'','University Ave (South Side Of Princess)',44.234263,-76.495303
 278,'','University Ave (North Side Of Princess)',44.234689,-76.495869
 279,'','Colborne St (East Side Of Division)',44.234811,-76.493295
@@ -283,8 +282,6 @@
 351,'','Albert St (North Side Of Brock)',44.232864,-76.500897
 352,'','Alfred St (South Side Of Johnson)',44.231583,-76.497232
 353,'','Alfred St (North Side Of Brock)',44.232966,-76.4977
-354,'','Frontenac St (South Side Of Princess)',44.235884,-76.499203
-355,'','Frontenac St (North Side Of Princess0',44.236132,-76.499372
 356,'','Albert St (South Side Of Princess)',44.236518,-76.500814
 357,'','Albert St (North Side Of Princess)',44.236604,-76.500512
 359,'','Victoria St (South Side Of Princess)',44.237566,-76.503299
@@ -293,7 +290,6 @@
 362,'','Macdonnell St (North Side Of Princess)',44.238967,-76.506193
 363,'','800 Princess St (South Side)',44.239587,-76.508129
 364,'','Drayton Ave (North Side Of Princess)',44.23995,-76.508582
-365,'','904 Princess St (South Side)',44.240558,-76.510416
 366,'','Westdale Ave (North Side Of Bath)',44.24102,-76.513653
 367,'','Drayton Ave (South Side Of Concession)',44.241161,-76.506959
 368,'','Leroy Grant Dr (North Side Of Concession)',44.242072,-76.508288
@@ -339,10 +335,7 @@
 413,'','Sir John A Macdonald Blvd. (South Side Of King)',44.221116,-76.512032
 414,'','Alwington Ave (North Side Of King)',44.221412,-76.510162
 415,'','Livingston Ave (South Side Of King)',44.221355,-76.508924
-416,'','Livingston Ave (North Side Of King)',44.22153,-76.508164
 417,'','The Isabel/Tett Centres (South Side Of King)',44.221524,-76.506548
-418,'','Ctr St (North Side Of King)',44.221719,-76.504441
-419,'','Ctr St (South Side Of King)',44.221798,-76.504741
 420,'','Beverley St (South Side Of King)',44.222163,-76.501907
 421,'','Beverley St (North Side Of King)',44.222244,-76.502024
 422,'','Albert St (North Side Of King)',44.222603,-76.499296
@@ -810,10 +803,13 @@
 9060,'','117 Sherwood Ave (North Side)',44.225621,-76.646641
 9061,'','Amherst Dr (East Side Of Manitou)',44.227101,-76.651047
 9062,'','Bayridge Secondary (South Side Of Taylor-Kidd)',44.251513,-76.594664
+9064,'','Sadie Ave (East Side Of Craftsman)',44.244173,-76.459272
+9065,'','Sadie Ave (West Side Of Craftsman)',44.244378,-76.459603
 9066,'','MacLean Court (South Side Of Gore)',44.259168,-76.458968
 9067,'','Grenadier Dr (South Side Of Gore)',44.259743,-76.452831
 9068,'','336 Weller Ave (South Side)',44.261409,-76.496212
 9069,'','212 Dalton Ave (South Side)',44.267724,-76.507335
+9070,'','Alfred St (South Side Of Princess)',44.235242,-76.497733
 9202,'','Bagot St (East Side) North Of Brock St',44.231267,-76.484236
 9203,'','Wolfe Island Ferry Dock (East Side Of Ontario)',44.232682,-76.478871
 9205,'','Rideau Town Ctr (South Side Of Gore)',44.259413,-76.455914
@@ -828,7 +824,7 @@
 9215,'','King''s Xing South (North Side Of Access Rd)',44.263908,-76.499555
 9217,'','Kingston Ctr (North Side Of Bath)',44.240705,-76.516591
 9218,'','Gardiners Ctr (North Side Of Bath)',44.237269,-76.566817
-9221,'','McCallum St (East Side Of Rose Abbey)',44.263439,-76.447134
+9221,'','McCallum St (East Side Of Rose Abbey)',44.26387,-76.446604
 9222,'','Discovery Ave (South Side Of Innovation)',44.274531,-76.44285
 9225,'','Barrett Court (East Side Of Hwy 15)',44.25054,-76.460621
 9226,'','Grenadier Dr (East Side Of Hwy 15)',44.253788,-76.460387
