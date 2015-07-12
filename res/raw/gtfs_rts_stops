@@ -626,7 +626,7 @@
 776,'','Sherwood Ave (South Side Of Manitou)',44.220002,-76.643417
 777,'','The Moorings (South Side Of Bath)',44.221462,-76.633553
 780,'','Kildare Ave (West Side Of Manitou)',44.223097,-76.6511
-782,'','Clifford St (North Side Of Kidd)',44.220924,-76.659918
+782,'','Kildare Ave (East Side Of Kidd)',44.222274,-76.655041
 785,'','286 Amherst Dr (South Side)',44.227183,-76.654877
 787,'','Pittsfield St (South Side Of Amherst)',44.226842,-76.646699
 788,'','Upper Pk Rd (South Side Of Amherst)',44.225883,-76.642591
@@ -811,7 +811,7 @@
 9069,'','212 Dalton Ave (South Side)',44.267724,-76.507335
 9070,'','Alfred St (South Side Of Princess)',44.235242,-76.497733
 9202,'','Bagot St (East Side) North Of Brock St',44.231267,-76.484236
-9203,'','Wolfe Island Ferry Dock (East Side Of Ontario)',44.232682,-76.478871
+9203,'','Wolfe Isl Ferry Dock (East Side Of Ontario)',44.232682,-76.478871
 9205,'','Rideau Town Ctr (South Side Of Gore)',44.259413,-76.455914
 9206,'','Dalgleish Ave (East Side Of Rose Abbey)',44.261279,-76.449241
 9207,'','St. Martha St (North Side Of Rose Abbey)',44.266088,-76.446421
@@ -822,7 +822,7 @@
 9212,'','Barrie St (South Side Of Johnson)',44.230931,-76.491395
 9213,'','Stuart St (West Side Of Barrie)',44.225496,-76.490687
 9215,'','King''s Xing South (North Side Of Access Rd)',44.263908,-76.499555
-9217,'','Kingston Ctr (North Side Of Bath)',44.240705,-76.516591
+9217,'','325 Palace Rd (East Side)',44.233918,-76.51368
 9218,'','Gardiners Ctr (North Side Of Bath)',44.237269,-76.566817
 9221,'','McCallum St (East Side Of Rose Abbey)',44.26387,-76.446604
 9222,'','Discovery Ave (South Side Of Innovation)',44.274531,-76.44285
