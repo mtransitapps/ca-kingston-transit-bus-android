@@ -346,15 +346,11 @@
 429,'','Bader Ln (West Side Of University)',44.225415,-76.495724
 430,'','Douglas Library (East Side Of University)',44.22728,-76.495401
 431,'','University Ave (South Side Of Union)',44.227836,-76.495983
-432,'','Frontenac St (South Side Of Union)',44.227504,-76.498206
 433,'','Albert St (South Side Of Union)',44.227202,-76.499889
 436,'','Beverley St (South Side Of Union)',44.226627,-76.502609
 437,'','Victoria St (North Side Of Union)',44.226873,-76.502334
-438,'','Ctr St (North Side Of Union)',44.226025,-76.505031
-439,'','Ctr St (South Side Of Union)',44.22591,-76.505007
 440,'','St Mary''s Of The Lk Hosp. (North Side Of Union)',44.225472,-76.506925
 441,'','Pembroke St (North Side Of Union)',44.22457,-76.509805
-442,'','Alwington Ave (South Side Of Union)',44.223837,-76.511756
 444,'','Queen''s West Campus (North Side Of Union)',44.22337,-76.513975
 445,'','Forsythe Ave (West Side Of Yonge)',44.227083,-76.518241
 446,'','Yonge St (South Side Of Forsythe)',44.226918,-76.518465
@@ -595,8 +591,8 @@
 730,'','Warne Cr (South Side Of Dalton)',44.265672,-76.502023
 731,'','Owens Cr (North Side Of Kingsdale)',44.241777,-76.544575
 732,'','284 Kingsdale Ave (South Side)',44.241619,-76.545139
-733,'','Tanner Dr (North Side Of Bath)',44.236873,-76.559501
-734,'','Tanner Dr (South Side Of Bath)',44.237135,-76.559826
+733,'','Tanner Dr (South Side Of Bath)',44.236873,-76.559501
+734,'','Tanner Dr (North Side Of Bath)',44.237135,-76.559826
 735,'','Ridley Dr (North Side Of Norwest)',44.257264,-76.577036
 736,'','Norwest Rd (East Side Of Ridley)',44.257107,-76.576895
 737,'','Hudson Pk (North Side Of Hudson)',44.243733,-76.585512
@@ -626,7 +622,7 @@
 776,'','Sherwood Ave (South Side Of Manitou)',44.220002,-76.643417
 777,'','The Moorings (South Side Of Bath)',44.221462,-76.633553
 780,'','Kildare Ave (West Side Of Manitou)',44.223097,-76.6511
-782,'','Kildare Ave (East Side Of Kidd)',44.222274,-76.655041
+782,'','Clifford St (North Side Of Kidd)',44.220924,-76.659918
 785,'','286 Amherst Dr (South Side)',44.227183,-76.654877
 787,'','Pittsfield St (South Side Of Amherst)',44.226842,-76.646699
 788,'','Upper Pk Rd (South Side Of Amherst)',44.225883,-76.642591
@@ -825,7 +821,7 @@
 9217,'','325 Palace Rd (East Side)',44.233918,-76.51368
 9218,'','Gardiners Ctr (North Side Of Bath)',44.237269,-76.566817
 9221,'','McCallum St (East Side Of Rose Abbey)',44.26387,-76.446604
-9222,'','Discovery Ave (South Side Of Innovation)',44.274531,-76.44285
+9222,'','Discovery Ave (South Side Of John Marks)',44.274531,-76.44285
 9225,'','Barrett Court (East Side Of Hwy 15)',44.25054,-76.460621
 9226,'','Grenadier Dr (East Side Of Hwy 15)',44.253788,-76.460387
 9227,'','King''s Xing North (East Side Of Access Rd)',44.265093,-76.502179
