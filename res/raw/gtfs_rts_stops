@@ -84,7 +84,6 @@
 105,'','768 Aylmer Cr (East Side)',44.24817,-76.614334
 107,'','Albert St (North Side Of Union)',44.227303,-76.500075
 108,'','Albert St (South Side Of Johnson)',44.231529,-76.499329
-110,'','Division St (North Side Of Brock)',44.232319,-76.493186
 111,'','257 Bath Rd (North Side)',44.24013,-76.523279
 113,'','371 Yonge St (East Side)',44.229186,-76.518271
 114,'','Moro St (North Side Of Craftsman)',44.244152,-76.442757
@@ -208,7 +207,6 @@
 257,'','Raglan Rd (East Side Of Montreal)',44.237974,-76.485166
 258,'','Bagot St (South Side Of Raglan)',44.237969,-76.484244
 259,'','Rideaucrest Home (East Side Of Rideau)',44.238064,-76.482747
-260,'','Rideau St (North Side Of North)',44.237041,-76.482897
 261,'','Rideau St (South Side Of North)',44.236939,-76.482825
 262,'','North St (West Side Of Bagot)',44.236373,-76.483949
 264,'','North St (East Side Of Montreal)',44.236355,-76.485005
@@ -236,7 +234,6 @@
 292,'','Barrie St (North Side Of Brock)',44.232074,-76.491429
 294,'','Clergy St E. (North Side Of Brock)',44.231757,-76.489429
 295,'','Bagot St (South Side Of Princess)',44.231725,-76.483716
-296,'','Sydenham St (North Side Of Brock)',44.231464,-76.487508
 297,'','Public Library (West Side Of Bagot / Johnson)',44.229828,-76.4855
 298,'','Public Library (East Side Of Bagot / Johnson)',44.230313,-76.484872
 299,'','Earl St (West Side Of Bagot)',44.228732,-76.486443
