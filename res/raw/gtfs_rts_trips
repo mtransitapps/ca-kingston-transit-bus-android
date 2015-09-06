@@ -1,5 +1,5 @@
 101,0,'Montreal St',1
-100,0,'St. Lawrence College',1
+100,0,'St Lawrence College',1
 201,0,'Division St',2
 200,0,'Kingston Ctr',2
 300,0,'Downtown',3
@@ -7,8 +7,8 @@
 401,0,'Cataraqui Ctr',4
 400,0,'Downtown',4
 601,0,'Cataraqui Ctr',6
-600,0,'St. Lawrence College',6
-700,0,'Dalton/Division',7
+600,0,'St Lawrence College',6
+700,0,'Dalton / Division',7
 701,0,'Invista Ctr',7
 1001,0,'Amherstview',10
 1000,0,'Cataraqui Ctr',10
@@ -16,15 +16,20 @@
 1100,0,'Kingston Ctr',11
 1201,0,'Hwy 15',12
 1200,0,'Kingston Ctr',12
-1400,0,'Crossfield Ave/Waterloo Dr/Old Colony Rd',14
+1402,0,'Cataraqui Ctr Transfer Pt',14
+1401,0,'Kingston Gospel Temple',14
 1501,0,'Cataraqui',15
 1500,0,'Reddendale',15
 1601,0,'Bus Terminal',16
 1600,0,'Train Sta',16
+1701,0,'Main Campus',17
+1702,0,'West Campus',17
 1800,0,'Train Sta Circuit',18
+2001,0,'Main Campus',20
+2002,0,'West Campus',20
 50100,0,'Express',501
 50201,0,'Express',502
-60101,0,'Express - Queen''s/KGH',601
+60101,0,'Express - Queen''s / KGH',601
 60200,0,'Express - Innovation Dr',602
 70100,0,'Express - Cataraqui Ctr',701
 70201,0,'Express - King''s Xing',702
