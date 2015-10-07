@@ -73,7 +73,7 @@
 89,'','Mercury Cr (West Side Of Craftsman)',44.242297,-76.439095
 90,'','Old Colony Rd (West Side Of Bayridge)',44.255296,-76.586857
 91,'','Downing St (South Side Of Hudson)',44.248623,-76.597028
-92,'','King St E. / City Hall (East Side)',44.229844,-76.481619
+92,'','King St E. @ City Hall (East Side)',44.229844,-76.481619
 93,'','Royal Military College (South Side Of Hwy 2)',44.235807,-76.468287
 94,'','Kimberley St (East Side Of Old Colony)',44.252016,-76.576939
 96,'','Ridley Dr (East Side Of Old Colony)',44.253841,-76.577244
@@ -99,8 +99,8 @@
 123,'','Canex (East Side Of Niagara Pk)',44.238021,-76.455173
 124,'','Canex (West Side Of Niagara Pk)',44.23936,-76.455484
 125,'','Apprentice St (North Side Of Craftsman)',44.24317,-76.455264
-126,'','Hwy 2 / Royal Military College (South Side)',44.237024,-76.465157
-127,'','Hwy 2 / Royal Military College (North Side)',44.23646,-76.467285
+126,'','Hwy 2 @ Royal Military College (South Side)',44.237024,-76.465157
+127,'','Hwy 2 @ Royal Military College (North Side)',44.23646,-76.467285
 128,'','Constantine Arena (North Side Of Hwy 2)',44.235915,-76.468478
 132,'','Barrett Court (West Side Of Hwy 15)',44.249332,-76.461105
 134,'','Medley Court (West Side Of Hwy 15)',44.252837,-76.460839
@@ -159,13 +159,13 @@
 197,'','Butler St (North Side Of Drennan)',44.260683,-76.488805
 198,'','Weller Ave (West Side Of Wiley)',44.261489,-76.489451
 199,'','Weller Ave (East Side Of Wiley)',44.261863,-76.489324
-200,'','Weller Ave / KCHC (East Side Of Compton)',44.262687,-76.490701
-201,'','Weller Ave / KCHC (West Side Of Compton)',44.262232,-76.490804
+200,'','Weller Ave @ KCHC (East Side Of Compton)',44.262687,-76.490701
+201,'','Weller Ave @ KCHC (West Side Of Compton)',44.262232,-76.490804
 202,'','Compton St (South Side Of Weller)',44.261851,-76.490514
 203,'','Trillium Court (North Side Of Weller)',44.261778,-76.49316
-204,'','70 Compton St / Walkway (South Side)',44.264429,-76.490292
-205,'','71 Compton St / Walkway (North Side)',44.264519,-76.490613
-206,'','230 Conacher Dr / Walkway (South Side)',44.26564,-76.491333
+204,'','70 Compton St @ Walkway (South Side)',44.264429,-76.490292
+205,'','71 Compton St @ Walkway (North Side)',44.264519,-76.490613
+206,'','230 Conacher Dr @ Walkway (South Side)',44.26564,-76.491333
 207,'','235 Conacher Dr (North Side)',44.265768,-76.491195
 208,'','300 Conacher Dr (South Side)',44.266198,-76.494725
 209,'','Kingslake Plz (South Side Of Benson)',44.266344,-76.497317
@@ -236,16 +236,16 @@
 292,'','Barrie St (North Side Of Brock)',44.232074,-76.491429
 294,'','Clergy St E. (North Side Of Brock)',44.231757,-76.489429
 295,'','Bagot St (South Side Of Princess)',44.231725,-76.483716
-297,'','Public Library (West Side Of Bagot / Johnson)',44.229828,-76.4855
-298,'','Public Library (East Side Of Bagot / Johnson)',44.230313,-76.484872
+297,'','Public Library (West Side Of Bagot @ Johnson)',44.229828,-76.4855
+298,'','Public Library (East Side Of Bagot @ Johnson)',44.230313,-76.484872
 299,'','Earl St (West Side Of Bagot)',44.228732,-76.486443
 300,'','Earl St (East Side Of Bagot)',44.228442,-76.486472
 301,'','West St (North Side Of Bagot)',44.227113,-76.487874
 302,'','West St (South Side Of Bagot)',44.226857,-76.487912
 303,'','Wellington St (South Side Of Johnson)',44.229458,-76.483978
 304,'','King St E. (South Side Of Johnson)',44.228901,-76.482756
-305,'','Brock St / City Hall (North Side Of Brock)',44.230363,-76.480339
-308,'','Ontario St / City Hall (East Side Of Ontario)',44.229741,-76.480072
+305,'','Brock St @ City Hall (North Side Of Brock)',44.230363,-76.480339
+308,'','Ontario St @ City Hall (East Side Of Ontario)',44.229741,-76.480072
 309,'','Johnson St (East Side Of Ontario)',44.228514,-76.481202
 310,'','William St (West Side Of Ontario)',44.22744,-76.482449
 311,'','Earl St (East Side Of Ontario)',44.226695,-76.482897
@@ -287,7 +287,7 @@
 356,'','Albert St (South Side Of Princess)',44.236518,-76.500814
 357,'','Albert St (North Side Of Princess)',44.236604,-76.500512
 359,'','Victoria St (South Side Of Princess)',44.237566,-76.503299
-360,'','671 Princess St / Legion Villa (North Side)',44.238259,-76.504468
+360,'','671 Princess St @ Legion Villa (North Side)',44.238259,-76.504468
 361,'','Macdonnell St (South Side Of Princess)',44.238378,-76.50527
 362,'','Macdonnell St (North Side Of Princess)',44.238967,-76.506193
 363,'','800 Princess St (South Side)',44.239587,-76.508129
@@ -346,7 +346,7 @@
 425,'','Lower University Ave (North Side Of King)',44.223,-76.4953
 426,'','Kingston General Hosp (South Side Of Stuart)',44.224275,-76.494835
 427,'','Kingston General Hosp (North Side Of Stuart)',44.22443,-76.494788
-428,'','University Ave / Grant Hall (East Side)',44.225531,-76.495405
+428,'','University Ave @ Grant Hall (East Side)',44.225531,-76.495405
 429,'','Bader Ln (West Side Of University)',44.225415,-76.495724
 430,'','Douglas Library (East Side Of University)',44.22728,-76.495401
 431,'','University Ave (South Side Of Union)',44.227836,-76.495983
@@ -740,7 +740,7 @@
 2043,'','St. Mary''s Of The Lk Hosp. (North Side Of Union)',44.225499,-76.506318
 2044,'','Regent St (South Side Of Pk)',44.238337,-76.509536
 2046,'','Wright Cr (West Side Of Palace)',44.239632,-76.514526
-2047,'','Leroy Grant Dr (West Side / Walkway)',44.25794,-76.50618
+2047,'','Leroy Grant Dr (West Side @ Walkway)',44.25794,-76.50618
 2050,'','MTO Office (North Side Of John Counter)',44.259148,-76.514891
 2052,'','Westdale Ave (South Side Of Bath)',44.240747,-76.513582
 2053,'','Hillendale Ave (South Side Of Princess)',44.247709,-76.525963
@@ -763,7 +763,7 @@
 2076,'','Centennial Dr (South Side Of Princess)',44.258054,-76.557569
 2077,'','Cataraqui Ctr Transfer Pt',44.255084,-76.571984
 2078,'','Cataraqui Ctr Transfer Pt',44.255079,-76.572609
-2080,'','Hwy 15 / StarTek (North Side Of Innovation)',44.272163,-76.446106
+2080,'','Hwy 15 @ StarTek (North Side Of Innovation)',44.272163,-76.446106
 9001,'','Prince Charles Dr (East Side Of Collins Bay)',44.24686,-76.610375
 9002,'','Taylor-Kidd Blvd (East Side Of Collins Bay)',44.249958,-76.610546
 9003,'','Mona Dr (South Side Of Taylor-Kidd)',44.251549,-76.601242
@@ -798,8 +798,8 @@
 9042,'','Kingston Ctr (South Side Of Princess)',44.243138,-76.516251
 9043,'','Reddendale Plz (North Side Of Front)',44.218436,-76.57047
 9044,'','Lappan''s Ln (South Side Of John Counter)',44.259115,-76.509128
-9045,'','RioCan / Best Buy (North Side Of Driveway)',44.248046,-76.567157
-9046,'','RioCan / Petsmart (South Side Of Driveway)',44.247893,-76.567148
+9045,'','RioCan @ Best Buy (North Side Of Driveway)',44.248046,-76.567157
+9046,'','RioCan @ Petsmart (South Side Of Driveway)',44.247893,-76.567148
 9048,'','Bath Rd (East Side Of Collins Bay)',44.242006,-76.609897
 9049,'','Bath Rd (West Side Of Collins Bay)',44.241635,-76.610133
 9050,'','Lappan''s Ln (North Side Of John Counter)',44.259319,-76.509925
