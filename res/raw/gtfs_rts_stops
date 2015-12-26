@@ -27,7 +27,7 @@
 28,'','1386 Waverley Cr (N)',44.244197,-76.616882
 29,'','Princess Mary Ave (N Of Caen)',44.240608,-76.439611
 30,'','Coverdale Dr (W Of Walden)',44.237889,-76.597904
-31,'','Conservatory Pond (N Of Coverdale)',44.237438,-76.592063
+31,'','Stoneridge Dr (N Of Coverdale)',44.237438,-76.592063
 32,'','Brock St (N) E Of Bagot St',44.230997,-76.484183
 33,'','Invista (S Of Front)',44.218866,-76.559268
 34,'','Trailhead Pl (S Of King)',44.219908,-76.538267
@@ -51,13 +51,13 @@
 58,'','Lance St (S Of Craftsman)',44.243666,-76.447217
 59,'','Moro St (S Of Craftsman)',44.244026,-76.442719
 60,'','Gore Rd (W Of Rose Abbey)',44.259874,-76.44932
-62,'','78 Grenadier Dr (N)',44.256084,-76.454489
-64,'','Windfield Cr (N)',44.255015,-76.459814
+62,'','78 Grenadier Dr (W)',44.256084,-76.454489
+64,'','Hwy 15 (N Of Grenadier)',44.255015,-76.459814
 65,'','McCallum St (W Of Rose Abbey)',44.263964,-76.446798
 68,'','Truedell Rd (S Of Development)',44.240701,-76.579773
 69,'','Maple Rdg Dr (S Of Bath)',44.228131,-76.62722
 70,'','Fraser St (W Of Division)',44.245348,-76.495562
-73,'','Rockford Pl (S Of Elliott)',44.256124,-76.50076
+73,'','Rockford Pl (S Of Elliott)',44.256091,-76.501287
 75,'','Tivoli & Sierra Avenues (S Of Tivoli)',44.272702,-76.576888
 77,'','Loblaws (E Of Midland)',44.260567,-76.57396
 78,'','Cataraqui Woods Dr (E Of Midland)',44.268654,-76.574096
@@ -175,8 +175,6 @@
 216,'','Derby Gt Cr (N Of Elliott)',44.256373,-76.498602
 217,'','Rigney St (N Of John Counter)',44.259561,-76.502978
 218,'','Rigney St (S Of John Counter)',44.259403,-76.503032
-219,'','Wycliffe Cr (S Of Elliott)',44.256043,-76.502086
-220,'','Adley Pl (S Of Elliott)',44.255935,-76.504635
 222,'','Vlg Dr (E Of Montreal)',44.254814,-76.483168
 223,'','Hickson Ave (E Of Montreal)',44.252758,-76.48494
 224,'','Hickson Ave (W Of Montreal)',44.252824,-76.485114
@@ -400,7 +398,7 @@
 485,'','Johnson St (W Of Roden)',44.230766,-76.522635
 486,'','Johnson St (E Of Roden)',44.230618,-76.522445
 487,'','Mowat Ave (S Of Johnson)',44.230402,-76.52114
-488,'','Mowat Ave (E Of Johnson)',44.23056,-76.520843
+488,'','Mowat Ave (N Of Johnson)',44.23056,-76.520843
 489,'','394 Yonge St (W Of Yonge)',44.230315,-76.518549
 490,'','Portsmouth Ave (N Of Johnson)',44.230138,-76.526656
 491,'','Portsmouth Ave (S Of Johnson)',44.229993,-76.52674
@@ -475,7 +473,7 @@
 570,'','Springfield Dr (W Of Roosevelt)',44.22977,-76.588675
 571,'','672 Roosevelt Dr (W)',44.231817,-76.588691
 572,'','Trimble Gt (N Of Roosevelt)',44.234859,-76.586932
-575,'','Conservatory Pond (S Of Coverdale)',44.237248,-76.592189
+575,'','Stoneridge Dr (S Of Coverdale)',44.237248,-76.592189
 576,'','Evangeline Ave (N Of Acadia)',44.232406,-76.594364
 577,'','Barnsley Cr (N Of Acadia)',44.232308,-76.596425
 578,'','Sackville Cr (E Of Acadia)',44.233124,-76.598098
@@ -549,7 +547,7 @@
 652,'','Redwood Cr (E Of Cedarwood)',44.262207,-76.577885
 653,'','Redwood Cr (N Of Cedarwood)',44.262181,-76.578162
 654,'','Sprucewood Cr (S Of Cedarwood)',44.261858,-76.580241
-655,'','Pinewood Cr (N Of Cedarwood)',44.262068,-76.58057
+655,'','Pinewood Pl (N Of Cedarwood)',44.262068,-76.58057
 656,'','Princess St (E Of Bayridge)',44.260287,-76.58336
 657,'','Princess St (W Of Bayridge)',44.260641,-76.583377
 658,'','Basswood Pl (S Of Cedarwood)',44.262375,-76.582715
@@ -561,7 +559,7 @@
 664,'','Rowantree Cr (E Of Lancaster)',44.255185,-76.589619
 665,'','Newhall Dr (N Of Lancaster)',44.256548,-76.591725
 666,'','Lancaster Dr (E Of Limestone)',44.256778,-76.594944
-667,'','Holy Cross School (N Of Woodbine)',44.258484,-76.597005
+667,'','Holy Cross Secondary (N Of Woodbine)',44.258484,-76.597005
 668,'','Katharine Cr (N Of Woodbine)',44.258257,-76.600338
 669,'','Mona Dr (N Of Woodbine)',44.258042,-76.603081
 670,'','Palmerston Cr (N Of Mona)',44.256037,-76.604763
@@ -637,7 +635,7 @@
 776,'','Sherwood Ave (S Of Manitou)',44.220002,-76.643417
 777,'','The Moorings (S Of Bath)',44.221462,-76.633553
 780,'','Kildare Ave (W Of Manitou)',44.223097,-76.6511
-782,'','Kildare Ave (E Of Kidd)',44.222274,-76.655041
+782,'','Clifford St (N Of Kidd)',44.220924,-76.659918
 785,'','286 Amherst Dr (S)',44.227183,-76.654877
 787,'','Pittsfield St (S Of Amherst)',44.226842,-76.646699
 788,'','Upper Pk Rd (S Of Amherst)',44.225883,-76.642591
@@ -692,7 +690,6 @@
 854,'','Cataraqui Woods Dr (W Of Midland)',44.266605,-76.57426
 855,'','Seniors Ctr (E Of Francis)',44.224719,-76.521791
 856,'','1341 Crossfield Ave (S)',44.264302,-76.554708
-857,'','1181 Crossfield Ave (S)',44.264811,-76.54973
 858,'','Chadwick Parkette (W Of Andersen)',44.26207,-76.548493
 860,'','Oak St (W Of Kingscourt)',44.250072,-76.502006
 861,'','7th Ave (W Of Kingscourt)',44.247617,-76.50172
@@ -737,10 +734,9 @@
 2037,'','Brock St (N) W Of Bagot St',44.231078,-76.484744
 2039,'','Bagot St (W) N Of Brock St',44.231308,-76.484446
 2042,'','Alfred St (N Of Union)',44.227872,-76.497145
-2043,'','St Mary''s Of The Lk Hosp (N Of Union)',44.225499,-76.506318
+2043,'','St Mary''s Of The Lk Hosp (S Of Union)',44.225499,-76.506318
 2044,'','Regent St (S Of Pk)',44.238337,-76.509536
 2046,'','Wright Cr (W Of Palace)',44.239632,-76.514526
-2047,'','Leroy Grant Dr (W @ Walkway)',44.25794,-76.50618
 2050,'','MTO Office (N Of John Counter)',44.259148,-76.514891
 2052,'','Westdale Ave (S Of Bath)',44.240747,-76.513582
 2053,'','Hillendale Ave (S Of Princess)',44.247709,-76.525963
@@ -822,6 +818,8 @@
 9072,'','King St (W Of Albert)',44.222637,-76.499559
 9073,'','Stuart St (E Of Albert)',44.223567,-76.499446
 9074,'','John Counter Blvd (W Of Leroy Grant)',44.25851,-76.506244
+9075,'','Crossfield Ave (W Of Andersen)',44.264833,-76.548972
+9076,'','Douglas Ave (S Of Elliott)',44.25595,-76.504094
 9201,'','Union St (W Of University)',44.228083,-76.495693
 9202,'','Bagot St (E) N Of Brock St',44.231267,-76.484236
 9203,'','Wolfe Isl Ferry Dock (E Of Ontario)',44.232682,-76.478871
@@ -829,7 +827,7 @@
 9206,'','Dalgleish Ave (E Of Rose Abbey)',44.261279,-76.449241
 9207,'','St Martha St (N Of Rose Abbey)',44.266088,-76.446421
 9208,'','RioCan Ctr (W Of Gardiners)',44.244553,-76.567995
-9209,'','Gardiners Town Ctr (S Of Bath)',44.237038,-76.566835
+9209,'','Gardiners Ctr (S Of Bath)',44.237038,-76.566835
 9210,'','Kingston Ctr (S Of Bath)',44.240496,-76.516575
 9211,'','324 Palace Rd (W)',44.233922,-76.513949
 9212,'','Barrie St (S Of Johnson)',44.230931,-76.491395
