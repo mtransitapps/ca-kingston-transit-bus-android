@@ -175,6 +175,8 @@
 216,'','Derby Gt Cr (N Of Elliott)',44.256373,-76.498602
 217,'','Rigney St (N Of John Counter)',44.259561,-76.502978
 218,'','Rigney St (S Of John Counter)',44.259403,-76.503032
+219,'','Wycliffe Cr (S Of Elliott)',44.256043,-76.502086
+220,'','Adley Pl (S Of Elliott)',44.255935,-76.504635
 222,'','Vlg Dr (E Of Montreal)',44.254814,-76.483168
 223,'','Hickson Ave (E Of Montreal)',44.252758,-76.48494
 224,'','Hickson Ave (W Of Montreal)',44.252824,-76.485114
@@ -348,15 +350,11 @@
 429,'','Bader Ln (W Of University)',44.225415,-76.495724
 430,'','Douglas Library (E Of University)',44.22728,-76.495401
 431,'','University Ave (S Of Union)',44.227836,-76.495983
-432,'','Frontenac St (S Of Union)',44.227504,-76.498206
 433,'','Albert St (S Of Union)',44.227202,-76.499889
 436,'','Beverley St (S Of Union)',44.226627,-76.502609
 437,'','Victoria St (N Of Union)',44.226873,-76.502334
-438,'','Ctr St (N Of Union)',44.226025,-76.505031
-439,'','Ctr St (S Of Union)',44.22591,-76.505007
 440,'','St Mary''s Of The Lk Hosp (N Of Union)',44.225472,-76.506925
 441,'','Pembroke St (N Of Union)',44.22457,-76.509805
-442,'','Alwington Ave (S Of Union)',44.223837,-76.511756
 444,'','Queen''s W Campus (N Of Union)',44.22337,-76.513975
 445,'','Forsythe Ave (W Of Yonge)',44.227083,-76.518241
 446,'','Yonge St (S Of Forsythe)',44.226918,-76.518465
