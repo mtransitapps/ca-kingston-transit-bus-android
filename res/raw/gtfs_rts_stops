@@ -214,7 +214,6 @@
 265,'','Artillery Pk (W Of Bagot)',44.234142,-76.483928
 266,'','K-Rock Ctr (W Of Ontario)',44.233332,-76.478892
 269,'','Queen St (E Of Montreal)',44.233185,-76.485106
-270,'','Sydenham St (S Of Princess)',44.232222,-76.487013
 271,'','342 Princess St (S)',44.232695,-76.490086
 272,'','Barrie St (S Of Princess)',44.233048,-76.492165
 273,'','Princess St (E Of Division)',44.232561,-76.492708
@@ -633,7 +632,7 @@
 776,'','Sherwood Ave (S Of Manitou)',44.220002,-76.643417
 777,'','The Moorings (S Of Bath)',44.221462,-76.633553
 780,'','Kildare Ave (W Of Manitou)',44.223097,-76.6511
-782,'','Clifford St (N Of Kidd)',44.220924,-76.659918
+782,'','Kildare Ave (E Of Kidd)',44.222274,-76.655041
 785,'','286 Amherst Dr (S)',44.227183,-76.654877
 787,'','Pittsfield St (S Of Amherst)',44.226842,-76.646699
 788,'','Upper Pk Rd (S Of Amherst)',44.225883,-76.642591
@@ -758,6 +757,7 @@
 2077,'','Cataraqui Ctr Transfer Pt',44.255084,-76.571984
 2078,'','Cataraqui Ctr Transfer Pt',44.255079,-76.572609
 2080,'','Hwy 15 @ StarTek (N Of Innovation)',44.272163,-76.446106
+3005,'','Montreal St (S Of Queen)',44.232886,-76.485507
 9001,'','Prince Charles Dr (E Of Collins Bay)',44.24686,-76.610375
 9002,'','Taylor-Kidd Blvd (E Of Collins Bay)',44.249958,-76.610546
 9003,'','Mona Dr (S Of Taylor-Kidd)',44.251549,-76.601242
@@ -818,6 +818,8 @@
 9074,'','John Counter Blvd (W Of Leroy Grant)',44.25851,-76.506244
 9075,'','Crossfield Ave (W Of Andersen)',44.264833,-76.548972
 9076,'','Douglas Ave (S Of Elliott)',44.25595,-76.504094
+9078,'','1281 Midland Ave (W)',44.271066,-76.574374
+9079,'','1281 Midland Ave (E)',44.271051,-76.574107
 9201,'','Union St (W Of University)',44.228083,-76.495693
 9202,'','Bagot St (E) N Of Brock St',44.231267,-76.484236
 9203,'','Wolfe Isl Ferry Dock (E Of Ontario)',44.232682,-76.478871
