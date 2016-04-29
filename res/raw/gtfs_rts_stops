@@ -32,8 +32,6 @@
 33,'','Invista (S Of Front)',44.218866,-76.559268
 34,'','Trailhead Pl (S Of King)',44.219908,-76.538267
 35,'','McEwen Dr (N Of Bath)',44.237669,-76.57423
-36,'','Duncan McArthur Hall (S Of Driveway)',44.223469,-76.515282
-37,'','Duncan McArthur Hall (N Of Driveway)',44.22363,-76.515356
 39,'','Taylor-Kidd Blvd (E Of Progress)',44.248204,-76.578164
 40,'','775 Progress Ave (S)',44.247564,-76.577801
 41,'','Futures Gt (S Of Princess)',44.258027,-76.553042
@@ -582,13 +580,6 @@
 697,'','Littlestone Cr (S Of Davis)',44.251579,-76.557863
 698,'','Vista Dr (N Of Bath)',44.237358,-76.584267
 700,'','St Martha St (S Of Rose Abbey)',44.266354,-76.447311
-705,'','John Orr Tower (W Of Driveway)',44.225801,-76.514185
-706,'','John Orr Tower (E Of Driveway)',44.225694,-76.514052
-707,'','Jean Royce Hall (N Of Driveway)',44.224596,-76.51613
-708,'','Jean Royce Hall (S Of Driveway)',44.224499,-76.516011
-709,'','Earl St (E Of University Ave)',44.22976,-76.495514
-710,'','Victoria Hall (N Of Bader)',44.225056,-76.498223
-711,'','Victoria Hall (S Of Bader)',44.22489,-76.498467
 712,'','INVISTA Ctr',44.276089,-76.568368
 716,'','Hyde St (E Of Lakeview)',44.222911,-76.571962
 717,'','Henderson Blvd (W Of Lakeview)',44.227639,-76.57255
@@ -812,8 +803,6 @@
 9069,'','212 Dalton Ave (S)',44.267724,-76.507335
 9070,'','Alfred St (S Of Princess)',44.235242,-76.497733
 9071,'','Grenadier Dr (N Of Rose Abbey)',44.258545,-76.452228
-9072,'','King St (W Of Albert)',44.222637,-76.499559
-9073,'','Stuart St (E Of Albert)',44.223567,-76.499446
 9074,'','John Counter Blvd (W Of Leroy Grant)',44.25851,-76.506244
 9075,'','Crossfield Ave (W Of Andersen)',44.264833,-76.548972
 9076,'','Douglas Ave (S Of Elliott)',44.25595,-76.504094
