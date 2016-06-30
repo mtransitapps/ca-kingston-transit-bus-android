@@ -75,7 +75,7 @@
 93,'','Royal Military College (S Of Hwy 2)',44.235807,-76.468287
 94,'','Kimberley St (E Of Old Colony)',44.252016,-76.576939
 96,'','Ridley Dr (E Of Old Colony)',44.253841,-76.577244
-97,'','Norwest Rd (W Of Midland)',44.257052,-76.574201
+97,'','Norwest Rd (W Of Midland)',44.257056,-76.57421
 98,'','Bexley Gt (N Of Taylor-Kidd)',44.251253,-76.561299
 100,'','Milford Dr (S Of Taylor-Kidd)',44.247966,-76.581779
 101,'','RioCan Ctr (E Of Driveway)',44.244917,-76.565368
@@ -368,7 +368,6 @@
 459,'','Portsmouth Ave (N Of King)',44.220553,-76.524706
 460,'','Baiden St (E Of Portsmouth)',44.221577,-76.525138
 461,'','Cartwright Ave (S Of Churchill)',44.222438,-76.523623
-463,'','Churchill St (E Of Portsmouth)',44.222685,-76.525244
 464,'','Calderwood Dr (E Of Portsmouth)',44.224453,-76.525419
 465,'','KFL&A Health Unit (E Of Portsmouth)',44.227063,-76.525701
 467,'','Nickle Ave (W Of Portsmouth)',44.227041,-76.525876
@@ -460,7 +459,6 @@
 563,'','Roosevelt Dr (E Of Knightsbridge)',44.233443,-76.578589
 564,'','Vista Dr (N Of Roosevelt)',44.234445,-76.583723
 565,'','420 Gln Castle Rd (S)',44.231647,-76.579155
-566,'','860 Norwest Rd (N)',44.257436,-76.574692
 567,'','Henderson Blvd (E Of McEwen)',44.228501,-76.573612
 568,'','Henderson Blvd (W Of McEwen)',44.228358,-76.573784
 569,'','Henderson Blvd (E Of Gln Castle)',44.22796,-76.579421
@@ -587,7 +585,7 @@
 725,'','43 Grant Timmins Dr (S)',44.267088,-76.528818
 726,'','Binnington Court (N Of Dalton)',44.270288,-76.52863
 727,'','93 Grant Timmins Dr (S)',44.267436,-76.525053
-728,'','Dalton Ave (E Of Grant Timmins)',44.269298,-76.523089
+728,'','Dalton Ave (E Of Grant Timmins)',44.269299,-76.523099
 730,'','Warne Cr (S Of Dalton)',44.265672,-76.502023
 731,'','Owens Cr (N Of Kingsdale)',44.241777,-76.544575
 732,'','284 Kingsdale Ave (S)',44.241619,-76.545139
@@ -605,7 +603,6 @@
 745,'','1st Canada Ave (W Of Division)',44.264196,-76.498534
 746,'','King''s Xing Mall (E Of Division)',44.263662,-76.498175
 749,'','358 Yonge St (W)',44.229003,-76.518415
-750,'','Churchill St (W Of Portsmouth)',44.222414,-76.525416
 751,'','Baiden St (W Of Portsmouth)',44.221509,-76.525308
 754,'','Hyde St (W Of Lakeview)',44.222908,-76.57211
 755,'','Apprentice St (S Of Craftsman)',44.243111,-76.454527
@@ -635,7 +632,6 @@
 795,'','Addington St (E Of Loyalist)',44.223099,-76.635769
 796,'','Henry Cr (E Of Loyalist)',44.22564,-76.635803
 797,'','282 Amherst Dr (N)',44.227427,-76.654647
-799,'','Norwest Rd (E Of Midland)',44.257218,-76.574012
 800,'','Francis St (S Of Churchill)',44.222684,-76.521978
 803,'','Henderson Blvd (E Of Lakeview)',44.228025,-76.572422
 804,'','Frontenac Secondary School (N Of Bath)',44.237833,-76.577243
@@ -644,7 +640,6 @@
 810,'','Camberley Cr (E Of Gln Castle)',44.222486,-76.577568
 811,'','McEwen Dr (S Of Bath)',44.237462,-76.574973
 815,'','RioCan Ctr (N Of Taylor-Kidd)',44.25098,-76.564802
-816,'','940 Gardiners Rd (W)',44.257182,-76.568933
 818,'','École Secondaire Catholique Marie-Rivier',44.269264,-76.522146
 819,'','Fortune Cr (E Of Gardiners)',44.272025,-76.568916
 822,'','Midland Ave (S Of Cataraqui Woods)',44.267251,-76.57334
@@ -744,10 +739,10 @@
 2074,'','Gardiners Ctr Transfer Pt',44.236274,-76.567685
 2075,'','Gardiners Ctr Transfer Pt',44.236142,-76.567772
 2076,'','Centennial Dr (S Of Princess)',44.258054,-76.557569
-2077,'','Cataraqui Ctr Transfer Pt',44.255084,-76.571984
-2078,'','Cataraqui Ctr Transfer Pt',44.255079,-76.572609
 2080,'','Hwy 15 @ StarTek (N Of Innovation)',44.272163,-76.446106
 3005,'','Montreal St (S Of Queen)',44.232886,-76.485507
+3006,'','Cataraqui Ctr Transfer Pt',44.256864,-76.573135
+3007,'','Cataraqui Ctr Transfer Pt',44.256954,-76.57315
 9001,'','Prince Charles Dr (E Of Collins Bay)',44.24686,-76.610375
 9002,'','Taylor-Kidd Blvd (E Of Collins Bay)',44.249958,-76.610546
 9003,'','Mona Dr (S Of Taylor-Kidd)',44.251549,-76.601242
@@ -808,6 +803,7 @@
 9076,'','Douglas Ave (S Of Elliott)',44.25595,-76.504094
 9078,'','1281 Midland Ave (W)',44.271066,-76.574374
 9079,'','1281 Midland Ave (E)',44.271051,-76.574107
+9081,'','369 Dalton Ave (N)',44.26886,-76.518715
 9201,'','Union St (W Of University)',44.228083,-76.495693
 9202,'','Bagot St (E) N Of Brock St',44.231267,-76.484236
 9203,'','Wolfe Isl Ferry Dock (E Of Ontario)',44.232682,-76.478871
