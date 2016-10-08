@@ -5,7 +5,7 @@
 5,'','Holgate Cr (S Of Hudson)',44.244901,-76.592618
 6,'','Sheridan St (W Of Andersen)',44.260393,-76.549104
 7,'','W J Henderson Recreation Ctr',44.22594,-76.658933
-8,'','Collins Bay School (N Of Bath)',44.240991,-76.611012
+8,'','Sta St (N Of Bath)',44.239995,-76.613163
 10,'','Barnsley Cr (S Of Acadia)',44.232194,-76.59637
 11,'','1071 Acadia Dr (S)',44.232302,-76.594344
 12,'','Woodside Dr (E Of Mona)',44.252799,-76.602156
@@ -185,7 +185,7 @@
 228,'','670 Montreal St (W)',44.249904,-76.486019
 229,'','Railway St (E Of Montreal)',44.248755,-76.486387
 230,'','Joseph St (E Of Montreal)',44.245681,-76.487332
-231,'','Russell St (E Of Division St)',44.243604,-76.495049
+231,'','Russell St (E Of Division)',44.243604,-76.495049
 232,'','Fraser St (E Of Division)',44.24554,-76.495393
 233,'','Railway St (E Of Division)',44.247839,-76.495746
 234,'','Kingston Police (E Of Division)',44.250181,-76.496101
@@ -296,7 +296,6 @@
 368,'','Leroy Grant Dr (N Of Concession)',44.242072,-76.508288
 369,'','Victoria St (S Of Concession)',44.241238,-76.50313
 372,'','Concession St (E Of Kingscourt)',44.241736,-76.501108
-373,'','1st Ave (E Of Kingscourt)',44.242812,-76.501207
 374,'','Phillips St (E Of Portsmouth)',44.242931,-76.529127
 375,'','Fairview Rd (E Of Portsmouth)',44.244349,-76.529215
 376,'','Valleyview Ave (E Of Portsmouth)',44.246579,-76.529346
@@ -360,7 +359,7 @@
 449,'','Francis St (W Of Mowat)',44.225043,-76.520555
 450,'','Herbert St (E Of Mowat)',44.225186,-76.520381
 451,'','Francis St (S Of Churchill)',44.222565,-76.521629
-452,'','Cartwright Ave (N Of Churchill)',44.222558,-76.523798
+452,'','Cartwright St (N Of Churchill)',44.222558,-76.523798
 454,'','Seniors Ctr (W Of Francis)',44.224483,-76.521931
 455,'','Yonge St (S Of Union)',44.222207,-76.517284
 456,'','Yonge St (N Of Union)',44.222025,-76.51803
@@ -368,11 +367,11 @@
 458,'','McDonald Ave (N Of King)',44.220651,-76.522465
 459,'','Portsmouth Ave (N Of King)',44.220553,-76.524706
 460,'','Baiden St (E Of Portsmouth)',44.221577,-76.525138
-461,'','Cartwright Ave (S Of Churchill)',44.222438,-76.523623
+461,'','Cartwright St (S Of Churchill)',44.222438,-76.523623
 464,'','Calderwood Dr (E Of Portsmouth)',44.224453,-76.525419
 465,'','KFL&A Health Unit (E Of Portsmouth)',44.227063,-76.525701
 467,'','Nickle Ave (W Of Portsmouth)',44.227041,-76.525876
-468,'','High Gt Pk Dr (S Of Prince Charles',44.247259,-76.604789
+468,'','High Gt Pk Dr (S Of Prince Charles)',44.247259,-76.604789
 469,'','Gln Cv St (S Of Prince Charles)',44.246944,-76.609337
 470,'','Edwin St (E Of Waverley)',44.246597,-76.611088
 471,'','Mulcaster St (E Of Norman Rogers)',44.235324,-76.522916
@@ -425,8 +424,8 @@
 521,'','Country Club Dr (N Of King)',44.220377,-76.529336
 523,'','Trailhead Pl (N Of King)',44.220154,-76.538259
 524,'','Invista (N Of Front)',44.219022,-76.55952
-527,'','1600 Bath Rd (S Of Bath)',44.2369,-76.563545
-528,'','1600 Bath Rd (N Of Bath)',44.237226,-76.563883
+527,'','1600 Bath Rd (S)',44.2369,-76.563545
+528,'','1600 Bath Rd (N)',44.237226,-76.563883
 530,'','723 Aylmer Cr (W)',44.246437,-76.615531
 531,'','761 Aylmer Cr (W)',44.248057,-76.614557
 532,'','1347 Waverley Cr (S)',44.245459,-76.613842
@@ -568,7 +567,7 @@
 682,'','1121 Hudson Dr (S)',44.248475,-76.599868
 684,'','Lakeview Ave (S Of Cranbrook)',44.219489,-76.571827
 685,'','Cranbrook St (E Of Chelsea)',44.219198,-76.573974
-687,'','290 Gln Castle Rd (E Of Gln Castle)',44.225854,-76.579205
+687,'','290 Gln Castle Rd (E)',44.225854,-76.579205
 689,'','1055 Hudson Dr (W)',44.247211,-76.594186
 690,'','Douglas Ave (N Of Elliott)',44.256124,-76.503758
 692,'','Milford Dr (N Of Taylor-Kidd)',44.248117,-76.580795
@@ -578,9 +577,10 @@
 697,'','Littlestone Cr (S Of Davis)',44.251579,-76.557863
 698,'','Vista Dr (N Of Bath)',44.237358,-76.584267
 700,'','St Martha St (S Of Rose Abbey)',44.266354,-76.447311
-706,'','John Orr Tower (E Of Driveway)',44.225694,-76.514052
-708,'','Jean Royce Hall (S Of Driveway)',44.224499,-76.516011
-709,'','Earl St (E Of University Ave)',44.22976,-76.495514
+706,'','John Orr Tower (E Of W Campus Ln)',44.225694,-76.514052
+708,'','Jean Royce Hall (S Of W Campus Ln)',44.224499,-76.516011
+709,'','Earl St (E Of University)',44.22976,-76.495514
+710,'','Victoria Hall (N Of Bader)',44.225056,-76.498223
 712,'','INVISTA Ctr',44.276089,-76.568368
 716,'','Hyde St (E Of Lakeview)',44.222911,-76.571962
 717,'','Henderson Blvd (W Of Lakeview)',44.227639,-76.57255
@@ -604,7 +604,7 @@
 743,'','Peachwood St (E Of Birchwood)',44.270158,-76.578417
 744,'','2485 Princess St (S)',44.258155,-76.566225
 745,'','1st Canada Ave (W Of Division)',44.264196,-76.498534
-746,'','King''s Xing Mall (E Of Division)',44.263662,-76.498175
+746,'','1st Canada Ave (E Of Division)',44.263662,-76.498175
 750,'','Churchill St (W Of Portsmouth)',44.222414,-76.525416
 751,'','Baiden St (W Of Portsmouth)',44.221509,-76.525308
 754,'','Hyde St (W Of Lakeview)',44.222908,-76.57211
@@ -819,6 +819,7 @@
 9082,'','270 Princess St (S)',44.232323,-76.487666
 9083,'','321 Yonge St (E)',44.227835,-76.518114
 9084,'','Brackenwood Cr (W Of Birchwood)',44.267875,-76.579015
+9085,'','Sta St (S Of Bath)',44.239868,-76.613028
 9201,'','Union St (W Of University)',44.228083,-76.495693
 9202,'','Bagot St (E) N Of Brock St',44.231267,-76.484236
 9203,'','Wolfe Isl Ferry Dock (E Of Ontario)',44.232682,-76.478871
@@ -830,7 +831,7 @@
 9210,'','Kingston Ctr (S Of Bath)',44.240496,-76.516575
 9211,'','324 Palace Rd (W)',44.233922,-76.513949
 9212,'','Barrie St (S Of Johnson)',44.230931,-76.491395
-9215,'','King''s Xing S (N Of Access Rd)',44.263709,-76.500256
+9215,'','King''s Xing S (N Of Driveway)',44.263709,-76.500256
 9217,'','325 Palace Rd (E)',44.233918,-76.51368
 9218,'','Gardiners Ctr (N Of Bath)',44.237269,-76.566817
 9221,'','McCallum St (E Of Rose Abbey)',44.26387,-76.446604
@@ -838,7 +839,7 @@
 9224,'','695 Innovation Dr (W)',44.272281,-76.439313
 9225,'','Barrett Court (E Of Hwy 15)',44.25054,-76.460621
 9226,'','Grenadier Dr (E Of Hwy 15)',44.253788,-76.460387
-9227,'','King''s Xing N (E Of Access Rd)',44.264918,-76.502752
+9227,'','King''s Xing N (E Of Driveway)',44.264918,-76.502752
 9228,'','Development Dr (W Of Gardiners)',44.242018,-76.567924
 9229,'','Kirkpatrick St (E Of Division)',44.253649,-76.496633
 9230,'','Ridley Dr (W Of Old Colony)',44.25392,-76.577553
