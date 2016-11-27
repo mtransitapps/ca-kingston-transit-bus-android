@@ -5,7 +5,7 @@ Kingston Transit buses for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from September 6, 2016 to December 31, 2016.
+Schedule from November 22, 2016 to December 21, 2016.
 ----------
 Full description:
 This application adds Kingston Transit buses information to MonTransit.
