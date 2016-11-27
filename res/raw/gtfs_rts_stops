@@ -174,8 +174,6 @@
 216,'','Derby Gt Cr (N Of Elliott)',44.256373,-76.498602
 217,'','Rigney St (N Of John Counter)',44.259561,-76.502978
 218,'','Rigney St (S Of John Counter)',44.259403,-76.503032
-219,'','Wycliffe Cr (S Of Elliott)',44.256043,-76.502086
-220,'','Adley Pl (S Of Elliott)',44.255935,-76.504635
 222,'','Vlg Dr (E Of Montreal)',44.254814,-76.483168
 223,'','Hickson Ave (E Of Montreal)',44.252758,-76.48494
 224,'','Hickson Ave (W Of Montreal)',44.252824,-76.485114
@@ -605,7 +603,6 @@
 744,'','2485 Princess St (S)',44.258155,-76.566225
 745,'','1st Canada Ave (W Of Division)',44.264196,-76.498534
 746,'','1st Canada Ave (E Of Division)',44.263662,-76.498175
-750,'','Churchill St (W Of Portsmouth)',44.222414,-76.525416
 751,'','Baiden St (W Of Portsmouth)',44.221509,-76.525308
 754,'','Hyde St (W Of Lakeview)',44.222908,-76.57211
 755,'','Apprentice St (S Of Craftsman)',44.243111,-76.454527
@@ -644,6 +641,7 @@
 810,'','Camberley Cr (E Of Gln Castle)',44.222486,-76.577568
 811,'','McEwen Dr (S Of Bath)',44.237462,-76.574973
 815,'','RioCan Ctr (N Of Taylor-Kidd)',44.25098,-76.564802
+816,'','940 Gardiners Rd (W)',44.257182,-76.568933
 818,'','École Secondaire Catholique Marie-Rivier',44.269264,-76.522146
 819,'','Fortune Cr (E Of Gardiners)',44.272025,-76.568916
 822,'','Midland Ave (S Of Cataraqui Woods)',44.267251,-76.57334
@@ -743,15 +741,15 @@
 2074,'','Gardiners Ctr Transfer Pt',44.236274,-76.567685
 2075,'','Gardiners Ctr Transfer Pt',44.236142,-76.567772
 2076,'','Centennial Dr (S Of Princess)',44.258054,-76.557569
+2077,'','Cataraqui Ctr Transfer Pt Bay 1',44.254997,-76.572089
+2078,'','Cataraqui Ctr Transfer Pt Bay 2',44.254926,-76.572082
+2079,'','Cataraqui Ctr Transfer Pt Bay 3',44.254995,-76.572207
 2080,'','Innovation Dr @ Hwy 15 (N)',44.272163,-76.446106
-3006,'','Cataraqui Ctr Transfer Pt',44.256864,-76.573135
-3007,'','Cataraqui Ctr Transfer Pt',44.256954,-76.57315
-3008,'','Cataraqui Ctr Transfer Pt',44.257018,-76.573159
-3009,'','Cataraqui Ctr Transfer Pt',44.257086,-76.573161
-3010,'','Cataraqui Ctr Transfer Pt',44.25716,-76.57317
-3011,'','Cataraqui Ctr Transfer Pt',44.257233,-76.573172
-3012,'','Cataraqui Ctr Transfer Pt',44.257278,-76.573192
-3013,'','Cataraqui Ctr Transfer Pt',44.257333,-76.5732
+2081,'','Cataraqui Ctr Transfer Pt Bay 4',44.254923,-76.572202
+2082,'','Cataraqui Ctr Transfer Pt Bay 5',44.25499,-76.572377
+2083,'','Cataraqui Ctr Transfer Pt Bay 6',44.254918,-76.57237
+2084,'','Cataraqui Ctr Transfer Pt Bay 7',44.254992,-76.572512
+2085,'','Cataraqui Ctr Transfer Pt Bay 8',44.254914,-76.572508
 9001,'','Prince Charles Dr (E Of Collins Bay)',44.24686,-76.610375
 9002,'','Taylor-Kidd Blvd (E Of Collins Bay)',44.249958,-76.610546
 9003,'','Mona Dr (S Of Taylor-Kidd)',44.251549,-76.601242
@@ -820,6 +818,8 @@
 9083,'','321 Yonge St (E)',44.227835,-76.518114
 9084,'','Brackenwood Cr (W Of Birchwood)',44.267875,-76.579015
 9085,'','Sta St (S Of Bath)',44.239868,-76.613028
+9086,'','Churchill St (W Of Mowat)',44.222851,-76.520363
+9087,'','Churchill St (E Of Mowat)',44.222835,-76.520142
 9201,'','Union St (W Of University)',44.228083,-76.495693
 9202,'','Bagot St (E) N Of Brock St',44.231267,-76.484236
 9203,'','Wolfe Isl Ferry Dock (E Of Ontario)',44.232682,-76.478871
