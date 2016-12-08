@@ -211,8 +211,6 @@
 265,'','Artillery Pk (W Of Bagot)',44.234142,-76.483928
 266,'','Rogers K-Rock Ctr (W Of Ontario)',44.233332,-76.478892
 269,'','Queen St (E Of Montreal)',44.233185,-76.485106
-270,'','Sydenham St (S Of Princess)',44.232222,-76.487013
-271,'','342 Princess St (S)',44.232695,-76.490086
 272,'','Barrie St (S Of Princess)',44.233048,-76.492165
 273,'','Princess St (E Of Division)',44.232561,-76.492708
 274,'','University Ave (N Of Brock)',44.232638,-76.495361
@@ -401,8 +399,8 @@
 497,'','Ross St (W Of Robert Wallace)',44.23346,-76.527769
 498,'','Van Order Dr @ L.C.V.I (W)',44.237688,-76.520347
 501,'','Kingston Ctr - Northeast Bay',44.242145,-76.51677
-502,'','Kingston Ctr - Ctr-E Bay',44.241996,-76.516773
-503,'','Kingston Ctr - Southeast Bay',44.241834,-76.516756
+502,'','Kingston Ctr - Ctr-E Bay',44.241996,-76.516799
+503,'','Kingston Ctr - Southeast Bay',44.241814,-76.516788
 504,'','Polson Pk School (S Of Robert Wallace)',44.234751,-76.529552
 505,'','Polson Pk School (N Of Robert Wallace)',44.234854,-76.529637
 506,'','Kingston Ctr - Southwest Bay',44.241906,-76.516895
@@ -738,18 +736,18 @@
 2069,'','Beechgrove (S Of King)',44.220466,-76.52296
 2070,'','St Lawrence College Transfer Pt',44.223724,-76.526421
 2072,'','1000 King St W (S)',44.219858,-76.535223
-2074,'','Gardiners Ctr Transfer Pt',44.236274,-76.567685
-2075,'','Gardiners Ctr Transfer Pt',44.236142,-76.567772
+2074,'','Gardiners Ctr Transfer Pt',44.236183,-76.567779
+2075,'','Gardiners Ctr Transfer Pt',44.235904,-76.567896
 2076,'','Centennial Dr (S Of Princess)',44.258054,-76.557569
-2077,'','Cataraqui Ctr Transfer Pt Bay 1',44.254997,-76.572089
-2078,'','Cataraqui Ctr Transfer Pt Bay 2',44.254926,-76.572082
-2079,'','Cataraqui Ctr Transfer Pt Bay 3',44.254995,-76.572207
+2077,'','Cataraqui Ctr Transfer Pt Bay 1',44.255201,-76.57236
+2078,'','Cataraqui Ctr Transfer Pt Bay 2',44.254983,-76.572348
+2079,'','Cataraqui Ctr Transfer Pt Bay 3',44.255195,-76.572555
 2080,'','Innovation Dr @ Hwy 15 (N)',44.272163,-76.446106
-2081,'','Cataraqui Ctr Transfer Pt Bay 4',44.254923,-76.572202
-2082,'','Cataraqui Ctr Transfer Pt Bay 5',44.25499,-76.572377
-2083,'','Cataraqui Ctr Transfer Pt Bay 6',44.254918,-76.57237
-2084,'','Cataraqui Ctr Transfer Pt Bay 7',44.254992,-76.572512
-2085,'','Cataraqui Ctr Transfer Pt Bay 8',44.254914,-76.572508
+2081,'','Cataraqui Ctr Transfer Pt Bay 4',44.25497,-76.572602
+2082,'','Cataraqui Ctr Transfer Pt Bay 5',44.255194,-76.572713
+2083,'','Cataraqui Ctr Transfer Pt Bay 6',44.254966,-76.572795
+2084,'','Cataraqui Ctr Transfer Pt Bay 7',44.255193,-76.572905
+2085,'','Cataraqui Ctr Transfer Pt Bay 8',44.254959,-76.573005
 9001,'','Prince Charles Dr (E Of Collins Bay)',44.24686,-76.610375
 9002,'','Taylor-Kidd Blvd (E Of Collins Bay)',44.249958,-76.610546
 9003,'','Mona Dr (S Of Taylor-Kidd)',44.251549,-76.601242
