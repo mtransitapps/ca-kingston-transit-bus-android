@@ -22,7 +22,11 @@
 1500,0,'Reddendale',15
 1601,0,'Bus Terminal',16
 1600,0,'Train Sta',16
+1701,0,'Main Campus',17
+1702,0,'West Campus',17
 1800,0,'Train Sta Circuit',18
+2001,0,'Main Campus',20
+2002,0,'West Campus',20
 50100,0,'Express',501
 50201,0,'Express',502
 60101,0,'Express - Queen''s / KGH',601

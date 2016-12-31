@@ -32,6 +32,7 @@
 33,'','Invista (S Of Front)',44.218866,-76.559268
 34,'','Trailhead Pl (S Of King)',44.219908,-76.538267
 35,'','McEwen Dr (N Of Bath)',44.237669,-76.57423
+37,'','Duncan McArthur Hall (N Of Driveway)',44.22363,-76.515356
 39,'','Taylor-Kidd Blvd (E Of Progress)',44.248204,-76.578164
 40,'','775 Progress Ave (S)',44.247564,-76.577801
 41,'','Futures Gt (S Of Princess)',44.258027,-76.553042
@@ -570,6 +571,10 @@
 697,'','Littlestone Cr (S Of Davis)',44.251579,-76.557863
 698,'','Vista Dr (N Of Bath)',44.237358,-76.584267
 700,'','St Martha St (S Of Rose Abbey)',44.266354,-76.447311
+706,'','John Orr Tower (E Of W Campus Ln)',44.225694,-76.514052
+708,'','Jean Royce Hall (S Of W Campus Ln)',44.224499,-76.516011
+709,'','Earl St (E Of University)',44.22976,-76.495514
+710,'','Victoria Hall (N Of Bader)',44.225056,-76.498223
 712,'','INVISTA Ctr',44.276089,-76.568368
 716,'','Hyde St (E Of Lakeview)',44.222911,-76.571962
 717,'','Henderson Blvd (W Of Lakeview)',44.227639,-76.57255
@@ -610,7 +615,7 @@
 776,'','Sherwood Ave (S Of Manitou)',44.220002,-76.643417
 777,'','The Moorings (S Of Bath)',44.221462,-76.633553
 780,'','Kildare Ave (W Of Manitou)',44.223097,-76.6511
-782,'','Clifford St (N Of Kildare)',44.220924,-76.659918
+782,'','Kildare Ave (E Of Kidd)',44.222274,-76.655041
 785,'','286 Amherst Dr (S)',44.227183,-76.654877
 787,'','Pittsfield St (S Of Amherst)',44.226842,-76.646699
 788,'','Upper Pk Rd (S Of Amherst)',44.225883,-76.642591
@@ -796,12 +801,14 @@
 9069,'','212 Dalton Ave (S)',44.267757,-76.507352
 9070,'','Alfred St (S Of Princess)',44.235242,-76.497733
 9071,'','Grenadier Dr (N Of Rose Abbey)',44.258545,-76.452228
+9072,'','King St (W Of Albert)',44.222637,-76.499559
 9074,'','John Counter Blvd (W Of Leroy Grant)',44.25851,-76.506244
 9075,'','Crossfield Ave (W Of Andersen)',44.264833,-76.548972
 9076,'','Douglas Ave (S Of Elliott)',44.25595,-76.504094
 9077,'','Portsmouth Ave (N Of Princess)',44.249517,-76.529316
 9078,'','1281 Midland Ave (W)',44.271066,-76.574374
 9079,'','1281 Midland Ave (E)',44.271051,-76.574107
+9080,'','St Lawrence Ave (S Of Stuart)',44.223617,-76.499004
 9081,'','369 Dalton Ave (N)',44.26886,-76.518715
 9082,'','270 Princess St (S)',44.232323,-76.487666
 9083,'','321 Yonge St (E)',44.227835,-76.518114
@@ -809,6 +816,7 @@
 9085,'','Sta St (S Of Bath)',44.239868,-76.613028
 9086,'','Churchill St (W Of Mowat)',44.222851,-76.520363
 9087,'','Churchill St (E Of Mowat)',44.222835,-76.520142
+9088,'','Speers Blvd (N Of Kildare)',44.220561,-76.66115
 9201,'','Union St (W Of University)',44.228083,-76.495693
 9202,'','Bagot St (E) N Of Brock St',44.231267,-76.484236
 9203,'','Wolfe Isl Ferry Dock (E Of Ontario)',44.232682,-76.478871
