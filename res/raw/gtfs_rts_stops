@@ -58,7 +58,7 @@
 69,'','Maple Rdg Dr (S Of Bath)',44.228131,-76.62722
 70,'','Fraser St (W Of Division)',44.245348,-76.495562
 73,'','Rockford Pl (S Of Elliott)',44.256091,-76.501287
-75,'','Tivoli & Sierra Avenues (S Of Tivoli)',44.272702,-76.576888
+75,'','Sierra Ave (S Of Tivoli)',44.272702,-76.576888
 77,'','Loblaws (E Of Midland)',44.260567,-76.57396
 78,'','Cataraqui Woods Dr (E Of Midland)',44.268654,-76.574096
 79,'','Barriefield (E Of Hwy 15)',44.241349,-76.459008
@@ -162,9 +162,9 @@
 201,'','Weller Ave @ KCHC (W Of Compton)',44.262232,-76.490804
 202,'','Compton St (S Of Weller)',44.261851,-76.490514
 203,'','Trillium Court (N Of Weller)',44.261778,-76.49316
-204,'','70 Compton St @ Walkway (S)',44.264429,-76.490292
-205,'','71 Compton St @ Walkway (N)',44.264519,-76.490613
-206,'','230 Conacher Dr @ Walkway (S)',44.26564,-76.491333
+204,'','70 Compton St (S)',44.264429,-76.490292
+205,'','71 Compton St (N)',44.264519,-76.490613
+206,'','230 Conacher Dr (S)',44.26564,-76.491333
 207,'','235 Conacher Dr (N)',44.265768,-76.491195
 208,'','300 Conacher Dr (S)',44.266198,-76.494725
 209,'','Kingslake Plz (S Of Benson)',44.266344,-76.497317
@@ -230,8 +230,8 @@
 292,'','Barrie St (N Of Brock)',44.232074,-76.491429
 294,'','Clergy St (N Of Brock)',44.231757,-76.489429
 295,'','Bagot St (S Of Princess)',44.231725,-76.483716
-297,'','Public Library (W Of Bagot @ Johnson)',44.229828,-76.4855
-298,'','Public Library (E Of Bagot @ Johnson)',44.230313,-76.484872
+297,'','Johnson St (W Of Bagot)',44.229828,-76.4855
+298,'','Johnson St (E Of Bagot)',44.230313,-76.484872
 299,'','Earl St (W Of Bagot)',44.228732,-76.486443
 300,'','Earl St (E Of Bagot)',44.228442,-76.486472
 301,'','W St (N Of Bagot)',44.227113,-76.487874
@@ -280,7 +280,7 @@
 356,'','Albert St (S Of Princess)',44.236518,-76.500814
 357,'','Albert St (N Of Princess)',44.236604,-76.500512
 359,'','Victoria St (S Of Princess)',44.237566,-76.503299
-360,'','671 Princess St @ Legion Villa (N)',44.238259,-76.504468
+360,'','Legion Villa (N Of Princess)',44.238259,-76.504468
 361,'','Macdonnell St (S Of Princess)',44.238378,-76.50527
 362,'','Macdonnell St (N Of Princess)',44.238967,-76.506193
 363,'','800 Princess St (S)',44.239587,-76.508129
@@ -396,12 +396,12 @@
 496,'','Strachan Ave (E Of Robert Wallace)',44.233197,-76.527487
 497,'','Ross St (W Of Robert Wallace)',44.23346,-76.527769
 498,'','Van Order Dr @ L.C.V.I (W)',44.237688,-76.520347
-501,'','Kingston Ctr - Northeast Bay',44.242145,-76.51677
-502,'','Kingston Ctr - Ctr-E Bay',44.241996,-76.516799
-503,'','Kingston Ctr - Southeast Bay',44.241814,-76.516788
+501,'','Kingston Ctr Transfer Pt Platform 1',44.242145,-76.51677
+502,'','Kingston Ctr Transfer Pt Platform 2',44.241996,-76.516799
+503,'','Kingston Ctr Transfer Pt Platform 3',44.241814,-76.516788
 504,'','Polson Pk School (S Of Robert Wallace)',44.234751,-76.529552
 505,'','Polson Pk School (N Of Robert Wallace)',44.234854,-76.529637
-506,'','Kingston Ctr - Southwest Bay',44.241906,-76.516895
+506,'','Kingston Ctr Transfer Pt Platform 6',44.241906,-76.516895
 507,'','Queen Mary Rd (S Of Robert Wallace)',44.234415,-76.532866
 508,'','Portsmouth Ave (N Of Bath)',44.239456,-76.530335
 509,'','Grenville Rd (N Of Bath)',44.239028,-76.533643
@@ -474,7 +474,7 @@
 588,'','543 Roosevelt Dr (S)',44.234408,-76.584436
 589,'','745 Davis Dr (N)',44.256026,-76.564287
 590,'','425 Knightsbridge Rd (W)',44.233183,-76.578825
-591,'','Bigham Crourt (S Of Davis)',44.252886,-76.564196
+591,'','Bigham Court (S Of Davis)',44.252886,-76.564196
 592,'','419 Gln Castle Rd (N)',44.231768,-76.579021
 593,'','Whistler Ter (S Of Davis)',44.252265,-76.561975
 594,'','Henderson Blvd (W Of Gln Castle)',44.228306,-76.579592
@@ -483,7 +483,7 @@
 597,'','McKay St (S Of Development)',44.241275,-76.576584
 598,'','McKay St (N Of Development)',44.241267,-76.577127
 599,'','Brookside Dr (N Of Prince Charles)',44.247104,-76.608523
-600,'','High Gt Pk Dr (N Of Prince Charles',44.247389,-76.604524
+600,'','High Gt Pk Dr (N Of Hillside)',44.247389,-76.604524
 601,'','Taylor-Kidd Blvd (W Of Liston)',44.251745,-76.594507
 602,'','Chancery St (W Of Lancaster)',44.254544,-76.589981
 603,'','917 Lancaster Dr (S)',44.256415,-76.591421
@@ -579,7 +579,7 @@
 716,'','Hyde St (E Of Lakeview)',44.222911,-76.571962
 717,'','Henderson Blvd (W Of Lakeview)',44.227639,-76.57255
 718,'','McEwen Dr (W Of Lakeview)',44.224021,-76.572226
-725,'','43 Grant Timmins Dr (S)',44.267088,-76.528818
+725,'','Grant Timmins Dr (W Of Binnington)',44.267088,-76.528818
 726,'','Binnington Court (N Of Dalton)',44.270288,-76.52863
 727,'','93 Grant Timmins Dr (S)',44.267436,-76.525053
 728,'','Dalton Ave (E Of Grant Timmins)',44.269299,-76.523099
@@ -629,7 +629,7 @@
 796,'','Henry Cr (E Of Loyalist)',44.22564,-76.635803
 797,'','282 Amherst Dr (N)',44.227427,-76.654647
 799,'','Norwest Rd (E Of Midland)',44.257216,-76.574003
-800,'','Francis St (S Of Churchill)',44.222684,-76.521978
+800,'','Francis St (N Of Churchill)',44.222684,-76.521978
 803,'','Henderson Blvd (E Of Lakeview)',44.228025,-76.572422
 804,'','Frontenac Secondary School (N Of Bath)',44.237833,-76.577243
 806,'','Centennial Dr (S Of Bath)',44.237431,-76.548205
@@ -737,15 +737,15 @@
 2074,'','Gardiners Ctr Transfer Pt',44.236183,-76.567779
 2075,'','Gardiners Ctr Transfer Pt',44.235904,-76.567896
 2076,'','Centennial Dr (S Of Princess)',44.258054,-76.557569
-2077,'','Cataraqui Ctr Transfer Pt Bay 1',44.255201,-76.57236
-2078,'','Cataraqui Ctr Transfer Pt Bay 2',44.254983,-76.572348
-2079,'','Cataraqui Ctr Transfer Pt Bay 3',44.255195,-76.572555
+2077,'','Cataraqui Ctr Transfer Pt Platform 1',44.255201,-76.57236
+2078,'','Cataraqui Ctr Transfer Pt Platform 2',44.254983,-76.572348
+2079,'','Cataraqui Ctr Transfer Pt Platform 3',44.255195,-76.572555
 2080,'','Innovation Dr @ Hwy 15 (N)',44.272163,-76.446106
-2081,'','Cataraqui Ctr Transfer Pt Bay 4',44.25497,-76.572602
-2082,'','Cataraqui Ctr Transfer Pt Bay 5',44.255194,-76.572713
-2083,'','Cataraqui Ctr Transfer Pt Bay 6',44.254966,-76.572795
-2084,'','Cataraqui Ctr Transfer Pt Bay 7',44.255193,-76.572905
-2085,'','Cataraqui Ctr Transfer Pt Bay 8',44.254959,-76.573005
+2081,'','Cataraqui Ctr Transfer Pt Platform 4',44.25497,-76.572602
+2082,'','Cataraqui Ctr Transfer Pt Platform 5',44.255194,-76.572713
+2083,'','Cataraqui Ctr Transfer Pt Platform 6',44.254966,-76.572795
+2084,'','Cataraqui Ctr Transfer Pt Platform 7',44.255193,-76.572905
+2085,'','Cataraqui Ctr Transfer Pt Platform 8',44.254959,-76.573005
 9001,'','Prince Charles Dr (E Of Collins Bay)',44.24686,-76.610375
 9002,'','Taylor-Kidd Blvd (E Of Collins Bay)',44.249958,-76.610546
 9003,'','Mona Dr (S Of Taylor-Kidd)',44.251549,-76.601242
@@ -781,7 +781,7 @@
 9043,'','Reddendale Plz (N Of Front)',44.218436,-76.57047
 9044,'','Lappan''s Ln (S Of John Counter)',44.259119,-76.509018
 9045,'','RioCan @ Best Buy (N Of Driveway)',44.248319,-76.566578
-9046,'','RioCan @ Petsmart (S Of Driveway)',44.248175,-76.56686
+9046,'','RioCan @ Petsmart (S Of Driveway)',44.248219,-76.566863
 9048,'','Bath Rd (E Of Collins Bay)',44.242006,-76.609897
 9049,'','Bath Rd (W Of Collins Bay)',44.241635,-76.610133
 9050,'','Lappan''s Ln (N Of John Counter)',44.259411,-76.50994
