@@ -1,4 +1,4 @@
-1,'','Montreal St Pk & Ride',44.278803,-76.472478
+1,'','1116 Hudson Dr (N)',44.248611,-76.599676
 2,'','Downing St (N Of Hudson)',44.248738,-76.59734
 3,'','Bayridge Pk (E Of Hudson)',44.247209,-76.59402
 4,'','Holgate Cr (N Of Hudson)',44.245049,-76.592393
@@ -14,7 +14,6 @@
 15,'','Edwin St (W Of Waverley)',44.246532,-76.611234
 16,'','1346 Waverley Cr (N)',44.2456,-76.613478
 17,'','Clark Cr (E Of Aylmer)',44.246738,-76.615175
-18,'','1385 Waverley Cr (S)',44.24398,-76.616558
 19,'','Sycamore St (N Of Bath)',44.236009,-76.620922
 20,'','Lower Dr (S Of Bath)',44.235592,-76.621216
 21,'','Homeward Ave (N Of Bath)',44.231803,-76.625191
@@ -24,26 +23,17 @@
 25,'','Coronation Blvd (N Of Bath)',44.225073,-76.629173
 26,'','Sackville Cr (S Of Acadia)',44.232929,-76.598081
 27,'','1189 Acadia Dr (W Of Acadia)',44.23532,-76.598681
-28,'','1386 Waverley Cr (N)',44.244197,-76.616882
-29,'','Princess Mary Ave (N Of Caen)',44.240608,-76.439611
 30,'','Coverdale Dr (W Of Walden)',44.237889,-76.597904
 31,'','Stoneridge Dr (N Of Coverdale)',44.237438,-76.592063
-32,'','Brock St (N) E Of Bagot St',44.230997,-76.484183
-33,'','Invista (S Of Front)',44.218866,-76.559268
-34,'','Trailhead Pl (S Of King)',44.219908,-76.538267
 35,'','McEwen Dr (N Of Bath)',44.237669,-76.57423
-37,'','Duncan McArthur Hall (N Of Driveway)',44.22363,-76.515356
 39,'','Taylor-Kidd Blvd (E Of Progress)',44.248204,-76.578164
 40,'','775 Progress Ave (S)',44.247564,-76.577801
 41,'','Futures Gt (S Of Princess)',44.258027,-76.553042
 42,'','King St E (S Of Princess)',44.231347,-76.481421
-43,'','Pkwy (N Of Princess)',44.251339,-76.532871
-44,'','Pkwy (S Of Princess)',44.251381,-76.533556
 48,'','Assurant (W Of Gardiners)',44.272013,-76.569326
 49,'','Brackenwood Cr (E Of Birchwood)',44.267871,-76.578791
 50,'','Trillium Rdg (W Of Edgar)',44.250517,-76.552933
 51,'','Rockford Pl (N Of Elliott)',44.256214,-76.501465
-52,'','John Counter Blvd (E Of Leroy Grant)',44.258747,-76.506034
 53,'','Russell St (W Of Montreal)',44.244218,-76.487762
 54,'','Joseph St (W Of Montreal)',44.245948,-76.487455
 55,'','Mowat Ave (N Of Union)',44.221066,-76.519829
@@ -71,7 +61,6 @@
 86,'','Canal Du Nord Dr (N Of Lundy''s)',44.238512,-76.440885
 88,'','Mercury Cr (E Of Craftsman)',44.242434,-76.438967
 89,'','Mercury Cr (W Of Craftsman)',44.242297,-76.439095
-90,'','Old Colony Rd (W Of Bayridge)',44.255296,-76.586857
 91,'','Downing St (S Of Hudson)',44.248623,-76.597028
 92,'','King St E @ City Hall (E)',44.229844,-76.481619
 93,'','Royal Military College (S Of Hwy 2)',44.235807,-76.468287
@@ -80,14 +69,11 @@
 97,'','Norwest Rd (W Of Midland)',44.257056,-76.57421
 98,'','Bexley Gt (N Of Taylor-Kidd)',44.251253,-76.561299
 100,'','Milford Dr (S Of Taylor-Kidd)',44.247966,-76.581779
-101,'','RioCan Ctr (E Of Driveway)',44.244917,-76.565368
-103,'','RioCan Ctr (W Of Driveway)',44.244954,-76.565499
 105,'','768 Aylmer Cr (E)',44.24817,-76.614334
 107,'','Albert St (N Of Union)',44.227303,-76.500075
 108,'','Albert St (S Of Johnson)',44.231529,-76.499329
 111,'','257 Bath Rd (N)',44.24013,-76.523279
 114,'','Moro St (N Of Craftsman)',44.244152,-76.442757
-115,'','Princess Mary Ave (S Of Caen)',44.240428,-76.439663
 116,'','Canal Du Nord Dr (S Of Lundy''s)',44.238413,-76.440719
 117,'','13 Lundy''s Ln (N)',44.238218,-76.445157
 118,'','Batoche Ave (S Of Lundy''s)',44.237904,-76.44832
@@ -98,12 +84,9 @@
 123,'','Canex (E Of Niagara Pk)',44.238021,-76.455173
 124,'','Canex (W Of Niagara Pk)',44.23936,-76.455484
 125,'','Apprentice St (N Of Craftsman)',44.24317,-76.455264
-126,'','Hwy 2 @ Royal Military College (S)',44.237024,-76.465157
-127,'','Hwy 2 @ Royal Military College (N)',44.23646,-76.467285
 128,'','Constantine Arena (N Of Hwy 2)',44.235915,-76.468478
 132,'','Barrett Court (W Of Hwy 15)',44.249332,-76.461105
 134,'','Medley Court (W Of Hwy 15)',44.252837,-76.460839
-139,'','Rideau Town Ctr (N Of Gore)',44.259613,-76.455978
 141,'','Esdon St (W Of Guthrie)',44.272195,-76.481721
 142,'','Esdon St (E Of Guthrie)',44.272403,-76.481245
 143,'','1382 Montreal St (W)',44.272289,-76.478185
@@ -177,13 +160,10 @@
 222,'','Vlg Dr (E Of Montreal)',44.254814,-76.483168
 223,'','Hickson Ave (E Of Montreal)',44.252758,-76.48494
 224,'','Hickson Ave (W Of Montreal)',44.252824,-76.485114
-225,'','Royal Canadian Legion (W Of Montreal)',44.251305,-76.485683
-226,'','Belle Pk (E Of Montreal)',44.25115,-76.485444
 227,'','687 Montreal St (E)',44.250128,-76.485671
 228,'','670 Montreal St (W)',44.249904,-76.486019
 229,'','Railway St (E Of Montreal)',44.248755,-76.486387
 230,'','Joseph St (E Of Montreal)',44.245681,-76.487332
-231,'','Russell St (E Of Division)',44.243604,-76.495049
 232,'','Fraser St (E Of Division)',44.24554,-76.495393
 233,'','Railway St (E Of Division)',44.247839,-76.495746
 234,'','Kingston Police (E Of Division)',44.250181,-76.496101
@@ -211,7 +191,6 @@
 265,'','Artillery Pk (W Of Bagot)',44.234142,-76.483928
 266,'','Rogers K-Rock Ctr (W Of Ontario)',44.233332,-76.478892
 269,'','Queen St (E Of Montreal)',44.233185,-76.485106
-272,'','Barrie St (S Of Princess)',44.233048,-76.492165
 273,'','Princess St (E Of Division)',44.232561,-76.492708
 274,'','University Ave (N Of Brock)',44.232638,-76.495361
 275,'','Alfred St (N Of Princess)',44.235529,-76.497969
@@ -227,7 +206,6 @@
 288,'','Adelaide St (W Of Division)',44.240929,-76.494854
 290,'','University Ave (S Of Johnson)',44.23157,-76.495265
 291,'','Division St (S Of Johnson)',44.231227,-76.493078
-292,'','Barrie St (N Of Brock)',44.232074,-76.491429
 294,'','Clergy St (N Of Brock)',44.231757,-76.489429
 295,'','Bagot St (S Of Princess)',44.231725,-76.483716
 297,'','Johnson St (W Of Bagot)',44.229828,-76.4855
@@ -277,14 +255,10 @@
 351,'','Albert St (N Of Brock)',44.232864,-76.500897
 352,'','Alfred St (S Of Johnson)',44.231583,-76.497232
 353,'','Alfred St (N Of Brock)',44.232966,-76.4977
-356,'','Albert St (S Of Princess)',44.236518,-76.500814
-357,'','Albert St (N Of Princess)',44.236604,-76.500512
 359,'','Victoria St (S Of Princess)',44.237566,-76.503299
 360,'','Legion Villa (N Of Princess)',44.238259,-76.504468
 361,'','Macdonnell St (S Of Princess)',44.238378,-76.50527
 362,'','Macdonnell St (N Of Princess)',44.238967,-76.506193
-363,'','800 Princess St (S)',44.239587,-76.508129
-364,'','Drayton Ave (N Of Princess)',44.23995,-76.508582
 366,'','Westdale Ave (N Of Bath)',44.24102,-76.513653
 367,'','Leroy Grant Dr (S Of Concession)',44.241161,-76.506959
 368,'','Leroy Grant Dr (N Of Concession)',44.242072,-76.508288
@@ -295,7 +269,6 @@
 376,'','Valleyview Ave (E Of Portsmouth)',44.246579,-76.529346
 377,'','Howard Cr (E Of Portsmouth)',44.248492,-76.529492
 378,'','Portsmouth Ave (S Of Princess)',44.250016,-76.530786
-380,'','McMichael St (N Of Princess)',44.247967,-76.526023
 381,'','1225 Princess St (N)',44.246972,-76.523833
 382,'','Heathfield (S Of Princess)',44.245755,-76.521871
 383,'','Sir John A Macdonald Blvd (N Of Princess)',44.2454,-76.520563
@@ -313,8 +286,6 @@
 396,'','Princess St (S Of John Counter)',44.257402,-76.5413
 397,'','Taylor-Kidd Blvd (S Of Princess)',44.256577,-76.541683
 398,'','John Counter Blvd (N Of Princess)',44.257455,-76.542285
-399,'','Kingston Gospel Temple (S Of Princess)',44.257988,-76.548342
-400,'','Andersen Dr (N Of Princess)',44.258256,-76.549507
 402,'','Augusta Dr (N Of Princess)',44.25831,-76.555066
 403,'','Uxbridge Cr (N Of Waterloo)',44.254409,-76.555471
 404,'','Gardiners Rd (N Of Taylor-Kidd)',44.250805,-76.568015
@@ -323,36 +294,27 @@
 407,'','Vanguard Court (E Of Waterloo)',44.252579,-76.547801
 408,'','Tanglewood Dr (E Of Roosevelt)',44.231882,-76.58851
 410,'','Centennial Dr (S Of Davis)',44.251636,-76.555951
-411,'','The Isabel/Tett Centres (N Of King)',44.221627,-76.50695
 412,'','Sir John A Macdonald Blvd (N Of King)',44.221243,-76.512299
-413,'','Sir John A Macdonald Blvd (S Of King)',44.221116,-76.512032
 414,'','Alwington Ave (N Of King)',44.221412,-76.510162
 415,'','Livingston Ave (S Of King)',44.221355,-76.508924
-417,'','The Isabel/Tett Centres (S Of King)',44.221524,-76.506548
 420,'','Beverley St (S Of King)',44.222163,-76.501907
 421,'','Beverley St (N Of King)',44.222244,-76.502024
 422,'','Albert St (N Of King)',44.222585,-76.499619
 423,'','Albert St (S Of King)',44.222456,-76.499522
 424,'','Lower University Ave (S Of King)',44.222917,-76.494293
 425,'','Lower University Ave (N Of King)',44.223,-76.4953
-426,'','Kingston General Hosp (S Of Stuart)',44.224275,-76.494835
-427,'','Kingston General Hosp (N Of Stuart)',44.22443,-76.494788
 428,'','University Ave @ Grant Hall (E)',44.225531,-76.495405
 429,'','Bader Ln (W Of University)',44.225415,-76.495724
-430,'','Douglas Library (E Of University)',44.22728,-76.495401
-431,'','University Ave (S Of Union)',44.227836,-76.495983
 433,'','Albert St (S Of Union)',44.227202,-76.499889
 436,'','Beverley St (S Of Union)',44.226627,-76.502609
 437,'','Victoria St (N Of Union)',44.226873,-76.502334
 440,'','St Mary''s Of The Lk Hosp (N Of Union)',44.225472,-76.506925
 441,'','Pembroke St (N Of Union)',44.22457,-76.509805
-444,'','Queen''s W Campus (N Of Union)',44.22337,-76.513975
 445,'','310 Yonge St (W)',44.227522,-76.51827
 447,'','Forsythe Ave (E Of Mowat)',44.226624,-76.520552
 448,'','Mowat Ave (N Of Forsythe)',44.226933,-76.520533
 449,'','Francis St (W Of Mowat)',44.225043,-76.520555
 450,'','Herbert St (E Of Mowat)',44.225186,-76.520381
-451,'','Francis St (S Of Churchill)',44.222565,-76.521629
 452,'','Cartwright St (N Of Churchill)',44.222558,-76.523798
 454,'','Seniors Ctr (W Of Francis)',44.224483,-76.521931
 455,'','Yonge St (S Of Union)',44.222207,-76.517284
@@ -396,12 +358,11 @@
 496,'','Strachan Ave (E Of Robert Wallace)',44.233197,-76.527487
 497,'','Ross St (W Of Robert Wallace)',44.23346,-76.527769
 498,'','Van Order Dr @ L.C.V.I (W)',44.237688,-76.520347
-501,'','Kingston Ctr Transfer Pt Platform 1',44.242145,-76.51677
-502,'','Kingston Ctr Transfer Pt Platform 2',44.241996,-76.516799
-503,'','Kingston Ctr Transfer Pt Platform 3',44.241814,-76.516788
+502,'','Miles Ave (N Of Robert Wallace)',44.234694,-76.528255
+503,'','Miles Ave (S Of Robert Wallace)',44.234602,-76.528359
 504,'','Polson Pk School (S Of Robert Wallace)',44.234751,-76.529552
 505,'','Polson Pk School (N Of Robert Wallace)',44.234854,-76.529637
-506,'','Kingston Ctr Transfer Pt Platform 6',44.241906,-76.516895
+506,'','Elmwood St (E Of Portsmouth)',44.24115,-76.529012
 507,'','Queen Mary Rd (S Of Robert Wallace)',44.234415,-76.532866
 508,'','Portsmouth Ave (N Of Bath)',44.239456,-76.530335
 509,'','Grenville Rd (N Of Bath)',44.239028,-76.533643
@@ -416,8 +377,6 @@
 519,'','259 Kingsdale Ave (N)',44.241667,-76.547698
 520,'','Lk Ontario Pk (S Of King)',44.220156,-76.529289
 521,'','Country Club Dr (N Of King)',44.220377,-76.529336
-523,'','Trailhead Pl (N Of King)',44.220154,-76.538259
-524,'','Invista (N Of Front)',44.219022,-76.55952
 527,'','1600 Bath Rd (S)',44.2369,-76.563545
 528,'','1600 Bath Rd (N)',44.237226,-76.563883
 530,'','723 Aylmer Cr (W)',44.246437,-76.615531
@@ -467,7 +426,6 @@
 581,'','Coverdale Dr (E Of Walden)',44.237878,-76.597757
 582,'','649 Davis Dr (W)',44.25394,-76.567028
 583,'','Muirfield Cr (N Of Davis)',44.256299,-76.561609
-584,'','Centennial Dr (N Of Princess)',44.258345,-76.559714
 585,'','Russell St (E Of Montreal)',44.244562,-76.487508
 586,'','Centennial Dr (N Of Davis)',44.25631,-76.559769
 587,'','589 Roosevelt Dr (S)',44.234726,-76.586661
@@ -539,7 +497,6 @@
 659,'','Basswood Pl (N Of Cedarwood)',44.262531,-76.582976
 660,'','Bayridge Dr (S Of Old Colony)',44.255002,-76.585979
 661,'','Bayridge Dr (N Of Old Colony)',44.255404,-76.58633
-662,'','Old Colony Rd (E Of Bayridge)',44.2553,-76.586578
 663,'','Strand Blvd (S Of Lancaster)',44.253,-76.591984
 664,'','Rowantree Cr (E Of Lancaster)',44.255185,-76.589619
 665,'','Newhall Dr (N Of Lancaster)',44.256548,-76.591725
@@ -565,17 +522,11 @@
 689,'','1055 Hudson Dr (W)',44.247211,-76.594186
 690,'','Douglas Ave (N Of Elliott)',44.256124,-76.503758
 692,'','Milford Dr (N Of Taylor-Kidd)',44.248117,-76.580795
-693,'','Cataraqui Woods Dr (E Of Cedarwood)',44.266903,-76.57831
-694,'','Cataraqui Woods Dr (W Of Cedarwood)',44.266819,-76.578438
 696,'','Pembroke St (S Of Union)',44.224385,-76.509963
 697,'','Littlestone Cr (S Of Davis)',44.251579,-76.557863
 698,'','Vista Dr (N Of Bath)',44.237358,-76.584267
 700,'','St Martha St (S Of Rose Abbey)',44.266354,-76.447311
-706,'','John Orr Tower (E Of W Campus Ln)',44.225694,-76.514052
-708,'','Jean Royce Hall (S Of W Campus Ln)',44.224499,-76.516011
-709,'','Earl St (E Of University)',44.22976,-76.495514
 710,'','Victoria Hall (N Of Bader)',44.225056,-76.498223
-712,'','INVISTA Ctr',44.276089,-76.568368
 716,'','Hyde St (E Of Lakeview)',44.222911,-76.571962
 717,'','Henderson Blvd (W Of Lakeview)',44.227639,-76.57255
 718,'','McEwen Dr (W Of Lakeview)',44.224021,-76.572226
@@ -583,7 +534,6 @@
 726,'','Binnington Court (N Of Dalton)',44.270288,-76.52863
 727,'','93 Grant Timmins Dr (S)',44.267436,-76.525053
 728,'','Dalton Ave (E Of Grant Timmins)',44.269299,-76.523099
-730,'','Warne Cr (S Of Dalton)',44.265685,-76.502574
 731,'','Owens Cr (N Of Kingsdale)',44.241777,-76.544575
 732,'','284 Kingsdale Ave (S)',44.241619,-76.545139
 733,'','Tanner Dr (S Of Bath)',44.236873,-76.559501
@@ -622,14 +572,11 @@
 789,'','Fairfield Blvd (S Of Amherst)',44.226031,-76.639204
 790,'','Henry Cr (W Of Loyalist)',44.226024,-76.636343
 791,'','Addington St (W Of Loyalist)',44.223126,-76.636169
-792,'','Loyalist Ave (W Of Fairfield)',44.221307,-76.637088
 793,'','The Moorings (N Of Bath)',44.221603,-76.633644
-794,'','Loyalist Ave (E Of Fairfield)',44.221442,-76.636887
 795,'','Addington St (E Of Loyalist)',44.223099,-76.635769
 796,'','Henry Cr (E Of Loyalist)',44.22564,-76.635803
 797,'','282 Amherst Dr (N)',44.227427,-76.654647
 799,'','Norwest Rd (E Of Midland)',44.257216,-76.574003
-800,'','Francis St (N Of Churchill)',44.222684,-76.521978
 803,'','Henderson Blvd (E Of Lakeview)',44.228025,-76.572422
 804,'','Frontenac Secondary School (N Of Bath)',44.237833,-76.577243
 806,'','Centennial Dr (S Of Bath)',44.237431,-76.548205
@@ -638,7 +585,6 @@
 811,'','McEwen Dr (S Of Bath)',44.237462,-76.574973
 815,'','RioCan Ctr (N Of Taylor-Kidd)',44.25098,-76.564802
 816,'','940 Gardiners Rd (W)',44.257182,-76.568933
-818,'','École Secondaire Catholique Marie-Rivier',44.269264,-76.522146
 819,'','Fortune Cr (E Of Gardiners)',44.272025,-76.568916
 822,'','Midland Ave (S Of Cataraqui Woods)',44.267251,-76.57334
 824,'','Gardiners Rd (S Of Cataraqui Woods)',44.267117,-76.570176
@@ -686,15 +632,10 @@
 1017,'','277 Bath Rd (N)',44.239879,-76.526026
 2001,'','Kirkpatrick St (W Of Division)',44.253245,-76.496787
 2002,'','Pembridge Cr (S Of Taylor-Kidd)',44.249032,-76.585456
-2003,'','Bayridge Ctr (E Of Bayridge)',44.250759,-76.589329
-2004,'','Bayridge Ctr (W Of Bayridge)',44.25175,-76.589214
-2007,'','Bus Terminal Transfer Pt',44.260002,-76.506241
 2008,'','Lafleur Pk (S Of Bath)',44.23998,-76.523326
-2009,'','Queen''s W Campus (S Of Union)',44.223031,-76.514471
 2010,'','Barriefield (W Of Hwy 15)',44.241263,-76.459233
 2012,'','Dalgleish Ave (W Of Rose Abbey)',44.261536,-76.449613
 2013,'','102 Virginia St (N)',44.27104,-76.485045
-2014,'','Bus Terminal Transfer Pt On John Counter',44.259254,-76.505583
 2015,'','Briceland St (W Of Montreal)',44.259441,-76.482012
 2016,'','Weller Ave (E Of Wilson)',44.26271,-76.486493
 2017,'','300 Conacher Dr (N)',44.266331,-76.494754
@@ -706,20 +647,14 @@
 2025,'','Railway St (W Of Montreal)',44.248049,-76.487062
 2026,'','Railway St (W Of Division)',44.247631,-76.495899
 2027,'','5th Ave (E Of Kingscourt)',44.246356,-76.501483
-2028,'','Guy St (W Of Division)',44.243599,-76.495393
 2029,'','362 Montreal St (W)',44.241295,-76.487718
 2030,'','Rideaucrest Home (W Of Rideau)',44.23784,-76.482891
 2031,'','Ordnance St (E Of Montreal)',44.234601,-76.484947
-2036,'','Brock St (N) E Of Montreal St',44.231197,-76.485592
-2037,'','Brock St (N) W Of Bagot St',44.231078,-76.484744
-2039,'','Bagot St (W) N Of Brock St',44.231308,-76.484446
-2042,'','Alfred St (N Of Union)',44.227872,-76.497145
 2043,'','St Mary''s Of The Lk Hosp (S Of Union)',44.225499,-76.506318
 2044,'','Regent St (S Of Pk)',44.238337,-76.509536
 2046,'','Wright Cr (W Of Palace)',44.239632,-76.514526
 2050,'','MTO Office (N Of John Counter)',44.259148,-76.514891
 2052,'','Westdale Ave (S Of Bath)',44.240747,-76.513582
-2053,'','Hillendale Ave (S Of Princess)',44.247709,-76.525963
 2056,'','Johnson St (E Of Yonge)',44.230428,-76.518397
 2059,'','Van Order Dr @ L.C.V.I (E)',44.237773,-76.520204
 2060,'','290 Bath Rd (S)',44.239741,-76.526009
@@ -732,27 +667,13 @@
 2067,'','Queen Mary Rd (N Of Robert Wallace)',44.234486,-76.533048
 2068,'','Mowat Ave (S Of King)',44.220637,-76.520767
 2069,'','Beechgrove (S Of King)',44.220466,-76.52296
-2070,'','St Lawrence College Transfer Pt',44.223724,-76.526421
 2072,'','1000 King St W (S)',44.219858,-76.535223
-2074,'','Gardiners Ctr Transfer Pt',44.236183,-76.567779
-2075,'','Gardiners Ctr Transfer Pt',44.235904,-76.567896
-2076,'','Centennial Dr (S Of Princess)',44.258054,-76.557569
-2077,'','Cataraqui Ctr Transfer Pt Platform 1',44.255201,-76.57236
-2078,'','Cataraqui Ctr Transfer Pt Platform 2',44.254983,-76.572348
-2079,'','Cataraqui Ctr Transfer Pt Platform 3',44.255195,-76.572555
-2080,'','Innovation Dr @ Hwy 15 (N)',44.272163,-76.446106
-2081,'','Cataraqui Ctr Transfer Pt Platform 4',44.25497,-76.572602
-2082,'','Cataraqui Ctr Transfer Pt Platform 5',44.255194,-76.572713
-2083,'','Cataraqui Ctr Transfer Pt Platform 6',44.254966,-76.572795
-2084,'','Cataraqui Ctr Transfer Pt Platform 7',44.255193,-76.572905
-2085,'','Cataraqui Ctr Transfer Pt Platform 8',44.254959,-76.573005
 9001,'','Prince Charles Dr (E Of Collins Bay)',44.24686,-76.610375
 9002,'','Taylor-Kidd Blvd (E Of Collins Bay)',44.249958,-76.610546
 9003,'','Mona Dr (S Of Taylor-Kidd)',44.251549,-76.601242
 9004,'','Mona Dr (N Of Taylor-Kidd)',44.251688,-76.601428
 9005,'','Aylmer Cr (W Of Collins Bay)',44.249466,-76.610748
 9006,'','Edwin St (W Of Collins Bay)',44.24683,-76.610542
-9015,'','Bayridge Ctr (W Of Bayridge)',44.250015,-76.589989
 9018,'','Arbour Cr (E Of Tanner)',44.241131,-76.559434
 9019,'','668 Tanner Dr (S)',44.243136,-76.556089
 9020,'','Dolshire St (S Of Malabar)',44.242411,-76.553605
@@ -765,19 +686,7 @@
 9027,'','Arbour Hts (W Of Tanner)',44.239414,-76.559608
 9028,'','Bath Rd (W Of Tanner)',44.237404,-76.559502
 9029,'','Bath Rd (E Of Tanner)',44.237721,-76.559311
-9030,'','Hudson Dr (E Of Bayridge)',44.24527,-76.59037
-9031,'','Hudson Dr (W Of Bayridge)',44.244808,-76.590645
-9032,'','Conservatory Dr (E Of Bayridge)',44.232775,-76.59302
-9033,'','Acadia Dr (W Of Bayridge)',44.232162,-76.593231
-9034,'','Gln Castle Rd (N Of Henderson)',44.228157,-76.57991
-9035,'','Gln Castle Rd (S Of Henderson)',44.228111,-76.579275
-9036,'','Ctr 70 Pk & Ride (E Of Days)',44.218695,-76.56915
-9037,'','Ctr 70 Pk & Ride (W Of Days)',44.219067,-76.56945
-9038,'','Portsmouth Ave (N Of King)',44.220497,-76.52607
-9039,'','Portsmouth Ave (S Of King)',44.220318,-76.525299
-9040,'','Sir John A Macdonald Blvd (N Of King)',44.221191,-76.512947
-9041,'','1055 Princess St/Kingston Ctr (N)',44.243753,-76.51695
-9042,'','Kingston Ctr (S Of Princess)',44.243138,-76.516251
+9030,'','Frontenac Mall (N Of Bath)',44.237954,-76.545681
 9043,'','Reddendale Plz (N Of Front)',44.218436,-76.57047
 9044,'','Lappan''s Ln (S Of John Counter)',44.259119,-76.509018
 9045,'','RioCan @ Best Buy (N Of Driveway)',44.248319,-76.566578
@@ -788,7 +697,6 @@
 9051,'','263 Chelsea Rd (W)',44.224539,-76.575099
 9053,'','Bayridge Ctr (N Of Taylor-Kidd)',44.250679,-76.590258
 9054,'','Bayridge Dr (S Of Taylor-Kidd)',44.250174,-76.589294
-9056,'','Weller Ave (W Of 1st Canada)',44.262648,-76.497159
 9057,'','Princess St E Of Bayridge (S)',44.259275,-76.581373
 9060,'','117 Sherwood Ave (N)',44.225621,-76.646641
 9061,'','Amherst Dr (E Of Manitou)',44.227101,-76.651047
@@ -801,8 +709,7 @@
 9069,'','212 Dalton Ave (S)',44.267757,-76.507352
 9070,'','Alfred St (S Of Princess)',44.235242,-76.497733
 9071,'','Grenadier Dr (N Of Rose Abbey)',44.258545,-76.452228
-9072,'','King St (W Of Albert)',44.222637,-76.499559
-9074,'','John Counter Blvd (W Of Leroy Grant)',44.25851,-76.506244
+9074,'','Augusta Dr (S Of Crossfield)',44.26436,-76.551689
 9075,'','Crossfield Ave (W Of Andersen)',44.264833,-76.548972
 9076,'','Douglas Ave (S Of Elliott)',44.25595,-76.504094
 9077,'','Portsmouth Ave (N Of Princess)',44.249517,-76.529316
@@ -816,30 +723,129 @@
 9085,'','Sta St (S Of Bath)',44.239868,-76.613028
 9086,'','Churchill St (W Of Mowat)',44.222851,-76.520363
 9087,'','Churchill St (E Of Mowat)',44.222835,-76.520142
-9088,'','Speers Blvd (N Of Kildare)',44.220561,-76.66115
+9088,'','Earl St (W Of University)',44.229953,-76.495699
 9201,'','Union St (W Of University)',44.228083,-76.495693
-9202,'','Bagot St (E) N Of Brock St',44.231267,-76.484236
 9203,'','Wolfe Isl Ferry Dock (E Of Ontario)',44.232682,-76.478871
-9205,'','Rideau Town Ctr (S Of Gore)',44.259413,-76.455914
 9206,'','Dalgleish Ave (E Of Rose Abbey)',44.261279,-76.449241
 9207,'','St Martha St (N Of Rose Abbey)',44.266088,-76.446421
 9208,'','RioCan Ctr (W Of Gardiners)',44.244553,-76.567995
-9209,'','Gardiners Ctr (S Of Bath)',44.237038,-76.566835
-9210,'','Kingston Ctr (S Of Bath)',44.240496,-76.516575
 9211,'','324 Palace Rd (W)',44.233922,-76.513949
 9212,'','Barrie St (S Of Johnson)',44.230931,-76.491395
 9215,'','King''s Xing S (N Of Driveway)',44.263709,-76.500256
 9217,'','325 Palace Rd (E)',44.233918,-76.51368
-9218,'','Gardiners Ctr (N Of Bath)',44.237269,-76.566817
 9221,'','McCallum St (E Of Rose Abbey)',44.26387,-76.446604
 9222,'','Discovery Ave (S Of John Marks)',44.274531,-76.44285
 9224,'','695 Innovation Dr (W)',44.272281,-76.439313
 9225,'','Barrett Court (E Of Hwy 15)',44.25054,-76.460621
 9226,'','Grenadier Dr (E Of Hwy 15)',44.253788,-76.460387
-9227,'','King''s Xing N (E Of Driveway)',44.264918,-76.502752
 9228,'','Development Dr (W Of Gardiners)',44.242018,-76.567924
 9229,'','Kirkpatrick St (E Of Division)',44.253649,-76.496633
 9230,'','Ridley Dr (W Of Old Colony)',44.25392,-76.577553
 9231,'','Taylor-Kidd Blvd (W Of Gardiners)',44.251194,-76.568497
 9232,'','Taylor-Kidd Blvd (E Of Gardiners)',44.251423,-76.568252
 9233,'','Johnson St (W Of Division)',44.231449,-76.493057
+190018,'','1385 Waverley Cr (S)',44.24398,-76.616558
+190028,'','1386 Waverley Cr (N)',44.244197,-76.616882
+190029,'','Princess Mary Ave (N Of Caen)',44.240608,-76.439611
+190032,'','Brock St (N) E Of Bagot St',44.230997,-76.484183
+190033,'','Invista (S Of Front)',44.218866,-76.559268
+190034,'','Trailhead Pl (S Of King)',44.219908,-76.538267
+190043,'','Pkwy (N Of Princess)',44.251339,-76.532871
+190044,'','Pkwy (S Of Princess)',44.251381,-76.533556
+190052,'','John Counter Blvd (E Of Leroy Grant)',44.258747,-76.506034
+190090,'','Old Colony Rd (W Of Bayridge)',44.255296,-76.586857
+190101,'','RioCan Ctr (E Of Driveway)',44.244917,-76.565368
+190103,'','RioCan Ctr (W Of Driveway)',44.244954,-76.565499
+190115,'','Princess Mary Ave (S Of Caen)',44.240428,-76.439663
+190126,'','Hwy 2 @ Royal Military College (S)',44.237024,-76.465157
+190127,'','Hwy 2 @ Royal Military College (N)',44.23646,-76.467285
+190139,'','Rideau Town Ctr (N Of Gore)',44.259613,-76.455978
+190225,'','Royal Canadian Legion (W Of Montreal)',44.251305,-76.485683
+190226,'','Belle Pk (E Of Montreal)',44.25115,-76.485444
+190231,'','Russell St (E Of Division)',44.243604,-76.495049
+190272,'','Barrie St (S Of Princess)',44.233048,-76.492165
+190292,'','Barrie St (N Of Brock)',44.232074,-76.491429
+190356,'','Albert St (S Of Princess)',44.236518,-76.500814
+190357,'','Albert St (N Of Princess)',44.236604,-76.500512
+190363,'','800 Princess St (S)',44.239587,-76.508129
+190364,'','Drayton Ave (N Of Princess)',44.23995,-76.508582
+190380,'','McMichael St (N Of Princess)',44.247967,-76.526023
+190396,'','Train Sta Transfer Pt',44.257527,-76.53663
+190399,'','Kingston Gospel Temple (S Of Princess)',44.257988,-76.548342
+190400,'','Andersen Dr (N Of Princess)',44.258256,-76.549507
+190411,'','The Isabel/Tett Centres (N Of King)',44.221627,-76.50695
+190413,'','Sir John A Macdonald Blvd (S Of King)',44.221116,-76.512032
+190417,'','The Isabel/Tett Centres (S Of King)',44.221524,-76.506548
+190426,'','Kingston General Hosp (S Of Stuart)',44.224275,-76.494835
+190427,'','Kingston General Hosp (N Of Stuart)',44.22443,-76.494788
+190430,'','Douglas Library (E Of University)',44.22728,-76.495401
+190431,'','University Ave (S Of Union)',44.227836,-76.495983
+190444,'','Queen''s W Campus (N Of Union)',44.22337,-76.513975
+190451,'','Francis St (S Of Churchill)',44.222565,-76.521629
+190501,'','Kingston Ctr Transfer Pt Platform 1',44.242145,-76.51677
+190502,'','Kingston Ctr Transfer Pt Platform 2',44.241996,-76.516799
+190503,'','Kingston Ctr Transfer Pt Platform 3',44.241814,-76.516788
+190504,'','Kingston Ctr Transfer Pt Platform 4',44.242226,-76.516947
+190505,'','Kingston Ctr Transfer Pt Platform 5',44.242069,-76.516933
+190506,'','Kingston Ctr Transfer Pt Platform 6',44.241906,-76.516895
+190523,'','Trailhead Pl (N Of King)',44.220154,-76.538259
+190524,'','Invista (N Of Front)',44.219022,-76.55952
+190584,'','Centennial Dr (N Of Princess)',44.258345,-76.559714
+190662,'','Old Colony Rd (E Of Bayridge)',44.2553,-76.586578
+190693,'','Cataraqui Woods Dr (E Of Cedarwood)',44.266903,-76.57831
+190694,'','Cataraqui Woods Dr (W Of Cedarwood)',44.266819,-76.578438
+190712,'','INVISTA Ctr',44.276089,-76.568368
+190730,'','Warne Cr (S Of Dalton)',44.265685,-76.502574
+190792,'','Loyalist Ave (W Of Fairfield)',44.221307,-76.637088
+190794,'','Loyalist Ave (E Of Fairfield)',44.221442,-76.636887
+190800,'','Francis St (N Of Churchill)',44.222684,-76.521978
+190818,'','École Secondaire Catholique Marie-Rivier',44.269264,-76.522146
+192003,'','Bayridge Ctr (E Of Bayridge)',44.250759,-76.589329
+192004,'','Bayridge Ctr (W Of Bayridge)',44.25175,-76.589214
+192007,'','Bus Terminal Transfer Pt',44.260002,-76.506241
+192009,'','Queen''s W Campus (S Of Union)',44.223031,-76.514471
+192014,'','Bus Terminal Transfer Pt On John Counter',44.259254,-76.505583
+192028,'','Guy St (W Of Division)',44.243599,-76.495393
+192036,'','Brock St (N) E Of Montreal St',44.231197,-76.485592
+192037,'','Brock St (N) W Of Bagot St',44.231078,-76.484744
+192039,'','Bagot St (W) N Of Brock St',44.231308,-76.484446
+192042,'','Alfred St (N Of Union)',44.227872,-76.497145
+192053,'','Hillendale Ave (S Of Princess)',44.247709,-76.525963
+192070,'','St Lawrence College Transfer Pt',44.223724,-76.526421
+192074,'','Gardiners Ctr Transfer Pt',44.236183,-76.567779
+192075,'','Gardiners Ctr Transfer Pt',44.235904,-76.567896
+192076,'','Centennial Dr (S Of Princess)',44.258054,-76.557569
+192077,'','Cataraqui Ctr Transfer Pt Platform 1',44.255201,-76.57236
+192078,'','Cataraqui Ctr Transfer Pt Platform 2',44.254983,-76.572348
+192079,'','Cataraqui Ctr Transfer Pt Platform 3',44.255195,-76.572555
+192080,'','Innovation Dr @ Hwy 15 (N)',44.272163,-76.446106
+192081,'','Cataraqui Ctr Transfer Pt Platform 4',44.25497,-76.572602
+192082,'','Cataraqui Ctr Transfer Pt Platform 5',44.255194,-76.572713
+192083,'','Cataraqui Ctr Transfer Pt Platform 6',44.254966,-76.572795
+192084,'','Cataraqui Ctr Transfer Pt Platform 7',44.255193,-76.572905
+192085,'','Cataraqui Ctr Transfer Pt Platform 8',44.254959,-76.573005
+199015,'','Bayridge Ctr (W Of Bayridge)',44.250015,-76.589989
+199030,'','Hudson Dr (E Of Bayridge)',44.24527,-76.59037
+199031,'','Hudson Dr (W Of Bayridge)',44.244808,-76.590645
+199032,'','Conservatory Dr (E Of Bayridge)',44.232775,-76.59302
+199033,'','Acadia Dr (W Of Bayridge)',44.232162,-76.593231
+199034,'','Gln Castle Rd (N Of Henderson)',44.228157,-76.57991
+199035,'','Gln Castle Rd (S Of Henderson)',44.228111,-76.579275
+199036,'','Ctr 70 Pk & Ride (E Of Days)',44.218695,-76.56915
+199037,'','Ctr 70 Pk & Ride (W Of Days)',44.219067,-76.56945
+199038,'','Portsmouth Ave (N Of King)',44.220497,-76.52607
+199039,'','Portsmouth Ave (S Of King)',44.220318,-76.525299
+199040,'','Sir John A Macdonald Blvd (N Of King)',44.221191,-76.512947
+199041,'','1055 Princess St/Kingston Ctr (N)',44.243753,-76.51695
+199042,'','Kingston Ctr (S Of Princess)',44.243138,-76.516251
+199056,'','Weller Ave (W Of 1st Canada)',44.262648,-76.497159
+199074,'','John Counter Blvd (W Of Leroy Grant)',44.25851,-76.506244
+199088,'','Speers Blvd (N Of Kildare)',44.220561,-76.66115
+199202,'','Bagot St (E) N Of Brock St',44.231267,-76.484236
+199205,'','Rideau Town Ctr (S Of Gore)',44.259413,-76.455914
+199209,'','Gardiners Ctr (S Of Bath)',44.237038,-76.566835
+199210,'','Kingston Ctr (S Of Bath)',44.240496,-76.516575
+199217,'','Kingston Ctr (N Of Bath)',44.240705,-76.516591
+199218,'','Gardiners Ctr (N Of Bath)',44.237269,-76.566817
+199227,'','King''s Xing N (E Of Driveway)',44.264918,-76.502752
+970000,'','Montreal St Pk & Ride',44.278803,-76.472478
