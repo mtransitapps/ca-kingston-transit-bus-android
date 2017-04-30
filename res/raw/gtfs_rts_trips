@@ -23,9 +23,11 @@
 1601,0,'Bus Terminal',16
 1600,0,'Train Sta',16
 1800,0,'Train Sta Circuit',18
-50100,0,'Express',501
-50201,0,'Express',502
-60101,0,'Express - Queen''s / KGH',601
-60200,0,'Express - Innovation Dr',602
-70100,0,'Express - Cataraqui Ctr',701
-70201,0,'Express - King''s Xing',702
+50101,0,'Cataraqui Ctr',501
+50100,0,'Downtown',501
+50201,0,'Cataraqui Ctr',502
+50200,0,'Downtown',502
+60101,0,'Queen''s / KGH',601
+60200,0,'Innovation Dr',602
+70100,0,'Cataraqui Ctr',701
+70201,0,'King''s Xing',702
