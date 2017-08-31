@@ -16,18 +16,28 @@
 1100,0,'Kingston Ctr',11
 1201,0,'Hwy 15',12
 1200,0,'Kingston Ctr',12
+1300,0,'Downtown',13
+1301,0,'St Lawrence College',13
 1402,0,'Cataraqui Ctr Transfer Pt',14
 1401,0,'Kingston Gospel Temple',14
-1501,0,'Cataraqui',15
+1501,0,'Cataraqui Ctr',15
 1500,0,'Reddendale',15
 1601,0,'Bus Terminal',16
 1600,0,'Train Sta',16
-1800,0,'Train Sta Circuit',18
+1701,0,'Main Campus',17
+1702,0,'West Campus',17
+1801,0,'St Lawrence College',18
+1800,0,'Train Sta',18
+2001,0,'Main Campus',20
+2002,0,'West Campus',20
 50101,0,'Cataraqui Ctr',501
 50100,0,'Downtown',501
 50201,0,'Cataraqui Ctr',502
 50200,0,'Downtown',502
-60101,0,'Queen''s / KGH',601
+60100,0,'Queen''s / KGH',601
 60200,0,'Innovation Dr',602
 70100,0,'Cataraqui Ctr',701
-70201,0,'King''s Xing',702
+70200,0,'King''s Xing',702
+1701800,0,'Queen''s',17018
+1701801,0,'St Lawrence College',17018
+9900100,0,'Cataraqui Ctr',99001
