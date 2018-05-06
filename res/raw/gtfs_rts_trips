@@ -8,8 +8,10 @@
 400,0,'Downtown',4
 601,0,'Cataraqui Ctr',6
 600,0,'St Lawrence College',6
-700,0,'Dalton / Division',7
 701,0,'Invista Ctr',7
+700,0,'Rideau Hts',7
+800,0,'Downtown',8
+801,0,'St Lawrence College',8
 1001,0,'Amherstview',10
 1000,0,'Cataraqui Ctr',10
 1101,0,'Cataraqui Ctr',11
@@ -22,14 +24,10 @@
 1401,0,'Kingston Gospel Temple',14
 1501,0,'Cataraqui Ctr',15
 1500,0,'Reddendale',15
-1601,0,'Bus Terminal',16
+1601,0,'Division / Dalton',16
 1600,0,'Train Sta',16
-1701,0,'Main Campus',17
-1702,0,'West Campus',17
 1801,0,'St Lawrence College',18
 1800,0,'Train Sta',18
-2001,0,'Main Campus',20
-2002,0,'West Campus',20
 50101,0,'Cataraqui Ctr',501
 50100,0,'Downtown',501
 50201,0,'Cataraqui Ctr',502
@@ -38,6 +36,8 @@
 60200,0,'Innovation Dr',602
 70100,0,'Cataraqui Ctr',701
 70200,0,'King''s Xing',702
+80100,0,'Queen''s / KGH',801
+80200,0,'Montreal St Pk & Ride',802
 1701800,0,'Queen''s',17018
 1701801,0,'St Lawrence College',17018
 9900100,0,'Cataraqui Ctr',99001
