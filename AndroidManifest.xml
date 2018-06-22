@@ -2,6 +2,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="org.mtransit.android.ca_kingston_transit_bus"
     tools:ignore="MissingVersion" >
+    <!-- REQUEST PERMISSIONS USAGE -->
+    <!-- INTERNET: required to read RSS news -->
+    <uses-permission android:name="android.permission.INTERNET" />
     <!-- DECLARES PERMISSIONS -->
     <permission
         android:name="org.mtransit.android.provider.permission.READ_PROVIDER"
@@ -62,6 +65,20 @@
             <meta-data
                 android:name="@string/schedule_provider_target"
                 android:value="@string/gtfs_rts_authority" />
+        </provider>
+        <!-- TWITTER NEWS PROVIDER -->
+        <provider
+            android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
+            android:authorities="@string/twitter_authority"
+            android:exported="true"
+            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
+            tools:ignore="MissingRegistered" >
+            <meta-data
+                android:name="@string/news_provider"
+                android:value="@string/news_provider" />
+            <meta-data
+                android:name="@string/news_provider_target"
+                android:value="@string/twitter_target_for_poi_authority" />
         </provider>
     </application>
 </manifest>
