@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <integer name="gtfs_real_time_db_version">1</integer>
+    <string name="gtfs_real_time_authority">org.mtransit.android.ca_kingston_transit_bus.gtfs.realtime</string>
+    <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
+    <bool name="gtfs_real_time_stop_id_is_stop_code">true</bool>
+    <string name="gtfs_real_time_agency_service_alerts_url">https://api.cityofkingston.ca/gtfs-realtime/alerts.pb</string>
+    <string name="gtfs_real_time_agency_id" />
+    <string name="gtfs_real_time_agency_bold_words" />
+    <string-array name="gtfs_real_time_agency_extra_languages" />
+    <string-array name="gtfs_real_time_agency_extra_bold_words" />
+    <string name="gtfs_real_time_agency_time_regex" />
+    <string name="gtfs_real_time_agency_time_hour_format" />
+    <string name="gtfs_real_time_agency_time_minute_format" />
+    <string name="gtfs_real_time_agency_time_ampm_format" />
+    <string name="gtfs_real_time_agency_time_zone" />
+</resources>
