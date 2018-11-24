@@ -5,7 +5,7 @@ Kingston Transit buses for MonTransit.
 Schedule. Service Alerts. News.
 ----------
 What's new in this version?:
-Schedule from November 13, 2018 to January 6, 2019.
+Schedule from November 20, 2018 to May 5, 2019.
 Service Alerts from www.cityofkingston.ca.
 News from @KingstonTransit.
 ----------
