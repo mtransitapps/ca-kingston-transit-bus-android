@@ -26,6 +26,8 @@
 1600,0,'Train Sta',16
 1801,0,'St Lawrence College',18
 1800,0,'Train Sta',18
+2001,0,'Main Campus',20
+2002,0,'West Campus',20
 50101,0,'Cataraqui Ctr',501
 50100,0,'Downtown',501
 50201,0,'Cataraqui Ctr',502
@@ -36,6 +38,10 @@
 70200,0,'King''s Xing',702
 80100,0,'Queen''s / KGH',801
 80200,0,'Montreal St Pk & Ride',802
+101700,0,'An Clachan',1017
+401700,0,'Downtown',4017
+1601700,0,'Princess / Albert',16017
 1701800,0,'Queen''s',17018
 1701801,0,'St Lawrence College',17018
+2301700,0,'Queen''s West Campus',23017
 9900100,0,'Cataraqui Ctr',99001
