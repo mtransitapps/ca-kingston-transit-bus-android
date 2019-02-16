@@ -1,7 +1,7 @@
 101,0,'Montreal St',1
 100,0,'St Lawrence College',1
-201,0,'Division St',2
-200,0,'Kingston Ctr',2
+200,0,'Division St',2
+201,0,'Kingston Ctr',2
 300,0,'Downtown',3
 301,0,'Kingston Ctr',3
 401,0,'Cataraqui Ctr',4
@@ -33,10 +33,10 @@
 50201,0,'Cataraqui Ctr',502
 50200,0,'Downtown',502
 60100,0,'Queen''s / KGH',601
-60200,0,'Innovation Dr',602
+60201,0,'Innovation Dr',602
 70100,0,'Cataraqui Ctr',701
 70200,0,'King''s Xing',702
-80100,0,'Queen''s / KGH',801
+80101,0,'Queen''s / KGH',801
 80200,0,'Montreal St Pk & Ride',802
 101700,0,'An Clachan',1017
 401700,0,'Downtown',4017
