@@ -1,15 +1,3 @@
-Title: Kingston Transit Bus - MonTransit
-----------
-Short description:
-Kingston Transit buses for MonTransit.
-Schedule. Service Alerts. News.
-----------
-What's new in this version?:
-Schedule from October 24, 2019 to January 5, 2020.
-Service Alerts from www.cityofkingston.ca.
-News from @KingstonTransit.
-----------
-Full description:
 This application adds Kingston Transit buses information to MonTransit.
 
 This app provides the buses schedule (offline) as well as real time service alerts from www.cityofkingston.ca and news from @KingstonTransit on Twitter.
@@ -18,7 +6,7 @@ Kingston Transit serves Kingston & Amherstview in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -32,17 +20,3 @@ This app is not related with the Corporation of the City of Kingston and Kingsto
 
 Permissions:
 - Other: required for real time service alerts from api.cityofkingston.ca and to read news from Twitter
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-kingston-transit-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone: 
-----------
-Privacy Policy:
