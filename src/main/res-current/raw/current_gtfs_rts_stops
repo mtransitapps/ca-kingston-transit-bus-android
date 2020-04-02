@@ -25,7 +25,6 @@
 30,'00030','Coverdale Dr (W Of Walden)',44.2379,-76.59791
 31,'00031','Stoneridge Dr (N Of Coverdale)',44.23743,-76.59217
 35,'00035','McEwen Dr (N Of Bath)',44.23767,-76.57433
-37,'00037','Duncan McArthur Hall (N Of Driveway)',44.22363,-76.51536
 39,'00039','Taylor-Kidd Blvd (E Of Progress)',44.24791,-76.57802
 40,'00040','775 Progress Ave (S)',44.24758,-76.57783
 41,'00041','Futures Gt (S Of Princess)',44.25805,-76.55368
@@ -464,9 +463,6 @@
 697,'00697','Littlestone Cr (S Of Davis)',44.25156,-76.55788
 698,'00698','Vista Dr (N Of Bath)',44.23735,-76.58415
 700,'00700','St Martha St (S Of Rose Abbey)',44.26638,-76.44734
-706,'00706','John Orr Tower (E Of W Campus Ln)',44.22576,-76.51402
-708,'00708','Jean Royce Hall (S Of W Campus Ln)',44.2246,-76.51594
-709,'00709','Earl St (E Of University)',44.22976,-76.49551
 716,'00716','Hyde St (E Of Lakeview)',44.22288,-76.57196
 717,'00717','Henderson Blvd (W Of Lakeview)',44.22763,-76.57257
 718,'00718','McEwen Dr (W Of Lakeview)',44.22401,-76.57219
@@ -545,9 +541,6 @@
 839,'00839','VIA Rail Sta (S Of John Counter)',44.25861,-76.53528
 841,'00841','Norris Court (E Of Gardiners)',44.26311,-76.56862
 842,'00842','O''Connor Dr (E Of Gardiners)',44.25971,-76.56851
-843,'00843','Johnson St (E Of Portsmouth)',44.23061,-76.52606
-845,'00845','Miles Ave (E Of Portsmouth)',44.2347,-76.52722
-846,'00846','Van Order Dr (E Of Portsmouth)',44.23783,-76.52823
 847,'00847','Conacher Dr (E Of Wilson)',44.26587,-76.48762
 848,'00848','640 Cataraqui Woods Dr (S)',44.26693,-76.56721
 849,'00849','Clyde Court (S Of Cataraqui Woods)',44.26816,-76.56337
@@ -651,13 +644,11 @@
 9077,'09077','Portsmouth Ave (N Of Princess)',44.24955,-76.52934
 9078,'09078','1281 Midland Ave (W)',44.27126,-76.57434
 9079,'09079','1281 Midland Ave (E)',44.27124,-76.57416
-9080,'09080','St Lawrence Ave (S Of Stuart)',44.22365,-76.49897
 9081,'09081','369 Dalton Ave (N)',44.26897,-76.51811
 9082,'09082','270 Princess St (S)',44.23237,-76.48795
 9083,'09083','321 Yonge St (E)',44.22748,-76.51811
 9084,'09084','Brackenwood Cr (W Of Birchwood)',44.26787,-76.57902
 9085,'09085','Sta St (S Of Bath)',44.23987,-76.61303
-9088,'09088','Earl St (W Of University)',44.22995,-76.4957
 9089,'09089','Champlain Ave (W Of Indian)',44.25528,-76.52695
 9090,'09090','Bayridge Dr (N Of Hudson)',44.24512,-76.59018
 9091,'09091','Bayridge Dr (S Of Hudson)',44.24499,-76.5907
@@ -667,7 +658,6 @@
 9095,'09095','Markers Acres Pk (W Of Sutherland)',44.26678,-76.48906
 9096,'09096','Hwy 15 (S Of Hwy 2)',44.23973,-76.45767
 9097,'09097','Markland St (W Of Montreal)',44.23848,-76.48564
-9098,'09098','Johnson St (E Of Albert)',44.23145,-76.50006
 9099,'09099','Alfred St (S Of Union)',44.22769,-76.49717
 9100,'09100','Ellis Hall (W Of University)',44.22624,-76.49571
 9101,'09101','Grant Hall (E Of University)',44.22614,-76.49548
@@ -692,8 +682,6 @@
 9231,'09231','Taylor-Kidd Blvd (W Of Gardiners)',44.25095,-76.56854
 9232,'09232','Taylor-Kidd Blvd (E Of Gardiners)',44.25126,-76.56821
 9234,'09234','Waterside Way (W Of Hwy 15)',44.26972,-76.45062
-9235,'09235','Brock St (E Of University)',44.23247,-76.49557
-9236,'09236','Brock St (W Of University)',44.23272,-76.49577
 9237,'09237','Sheppard St (W Of Montreal)',44.27302,-76.47762
 9238,'09238','Sutherland Dr (E Of Montreal)',44.26885,-76.47905
 9239,'09239','Discovery Ave (N Of John Marks)',44.2746,-76.44228
@@ -753,7 +741,6 @@
 190818,'S00818','École Secondaire Catholique Marie-Rivier',44.26924,-76.52215
 192003,'S02003','Bayridge Ctr (E Of Bayridge)',44.25076,-76.58933
 192004,'S02004','Bayridge Ctr (W Of Bayridge)',44.25182,-76.58917
-192007,'S02007','Bus Terminal Transfer Pt Platform 1',44.26018,-76.50624
 192009,'S02009','Queen''s W Campus (S Of Union)',44.22303,-76.51447
 192014,'S02014','Bus Terminal Transfer Pt Platform 2',44.25919,-76.50553
 192028,'S02028','Guy St (W Of Division)',44.2435,-76.49529

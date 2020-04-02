@@ -22,8 +22,6 @@
 1504,0,'Reddendale',15
 1601,0,'Division / Dalton',16
 1600,0,'Train Sta',16
-1801,0,'St Lawrence College',18
-1800,0,'Train Sta',18
 50101,0,'Cataraqui Ctr',501
 50100,0,'Downtown',501
 50201,0,'Cataraqui Ctr',502
@@ -34,7 +32,3 @@
 70200,0,'King''s Xing',702
 80100,0,'Queen''s / KGH',801
 80200,0,'Montreal St Pk & Ride',802
-101700,0,'An Clachan',1017
-401700,0,'Downtown',4017
-1601700,0,'Princess / Albert',16017
-2301700,0,'Queen''s West Campus',23017
