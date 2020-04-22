@@ -452,7 +452,7 @@
 680,'00680','Mona Dr (S Of Hudson)',44.24838,-76.6029
 681,'00681','Mona Dr (N Of Hudson)',44.24849,-76.60266
 682,'00682','1121 Hudson Dr (S)',44.24847,-76.59985
-683,'00683','Innovation Dr @ Hwy 15 (S)',44.27212,-76.44625
+683,'00683','Innovation Dr @ Hwy 15 (S)',44.27169,-76.44541
 684,'00684','Lakeview Ave (S Of Cranbrook)',44.21949,-76.57183
 685,'00685','Cranbrook St (E Of Chelsea)',44.21927,-76.57406
 687,'00687','290 Gln Castle Rd (E)',44.22591,-76.57922
@@ -477,7 +477,7 @@
 735,'00735','Ridley Dr (N Of Norwest)',44.25726,-76.57702
 736,'00736','Norwest Rd (E Of Ridley)',44.2571,-76.57689
 737,'00737','Hudson Pk (N Of Hudson)',44.24373,-76.58556
-739,'00739','Princess St E Of Bayridge Dr (N)',44.25943,-76.581
+739,'00739','Princess St (N) E Of Bayridge',44.25943,-76.581
 740,'00740','2697 Princess St (S)',44.2586,-76.57696
 741,'00741','2698 Princess St (N)',44.25882,-76.57651
 742,'00742','Peachwood St (W Of Birchwood)',44.27042,-76.57856
@@ -631,7 +631,7 @@
 9051,'09051','263 Chelsea Rd (W)',44.22465,-76.57513
 9053,'09053','Bayridge Ctr (N Of Taylor-Kidd)',44.25074,-76.59046
 9054,'09054','Bayridge Dr (S Of Taylor-Kidd)',44.25009,-76.58895
-9057,'09057','Princess St E Of Bayridge (S)',44.25925,-76.58129
+9057,'09057','Princess St (S) E Of Bayridge',44.25925,-76.58129
 9060,'09060','117 Sherwood Ave (N)',44.22559,-76.64694
 9061,'09061','Amherst Dr (E Of Manitou)',44.22723,-76.6511
 9062,'09062','Bayridge Secondary (S Of Taylor-Kidd)',44.25151,-76.59476
