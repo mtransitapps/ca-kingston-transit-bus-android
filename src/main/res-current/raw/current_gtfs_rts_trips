@@ -14,12 +14,12 @@
 1000,0,'Cataraqui Ctr',10
 1101,0,'Cataraqui Ctr',11
 1100,0,'Kingston Ctr',11
-1201,0,'Hwy 15',12
+1201,0,'CFB Kingston',12
 1200,0,'Kingston Ctr',12
 1402,0,'Cataraqui Ctr Transfer Pt',14
 1401,0,'Kingston Gospel Temple',14
-1503,0,'Cataraqui Woods / Ctr',15
-1504,0,'Reddendale',15
+1500,0,'Cataraqui Ctr',15
+1501,0,'Reddendale',15
 1601,0,'Division / Dalton',16
 1600,0,'Train Sta',16
 50101,0,'Cataraqui Ctr',501
@@ -27,7 +27,8 @@
 50201,0,'Cataraqui Ctr',502
 50200,0,'Downtown',502
 60100,0,'Queen''s / KGH',601
-60200,0,'Innovation Dr',602
+60200,0,'Downtown',602
+60201,0,'Innovation Dr',602
 70100,0,'Cataraqui Ctr',701
 70200,0,'King''s Xing',702
 80100,0,'Queen''s / KGH',801
