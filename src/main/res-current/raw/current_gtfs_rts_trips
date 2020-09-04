@@ -10,6 +10,8 @@
 600,0,'St Lawrence College',6
 701,0,'Invista Ctr',7
 700,0,'Rideau Hts',7
+800,0,'Downtown',8
+801,0,'SLC',8
 1001,0,'Amherstview',10
 1000,0,'Cataraqui Ctr',10
 1101,0,'Cataraqui Ctr',11
@@ -27,13 +29,9 @@
 50201,0,'Cataraqui Ctr',502
 50200,0,'Downtown',502
 60100,0,'Queen''s / KGH',601
-60200,0,'Downtown',602
 60201,0,'Innovation Dr',602
 70100,0,'Cataraqui Ctr',701
 70200,0,'King''s Xing',702
-80100,0,'Innovation Dr',801
+80100,0,'Queen''s / KGH',801
 80200,0,'Montreal St Pk & Ride',802
-100100,0,'Downtown',1001
-100101,0,'Montreal St',1001
-100300,0,'Downtown',1003
-100301,0,'Kingston Ctr',1003
+9900100,0,'Cataraqui Ctr',99001
