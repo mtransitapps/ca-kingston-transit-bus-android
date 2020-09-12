@@ -601,6 +601,7 @@
 2069,'02069','Beechgrove (S Of King)',44.22047,-76.52292
 2072,'02072','1000 King St W (S)',44.21986,-76.53522
 3023,'03023','Atkinson St (W Of Halifax)',44.26716,-76.55834
+3026,'03026','Nelson St (N Of Princess)',44.2371,-76.50178
 9001,'09001','Prince Charles Dr (E Of Collins Bay)',44.24681,-76.61035
 9002,'09002','Taylor-Kidd Blvd (E Of Collins Bay)',44.24974,-76.61053
 9003,'09003','Mona Dr (S Of Taylor-Kidd)',44.25155,-76.60124
@@ -664,6 +665,7 @@
 9102,'09102','Speers Blvd (N Of Amherst)',44.22496,-76.66337
 9103,'09103','Speers Blvd (S Of Amherst)',44.22497,-76.66302
 9104,'09104','McDonough Cr (S Of Kildare)',44.21979,-76.66402
+9119,'09119','845 Gardiners Rd (W)',44.25365,-76.56864
 9201,'09201','Union St (W Of University)',44.22833,-76.49566
 9203,'09203','Wolfe Isl Ferry Dock (E Of Ontario)',44.23269,-76.47884
 9206,'09206','Dalgleish Ave (E Of Rose Abbey)',44.26129,-76.4494
