@@ -238,7 +238,6 @@
 391,'00391','Portsmouth Ave (N Of Champlain)',44.25523,-76.52959
 393,'00393','Indian Rd (N Of Old Quarry)',44.25715,-76.5257
 394,'00394','Old Quarry Rd (W Of Aberfoyle)',44.25736,-76.52221
-396,'00396','Princess St (S Of John Counter)',44.25737,-76.54133
 397,'00397','Taylor-Kidd Blvd (S Of Princess)',44.25652,-76.54166
 398,'00398','John Counter Blvd (N Of Princess)',44.2574,-76.54225
 402,'00402','Augusta Dr (N Of Princess)',44.25832,-76.55502
@@ -535,10 +534,6 @@
 833,'00833','MTO Office (S Of John Counter)',44.25889,-76.51422
 834,'00834','Aberfoyle Rd (N Of John Counter)',44.25907,-76.52175
 835,'00835','Aberfoyle Rd (S Of John Counter)',44.25883,-76.52193
-836,'00836','Indian Rd (N Of John Counter)',44.25907,-76.52633
-837,'00837','Indian Rd (S Of John Counter)',44.25878,-76.5262
-838,'00838','Old Mill Rd (N Of John Counter)',44.25865,-76.53782
-839,'00839','VIA Rail Sta (S Of John Counter)',44.25861,-76.53528
 841,'00841','Norris Court (E Of Gardiners)',44.26311,-76.56862
 842,'00842','O''Connor Dr (E Of Gardiners)',44.25971,-76.56851
 847,'00847','Conacher Dr (E Of Wilson)',44.26587,-76.48762
@@ -709,11 +704,9 @@
 190272,'S00272','Barrie St (S Of Princess)',44.2329,-76.49151
 190292,'S00292','Barrie St (N Of Brock)',44.23207,-76.49143
 190356,'S00356','Albert St (S Of Princess)',44.23652,-76.50081
-190357,'S00357','Albert St (N Of Princess)',44.23658,-76.50051
 190363,'S00363','800 Princess St (S)',44.23954,-76.50803
 190364,'S00364','Tower St (N Of Princess)',44.23975,-76.50815
 190380,'S00380','McMichael St (N Of Princess)',44.24797,-76.52602
-190396,'S00396','Train Sta Transfer Pt',44.25748,-76.53678
 190399,'S00399','Kingston Gospel Temple (S Of Princess)',44.25801,-76.54824
 190400,'S00400','Andersen Dr (N Of Princess)',44.25822,-76.54973
 190411,'S00411','The Isabel/Tett Centres (N Of King)',44.2216,-76.50694
