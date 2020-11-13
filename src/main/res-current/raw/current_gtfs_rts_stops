@@ -238,6 +238,7 @@
 391,'00391','Portsmouth Ave (N Of Champlain)',44.25523,-76.52959
 393,'00393','Indian Rd (N Of Old Quarry)',44.25715,-76.5257
 394,'00394','Old Quarry Rd (W Of Aberfoyle)',44.25736,-76.52221
+396,'00396','Princess St (S Of John Counter)',44.25737,-76.54133
 397,'00397','Taylor-Kidd Blvd (S Of Princess)',44.25652,-76.54166
 398,'00398','John Counter Blvd (N Of Princess)',44.2574,-76.54225
 402,'00402','Augusta Dr (N Of Princess)',44.25832,-76.55502
@@ -534,6 +535,9 @@
 833,'00833','MTO Office (S Of John Counter)',44.25889,-76.51422
 834,'00834','Aberfoyle Rd (N Of John Counter)',44.25907,-76.52175
 835,'00835','Aberfoyle Rd (S Of John Counter)',44.25883,-76.52193
+836,'00836','Indian Rd (N Of John Counter)',44.25907,-76.52633
+837,'00837','Indian Rd (S Of John Counter)',44.25878,-76.5262
+838,'00838','Old Mill Rd (N Of John Counter)',44.25885,-76.53853
 841,'00841','Norris Court (E Of Gardiners)',44.26311,-76.56862
 842,'00842','O''Connor Dr (E Of Gardiners)',44.25971,-76.56851
 847,'00847','Conacher Dr (E Of Wilson)',44.26587,-76.48762
@@ -597,6 +601,7 @@
 2072,'02072','1000 King St W (S)',44.21986,-76.53522
 3023,'03023','Atkinson St (W Of Halifax)',44.26716,-76.55834
 3026,'03026','Nelson St (N Of Princess)',44.2371,-76.50178
+3027,'03027','King St (S Of Barrack)',44.23307,-76.48065
 9001,'09001','Prince Charles Dr (E Of Collins Bay)',44.24681,-76.61035
 9002,'09002','Taylor-Kidd Blvd (E Of Collins Bay)',44.24974,-76.61053
 9003,'09003','Mona Dr (S Of Taylor-Kidd)',44.25155,-76.60124
@@ -778,6 +783,7 @@
 199056,'S09056','Weller Ave (W Of 1st Canada)',44.26258,-76.49711
 199074,'S09074','Bus Terminal Transfer Pt Platform 4',44.25851,-76.50624
 199088,'S09088','Speers Blvd (N Of Kildare)',44.22058,-76.66115
+199120,'S09120','VIA Rail Sta (S Of John Counter)',44.25857,-76.53841
 199205,'S09205','Rideau Town Ctr (S Of Gore)',44.25949,-76.45612
 199209,'S09209','Gardiners Ctr (S Of Bath)',44.237,-76.56652
 199210,'S09210','Kingston Ctr (S Of Bath)',44.2405,-76.51644
