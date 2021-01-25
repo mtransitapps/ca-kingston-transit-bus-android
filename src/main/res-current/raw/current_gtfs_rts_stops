@@ -694,7 +694,7 @@
 190034,'S00034','Trailhead Pl (S Of King)',44.21991,-76.53797
 190043,'S00043','Pkwy (N Of Princess)',44.25137,-76.53297
 190044,'S00044','Pkwy (S Of Princess)',44.25131,-76.53342
-190052,'S00052','Bus Term Transfer Pt P 3',44.25875,-76.50603
+190052,'S00052','Bus Term Transfer Pt P:3',44.25875,-76.50603
 190090,'S00090','Old Colony Rd (W Of Bayridge)',44.25535,-76.58682
 190101,'S00101','RioCan Ctr (E Of Driveway)',44.24492,-76.5653
 190103,'S00103','RioCan Ctr (W Of Driveway)',44.24499,-76.56555
@@ -719,12 +719,12 @@
 190427,'S00427','Kingston General Hosp (N Of Stuart)',44.22443,-76.49479
 190444,'S00444','Queen''s W Campus (N Of Union)',44.22335,-76.51396
 190451,'S00451','Francis St (S Of Churchill)',44.22257,-76.52163
-190501,'S00501','Kingston Ctr Transfer Pt P 2',44.24215,-76.51677
-190502,'S00502','Kingston Ctr Transfer Pt P 4',44.242,-76.5168
-190503,'S00503','Kingston Ctr Transfer Pt P 6',44.24181,-76.51679
-190504,'S00504','Kingston Ctr Transfer Pt P 1',44.24223,-76.51695
-190505,'S00505','Kingston Ctr Transfer Pt P 3',44.24207,-76.51693
-190506,'S00506','Kingston Ctr Transfer Pt P 5',44.24191,-76.5169
+190501,'S00501','Kingston Ctr Transfer Pt P:2',44.24215,-76.51677
+190502,'S00502','Kingston Ctr Transfer Pt P:4',44.242,-76.5168
+190503,'S00503','Kingston Ctr Transfer Pt P:6',44.24181,-76.51679
+190504,'S00504','Kingston Ctr Transfer Pt P:1',44.24223,-76.51695
+190505,'S00505','Kingston Ctr Transfer Pt P:3',44.24207,-76.51693
+190506,'S00506','Kingston Ctr Transfer Pt P:5',44.24191,-76.5169
 190523,'S00523','Trailhead Pl (N Of King)',44.22012,-76.53841
 190524,'S00524','Invista (N Of Front)',44.21899,-76.55979
 190584,'S00584','Centennial Dr (N Of Princess)',44.25835,-76.55972
@@ -740,30 +740,30 @@
 192003,'S02003','Bayridge Ctr (E Of Bayridge)',44.25076,-76.58933
 192004,'S02004','Bayridge Ctr (W Of Bayridge)',44.25182,-76.58917
 192009,'S02009','Queen''s W Campus (S Of Union)',44.22303,-76.51447
-192014,'S02014','Bus Term Transfer Pt P 2',44.25919,-76.50553
+192014,'S02014','Bus Term Transfer Pt P:2',44.25919,-76.50553
 192028,'S02028','Guy St (W Of Division)',44.2435,-76.49529
-192035,'S02035','Downtown Transfer Pt P 1',44.23117,-76.4856
-192036,'S02036','Downtown Transfer Pt P 2',44.23114,-76.48536
-192037,'S02037','Downtown Transfer Pt P 3',44.23107,-76.48491
-192038,'S02038','Downtown Transfer Pt P 5',44.2316,-76.48413
-192039,'S02039','Downtown Transfer Pt P 4',44.23138,-76.48441
-192040,'S02040','Downtown Transfer Pt P 6',44.23118,-76.48426
-192041,'S02041','Downtown Transfer Pt P 7',44.23096,-76.48425
+192035,'S02035','Downtown Transfer Pt P:1',44.23117,-76.4856
+192036,'S02036','Downtown Transfer Pt P:2',44.23114,-76.48536
+192037,'S02037','Downtown Transfer Pt P:3',44.23107,-76.48491
+192038,'S02038','Downtown Transfer Pt P:5',44.2316,-76.48413
+192039,'S02039','Downtown Transfer Pt P:4',44.23138,-76.48441
+192040,'S02040','Downtown Transfer Pt P:6',44.23118,-76.48426
+192041,'S02041','Downtown Transfer Pt P:7',44.23096,-76.48425
 192042,'S02042','Alfred St (N Of Union)',44.22786,-76.49714
 192053,'S02053','Hillendale Ave (S Of Princess)',44.24769,-76.526
 192070,'S02070','St Lawrence College Transfer Pt',44.22372,-76.52642
 192074,'S02074','Gardiners Ctr Transfer Pt',44.23613,-76.56781
 192075,'S02075','Gardiners Ctr Transfer Pt',44.23581,-76.568
 192076,'S02076','Centennial Dr (S Of Princess)',44.25807,-76.55771
-192077,'S02077','Cataraqui Ctr Transfer Pt P 1',44.25508,-76.57215
-192078,'S02078','Cataraqui Ctr Transfer Pt P 2',44.25499,-76.57238
-192079,'S02079','Cataraqui Ctr Transfer Pt P 3',44.25508,-76.57248
+192077,'S02077','Cataraqui Ctr Transfer Pt P:1',44.25508,-76.57215
+192078,'S02078','Cataraqui Ctr Transfer Pt P:2',44.25499,-76.57238
+192079,'S02079','Cataraqui Ctr Transfer Pt P:3',44.25508,-76.57248
 192080,'S02080','Innovation Dr @ Hwy 15 (N)',44.2722,-76.44609
-192081,'S02081','Cataraqui Ctr Transfer Pt P 4',44.25499,-76.57261
-192082,'S02082','Cataraqui Ctr Transfer Pt P 5',44.25508,-76.57271
-192083,'S02083','Cataraqui Ctr Transfer Pt P 6',44.25498,-76.57283
-192084,'S02084','Cataraqui Ctr Transfer Pt P 7',44.25507,-76.57294
-192085,'S02085','Cataraqui Ctr Transfer Pt P 8',44.25497,-76.57308
+192081,'S02081','Cataraqui Ctr Transfer Pt P:4',44.25499,-76.57261
+192082,'S02082','Cataraqui Ctr Transfer Pt P:5',44.25508,-76.57271
+192083,'S02083','Cataraqui Ctr Transfer Pt P:6',44.25498,-76.57283
+192084,'S02084','Cataraqui Ctr Transfer Pt P:7',44.25507,-76.57294
+192085,'S02085','Cataraqui Ctr Transfer Pt P:8',44.25497,-76.57308
 199015,'S09015','Bayridge Ctr (W Of Bayridge)',44.25013,-76.58999
 199030,'S09030','Hudson Dr (E Of Bayridge)',44.24529,-76.59034
 199031,'S09031','Hudson Dr (W Of Bayridge)',44.24429,-76.59057
@@ -779,7 +779,7 @@
 199041,'S09041','1055 Princess St/Kingston Ctr (N)',44.24375,-76.51695
 199042,'S09042','Kingston Ctr (S Of Princess)',44.24314,-76.51625
 199056,'S09056','Weller Ave (W Of 1st Canada)',44.26258,-76.49711
-199074,'S09074','Bus Term Transfer Pt P 4',44.25851,-76.50624
+199074,'S09074','Bus Term Transfer Pt P:4',44.25851,-76.50624
 199088,'S09088','Speers Blvd (N Of Kildare)',44.22058,-76.66115
 199120,'S09120','VIA Rail Sta (S Of John Counter)',44.25857,-76.53841
 199205,'S09205','Rideau Town Ctr (S Of Gore)',44.25949,-76.45612
