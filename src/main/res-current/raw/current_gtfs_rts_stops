@@ -4,7 +4,7 @@
 4,'00004','Holgate Cr (N Of Hudson)',44.24503,-76.59236
 5,'00005','Holgate Cr (S Of Hudson)',44.24493,-76.5926
 6,'00006','Sheridan St (W Of Andersen)',44.2604,-76.54911
-7,'00007','W J Henderson Recreation Ctr',44.2261,-76.65904
+7,'00007','WJ Henderson Recreation Ctr',44.2261,-76.65904
 8,'00008','Sta St (N Of Bath)',44.23999,-76.61316
 11,'00011','1071 Acadia Dr (S)',44.23231,-76.59435
 12,'00012','Woodside Dr (E Of Mona)',44.25275,-76.60212
@@ -254,8 +254,8 @@
 421,'00421','Beverley St (N Of King)',44.22225,-76.50203
 422,'00422','Albert St (N Of King)',44.22255,-76.49975
 423,'00423','Albert St (S Of King)',44.22245,-76.49956
-424,'00424','Lower University Ave (S Of King)',44.22288,-76.49517
-425,'00425','Lower University Ave (N Of King)',44.223,-76.4953
+424,'00424','Lower U Ave (S Of King)',44.22288,-76.49517
+425,'00425','Lower U Ave (N Of King)',44.223,-76.4953
 433,'00433','Albert St (S Of Union)',44.2272,-76.49989
 436,'00436','Beverley St (S Of Union)',44.22663,-76.50261
 437,'00437','Victoria St (N Of Union)',44.22687,-76.50233
@@ -712,9 +712,9 @@
 190380,'S00380','McMichael St (N Of Princess)',44.24797,-76.52602
 190399,'S00399','Kingston Gospel Temple (S Of Princess)',44.25801,-76.54824
 190400,'S00400','Andersen Dr (N Of Princess)',44.25822,-76.54973
-190411,'S00411','The Isabel/Tett Centres (N Of King)',44.2216,-76.50694
+190411,'S00411','The Isabel/Tett Ctrs (N Of King)',44.2216,-76.50694
 190413,'S00413','Sir John A Macdonald Blvd (S Of King)',44.22112,-76.51203
-190417,'S00417','The Isabel/Tett Centres (S Of King)',44.2215,-76.5067
+190417,'S00417','The Isabel/Tett Ctrs (S Of King)',44.2215,-76.5067
 190426,'S00426','Kingston General Hosp (S Of Stuart)',44.22427,-76.49475
 190427,'S00427','Kingston General Hosp (N Of Stuart)',44.22443,-76.49479
 190444,'S00444','Queen''s W Campus (N Of Union)',44.22335,-76.51396
@@ -771,8 +771,8 @@
 199033,'S09033','Acadia Dr (W Of Bayridge)',44.2322,-76.59322
 199034,'S09034','Gln Castle Rd (N Of Henderson)',44.22819,-76.57975
 199035,'S09035','Gln Castle Rd (S Of Henderson)',44.22811,-76.57932
-199036,'S09036','Ctr 70 Pk & Ride (E Of Days)',44.21883,-76.56915
-199037,'S09037','Ctr 70 Pk & Ride (W Of Days)',44.21891,-76.56943
+199036,'S09036','Ctr 70 P&R (E Of Days)',44.21883,-76.56915
+199037,'S09037','Ctr 70 P&R (W Of Days)',44.21891,-76.56943
 199038,'S09038','Portsmouth Ave (N Of King)',44.22049,-76.52598
 199039,'S09039','Portsmouth Ave (S Of King)',44.22031,-76.52521
 199040,'S09040','Sir John A Macdonald Blvd (N Of King)',44.22116,-76.51289
@@ -788,4 +788,4 @@
 199217,'S09217','Kingston Ctr (N Of Bath)',44.24066,-76.5175
 199218,'S09218','Gardiners Ctr (N Of Bath)',44.23728,-76.56654
 199227,'S09227','King''s Xing N (E Of Driveway)',44.26492,-76.50275
-970000,'Smspr1','Montreal St Pk & Ride',44.27897,-76.47257
+970000,'Smspr1','Montreal St P&R',44.27897,-76.47257
