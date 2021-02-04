@@ -77,7 +77,7 @@
 150,'00150','Joyce St (N Of Guthrie)',44.27481,-76.47791
 154,'00154','Sutherland Dr (W Of Virginia)',44.26844,-76.48764
 155,'00155','Sutherland Dr (E Of Virginia)',44.26859,-76.48751
-156,'00156','Mgr Remi-Gaulin School (S Of Virginia)',44.27002,-76.48671
+156,'00156','Mgr Remi-Gaulin S (S Of Virginia)',44.27002,-76.48671
 157,'00157','80 Virginia St (N)',44.2704,-76.48624
 158,'00158','109 Virginia St (S)',44.27107,-76.48473
 159,'00159','Guthrie Dr (S Of Virginia)',44.2712,-76.48351
@@ -307,8 +307,8 @@
 496,'00496','Strachan Ave (E Of Robert Wallace)',44.2332,-76.52749
 497,'00497','Ross St (W Of Robert Wallace)',44.23346,-76.52777
 498,'00498','Van Order Dr @ LCVI (W)',44.23764,-76.52029
-504,'00504','Polson Pk School (S Of Robert Wallace)',44.23475,-76.52955
-505,'00505','Polson Pk School (N Of Robert Wallace)',44.23486,-76.52955
+504,'00504','Polson Pk S (S Of Robert Wallace)',44.23475,-76.52955
+505,'00505','Polson Pk S (N Of Robert Wallace)',44.23486,-76.52955
 506,'00506','Elmwood St (E Of Portsmouth)',44.24097,-76.529
 507,'00507','Queen Mary Rd (S Of Robert Wallace)',44.23442,-76.53287
 509,'00509','Grenville Rd (N Of Bath)',44.23908,-76.53361
@@ -350,7 +350,7 @@
 556,'00556','Castell Rd (W Of McEwen)',44.2356,-76.57446
 557,'00557','Castell Rd (E Of McEwen)',44.23541,-76.57427
 558,'00558','Bath Rd (W Of McEwen)',44.23699,-76.5746
-560,'00560','Frontenac Secondary School (S Of Bath)',44.23759,-76.57724
+560,'00560','Frontenac SS (S Of Bath)',44.23759,-76.57724
 562,'00562','Vista Dr (S Of Bath)',44.23715,-76.58266
 563,'00563','Roosevelt Dr (E Of Knightsbridge)',44.23345,-76.57859
 564,'00564','Vista Dr (N Of Roosevelt)',44.23441,-76.58371
@@ -514,7 +514,7 @@
 797,'00797','282 Amherst Dr (N)',44.22744,-76.65475
 799,'00799','Norwest Rd (E Of Midland)',44.25722,-76.57395
 803,'00803','Henderson Blvd (E Of Lakeview)',44.22801,-76.57242
-804,'00804','Frontenac Secondary School (N Of Bath)',44.23783,-76.57728
+804,'00804','Frontenac SS (N Of Bath)',44.23783,-76.57728
 806,'00806','Centennial Dr (S Of Bath)',44.23754,-76.54741
 809,'00809','172 Gln Castle Rd (E)',44.2207,-76.57741
 810,'00810','Camberley Cr (E Of Gln Castle)',44.22245,-76.57758
