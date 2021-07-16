@@ -202,9 +202,7 @@
 334,'00334','Carruthers Ave (E Of Regent)',44.23544,-76.50899
 335,'00335','Mack St (E Of Regent)',44.23419,-76.50888
 336,'00336','Mack St (W Of Regent)',44.23401,-76.50902
-344,'00344','Brock St (W Of Regent)',44.23274,-76.5089
 345,'00345','Regent St (N Of Brock)',44.23262,-76.50858
-346,'00346','Willingdon Ave (S Of Johnson)',44.23124,-76.50772
 347,'00347','Macdonnell St (N Of Brock)',44.23273,-76.50567
 349,'00349','Victoria St (N Of Brock)',44.23282,-76.5032
 350,'00350','Victoria St (S Of Johnson)',44.23142,-76.50222
@@ -601,6 +599,7 @@
 3023,'03023','Atkinson St (W Of Halifax)',44.26716,-76.55834
 3026,'03026','Nelson St (N Of Princess)',44.2371,-76.50178
 3027,'03027','King St (S Of Barrack)',44.23307,-76.48065
+3028,'03028','Walmart (E Of Midland)',44.26344,-76.57398
 9001,'09001','Prince Charles Dr (E Of Collins Bay)',44.24681,-76.61035
 9002,'09002','Taylor-Kidd Blvd (E Of Collins Bay)',44.24974,-76.61053
 9003,'09003','Mona Dr (S Of Taylor-Kidd)',44.25155,-76.60124
@@ -635,7 +634,6 @@
 9060,'09060','117 Sherwood Ave (N)',44.22559,-76.64694
 9061,'09061','Amherst Dr (E Of Manitou)',44.22723,-76.6511
 9062,'09062','Bayridge Secondary (S Of Taylor-Kidd)',44.25151,-76.59476
-9068,'09068','336 Weller Ave (S)',44.26146,-76.49557
 9069,'09069','212 Dalton Ave (S)',44.26784,-76.5079
 9070,'09070','Alfred St (S Of Princess)',44.23524,-76.49773
 9074,'09074','Augusta Dr (S Of Crossfield)',44.26435,-76.55164
@@ -669,7 +667,6 @@
 9206,'09206','Dalgleish Ave (E Of Rose Abbey)',44.26129,-76.4494
 9207,'09207','St Martha St (N Of Rose Abbey)',44.26597,-76.44637
 9208,'09208','RioCan Ctr (W Of Gardiners)',44.24433,-76.56808
-9211,'09211','324 Palace Rd (W)',44.23395,-76.5139
 9212,'09212','Barrie St (S Of Johnson)',44.23097,-76.49133
 9215,'09215','King''s Xing S (N Of Driveway)',44.26371,-76.50026
 9217,'09217','325 Palace Rd (E)',44.23353,-76.5137
