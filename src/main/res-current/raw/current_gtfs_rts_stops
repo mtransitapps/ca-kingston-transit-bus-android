@@ -273,6 +273,7 @@
 459,'00459','Portsmouth Ave (N Of King)',44.22055,-76.52471
 460,'00460','Baiden St (E Of Portsmouth)',44.22158,-76.52514
 461,'00461','Cartwright St (S Of Churchill)',44.22245,-76.52377
+463,'00463','Churchill St (E Of Portsmouth)',44.22268,-76.52524
 464,'00464','Calderwood Dr (E Of Portsmouth)',44.2244,-76.52542
 465,'00465','KFL&A Health Unit (E Of Portsmouth)',44.227,-76.52569
 467,'00467','Curtis Cr (W Of Portsmouth)',44.227,-76.52586
@@ -419,7 +420,6 @@
 646,'00646','Sierra Ave (N Of Tivoli)',44.27282,-76.57649
 647,'00647','1245 Midland Ave (W)',44.26877,-76.57427
 648,'00648','Walmart (W Of Midland)',44.26333,-76.57423
-649,'00649','Walmart (E Of Midland)',44.26488,-76.57402
 651,'00651','Loblaws (W Of Midland)',44.26038,-76.57417
 652,'00652','Redwood Cr (E Of Cedarwood)',44.26221,-76.57788
 653,'00653','Redwood Cr (N Of Cedarwood)',44.26219,-76.57811
