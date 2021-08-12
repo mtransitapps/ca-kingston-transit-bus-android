@@ -273,7 +273,6 @@
 459,'00459','Portsmouth Ave (N Of King)',44.22055,-76.52471
 460,'00460','Baiden St (E Of Portsmouth)',44.22158,-76.52514
 461,'00461','Cartwright St (S Of Churchill)',44.22245,-76.52377
-463,'00463','Churchill St (E Of Portsmouth)',44.22268,-76.52524
 464,'00464','Calderwood Dr (E Of Portsmouth)',44.2244,-76.52542
 465,'00465','KFL&A Health Unit (E Of Portsmouth)',44.227,-76.52569
 467,'00467','Curtis Cr (W Of Portsmouth)',44.227,-76.52586
@@ -600,6 +599,7 @@
 3026,'03026','Nelson St (N Of Princess)',44.2371,-76.50178
 3027,'03027','King St (S Of Barrack)',44.23307,-76.48065
 3028,'03028','Walmart (E Of Midland)',44.26344,-76.57398
+3029,'03029','Renda St (N Of Henderson)',44.22804,-76.58109
 9001,'09001','Prince Charles Dr (E Of Collins Bay)',44.24681,-76.61035
 9002,'09002','Taylor-Kidd Blvd (E Of Collins Bay)',44.24974,-76.61053
 9003,'09003','Mona Dr (S Of Taylor-Kidd)',44.25155,-76.60124
@@ -688,6 +688,7 @@
 190028,'S00028','1386 Waverley Cr (N)',44.24418,-76.61685
 190029,'S00029','Princess Mary Ave (N Of Cambrai)',44.24059,-76.43969
 190033,'S00033','Invista (S Of Front)',44.21885,-76.55931
+190034,'S00034','Trailhead Pl (S Of King)',44.21991,-76.53797
 190043,'S00043','Pkwy (N Of Princess)',44.25137,-76.53297
 190044,'S00044','Pkwy (S Of Princess)',44.25131,-76.53342
 190052,'S00052','Bus Term Transfer Pt P:3',44.25875,-76.50603
