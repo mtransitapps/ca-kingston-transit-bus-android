@@ -419,6 +419,7 @@
 646,'00646','Sierra Ave (N Of Tivoli)',44.27282,-76.57649
 647,'00647','1245 Midland Ave (W)',44.26877,-76.57427
 648,'00648','Walmart (W Of Midland)',44.26333,-76.57423
+649,'00649','Walmart (E Of Midland)',44.26488,-76.57402
 651,'00651','Loblaws (W Of Midland)',44.26038,-76.57417
 652,'00652','Redwood Cr (E Of Cedarwood)',44.26221,-76.57788
 653,'00653','Redwood Cr (N Of Cedarwood)',44.26219,-76.57811
@@ -599,7 +600,6 @@
 3026,'03026','Nelson St (N Of Princess)',44.2371,-76.50178
 3027,'03027','King St (S Of Barrack)',44.23307,-76.48065
 3028,'03028','Walmart (E Of Midland)',44.26344,-76.57398
-3029,'03029','Renda St (N Of Henderson)',44.22804,-76.58109
 9001,'09001','Prince Charles Dr (E Of Collins Bay)',44.24681,-76.61035
 9002,'09002','Taylor-Kidd Blvd (E Of Collins Bay)',44.24974,-76.61053
 9003,'09003','Mona Dr (S Of Taylor-Kidd)',44.25155,-76.60124
