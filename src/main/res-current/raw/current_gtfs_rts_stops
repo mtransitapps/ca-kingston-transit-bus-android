@@ -203,7 +203,9 @@
 334,'00334','Carruthers Ave (E Of Regent)',44.23544,-76.50899
 335,'00335','Mack St (E Of Regent)',44.23419,-76.50888
 336,'00336','Mack St (W Of Regent)',44.23401,-76.50902
+344,'00344','Brock St (W Of Regent)',44.23274,-76.5089
 345,'00345','Regent St (N Of Brock)',44.23262,-76.50858
+346,'00346','Willingdon Ave (S Of Johnson)',44.23124,-76.50772
 347,'00347','Macdonnell St (N Of Brock)',44.23273,-76.50567
 349,'00349','Victoria St (N Of Brock)',44.23282,-76.5032
 350,'00350','Victoria St (S Of Johnson)',44.23142,-76.50222
@@ -521,7 +523,7 @@
 815,'00815','RioCan Ctr (N Of Taylor-Kidd)',44.25096,-76.56476
 816,'00816','940 Gardiners Rd (W)',44.2573,-76.56888
 819,'00819','Fortune Cr (E Of Gardiners)',44.27203,-76.56892
-822,'00822','Midland Ave (S Of Cataraqui Woods)',44.26702,-76.57402
+822,'00822','Cataraqui Woods Dr (E Of Midland)',44.26702,-76.57402
 824,'00824','Gardiners Rd (S Of Cataraqui Woods)',44.26708,-76.56984
 826,'00826','Sir John A Macdonald Blvd (S Of Dalton)',44.2688,-76.52061
 827,'00827','442 Dalton Ave (S)',44.26881,-76.51267
