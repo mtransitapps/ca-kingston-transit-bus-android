@@ -111,7 +111,7 @@
 199,'00199','Weller Ave (E Of Wiley)',44.26188,-76.48933
 200,'00200','Weller Ave @ KCHC (E Of Compton)',44.26286,-76.49073
 201,'00201','Weller Ave @ KCHC (W Of Compton)',44.26269,-76.49087
-202,'00202','Compton St (S Of Weller)',44.26184,-76.49048
+202,'00202','Compton St (S Of Weller)',44.26186,-76.49003
 203,'00203','Trillium Court (N Of Weller)',44.26177,-76.4931
 204,'00204','70 Compton St (S)',44.26443,-76.49029
 205,'00205','71 Compton St (N)',44.26452,-76.49061
@@ -161,7 +161,6 @@
 280,'00280','Colborne St (W Of Division)',44.23475,-76.49348
 283,'00283','York St (W Of Division)',44.23791,-76.49422
 284,'00284','York St (E Of Division)',44.23795,-76.49406
-285,'00285','Pine St (E Of Division)',44.23916,-76.49428
 286,'00286','Pine St (W Of Division)',44.23903,-76.49444
 287,'00287','Adelaide St (E Of Division)',44.24078,-76.49462
 288,'00288','Adelaide St (W Of Division)',44.24093,-76.49485
@@ -567,7 +566,7 @@
 2012,'02012','Dalgleish Ave (W Of Rose Abbey)',44.26155,-76.44962
 2013,'02013','118 Virginia St (N)',44.27135,-76.48445
 2015,'02015','Briceland St (W Of Montreal)',44.25944,-76.48201
-2016,'02016','Weller Ave (E Of Wilson)',44.26271,-76.48649
+2016,'02016','MacCauley St (E Of Wilson)',44.26354,-76.48661
 2017,'02017','300 Conacher Dr (N)',44.26633,-76.49475
 2018,'02018','Worthington Pk (S Of Weller)',44.26165,-76.49313
 2019,'02019','Helen Henderson Ctr (N Of Amherst)',44.22622,-76.65921
@@ -664,6 +663,8 @@
 9103,'09103','Speers Blvd (S Of Amherst)',44.22497,-76.66302
 9104,'09104','McDonough Cr (S Of Kildare)',44.21979,-76.66402
 9119,'09119','845 Gardiners Rd (W)',44.25365,-76.56864
+9120,'09120','McEwen Dr (S Of Henderson)',44.22821,-76.5733
+9121,'09121','Compton St (N Of Weller)',44.26198,-76.49049
 9201,'09201','Union St (W Of University)',44.22833,-76.49566
 9206,'09206','Dalgleish Ave (E Of Rose Abbey)',44.26129,-76.4494
 9207,'09207','St Martha St (N Of Rose Abbey)',44.26597,-76.44637
@@ -691,7 +692,6 @@
 190033,'S00033','Invista (S Of Front)',44.21885,-76.55931
 190034,'S00034','Trailhead Pl (S Of King)',44.21991,-76.53797
 190043,'S00043','Pkwy (N Of Princess)',44.25137,-76.53297
-190044,'S00044','Pkwy (S Of Princess)',44.25131,-76.53342
 190052,'S00052','Bus Term Transfer Pt P:3',44.25875,-76.50603
 190090,'S00090','Old Colony Rd (W Of Bayridge)',44.25535,-76.58682
 190101,'S00101','RioCan Ctr (E Of Driveway)',44.24492,-76.5653
