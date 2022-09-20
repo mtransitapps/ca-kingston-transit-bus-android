@@ -132,7 +132,7 @@
 232,'00232','Fraser St (E Of Division)',44.24554,-76.49539
 233,'00233','Railway St (E Of Division)',44.24784,-76.49575
 234,'00234','Kingston Police (E Of Division)',44.25018,-76.4961
-235,'00235','Barbara Ave (W Of Division)',44.24995,-76.4963
+235,'00235','Barbara Ave (W Of Division)',44.25027,-76.49635
 237,'00237','Theresa Cr (N Of Kirkpatrick)',44.25346,-76.49797
 238,'00238','Theresa Cr (S Of Kirkpatrick)',44.25333,-76.49789
 239,'00239','Kingscourt Ave (N Of Kirkpatrick)',44.25335,-76.50146
@@ -310,7 +310,7 @@
 505,'00505','Polson Pk S (N Of Robert Wallace)',44.23486,-76.52955
 506,'00506','Elmwood St (E Of Portsmouth)',44.24097,-76.529
 507,'00507','Queen Mary Rd (S Of Robert Wallace)',44.23442,-76.53287
-509,'00509','Grenville Rd (N Of Bath)',44.23908,-76.53361
+509,'00509','Grenville Rd (N Of Bath)',44.23913,-76.53313
 510,'00510','Queen Mary Rd (N Of Bath)',44.23877,-76.53689
 511,'00511','Queen Mary Rd (S Of Bath)',44.23866,-76.53544
 512,'00512','Bath Rd (E Of Armstrong)',44.23884,-76.54208
@@ -708,7 +708,7 @@
 9236,'09236','Brock St (W Of University)',44.23272,-76.49577
 9237,'09237','Sheppard St (W Of Montreal)',44.27302,-76.47762
 9238,'09238','Sutherland Dr (E Of Montreal)',44.26885,-76.47905
-9239,'09239','Discovery Ave (N Of John Marks)',44.2746,-76.44228
+9239,'09239','Discovery Ave (N Of John Marks)',44.27467,-76.44144
 9240,'09240','Ordnance St (W Of Montreal)',44.23495,-76.48518
 9241,'09241','Rose Abbey Dr (E Of Hwy 15)',44.26878,-76.45127
 9304,'09304','Liston Dr (N Of Taylor-Kidd)',44.25162,-76.59427
