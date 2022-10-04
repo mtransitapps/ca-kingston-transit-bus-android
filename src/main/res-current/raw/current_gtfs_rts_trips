@@ -30,7 +30,7 @@
 501029,0,'Downtown',501
 502019,0,'Cataraqui Ctr',502
 502029,0,'Downtown',502
-601019,0,'Queen''s / KGH',601
+60109,0,'Queen''s / KGH',601
 602019,0,'Innovation Dr',602
 701019,0,'Cataraqui Ctr',701
 701029,0,'Downtown',701
@@ -43,6 +43,5 @@
 40017029,0,'Alfred St',40017
 40017019,0,'Downtown',40017
 9900209,0,'Downtown',99002
-160017029,0,'Albert St',160017
-160017019,0,'Grant Hall',160017
+16001709,0,'Princess / Albert',160017
 23001709,0,'Queen''s West Campus',230017
