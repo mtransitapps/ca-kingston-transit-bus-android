@@ -462,7 +462,6 @@
 700,'00700','St Martha St (S Of Rose Abbey)',44.26638,-76.44734
 706,'00706','John Orr Tower (E Of W Campus Ln)',44.22576,-76.51402
 708,'00708','Jean Royce Hall (S Of W Campus Ln)',44.2246,-76.51594
-709,'00709','Earl St (E Of University)',44.22976,-76.49551
 716,'00716','Hyde St (E Of Lakeview)',44.22288,-76.57196
 718,'00718','McEwen Dr (W Of Lakeview)',44.22401,-76.57219
 725,'00725','Grant Timmins Dr (W Of Binnington)',44.26715,-76.52879
@@ -539,7 +538,7 @@
 838,'00838','Old Mill Rd (N Of John Counter)',44.25885,-76.53853
 841,'00841','Norris Court (E Of Gardiners)',44.26311,-76.56862
 842,'00842','O''Connor Dr (E Of Gardiners)',44.25971,-76.56851
-843,'00843','Johnson St (E Of Portsmouth)',44.23061,-76.52606
+843,'00843','Johnson St (E Of Portsmouth)',44.22994,-76.52596
 845,'00845','Miles Ave (E Of Portsmouth)',44.2347,-76.52722
 846,'00846','Van Order Dr (E Of Portsmouth)',44.23783,-76.52823
 847,'00847','Conacher Dr (E Of Wilson)',44.26587,-76.48762
