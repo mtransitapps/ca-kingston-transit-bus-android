@@ -25,7 +25,6 @@
 30,'00030','Coverdale Dr (W Of Walden)',44.2379,-76.59791,0
 31,'00031','Stoneridge Dr (N Of Coverdale)',44.23743,-76.59217,0
 35,'00035','McEwen Dr (N Of Bath)',44.23767,-76.57433,0
-37,'00037','Duncan McArthur Hall (N Of Driveway)',44.22363,-76.51536,0
 39,'00039','Taylor-Kidd Blvd (E Of Progress)',44.24791,-76.57802,0
 40,'00040','775 Progress Ave (S)',44.24758,-76.57783,0
 41,'00041','Futures Gt (S Of Princess)',44.25805,-76.55368,0
@@ -460,8 +459,6 @@
 697,'00697','Littlestone Cr (S Of Davis)',44.25156,-76.55788,0
 698,'00698','Vista Dr (N Of Bath)',44.23735,-76.58415,0
 700,'00700','St Martha St (S Of Rose Abbey)',44.26638,-76.44734,0
-706,'00706','John Orr Tower (E Of W Campus Ln)',44.22576,-76.51402,0
-708,'00708','Jean Royce Hall (S Of W Campus Ln)',44.2246,-76.51594,0
 716,'00716','Hyde St (E Of Lakeview)',44.22288,-76.57196,0
 718,'00718','McEwen Dr (W Of Lakeview)',44.22401,-76.57219,0
 725,'00725','Grant Timmins Dr (W Of Binnington)',44.26715,-76.52879,0
@@ -601,10 +598,8 @@
 2069,'02069','Beechgrove (S Of King)',44.22047,-76.52292,0
 2072,'02072','1000 King St W (S)',44.21986,-76.53522,0
 3023,'03023','Atkinson St (W Of Halifax)',44.26716,-76.55834,0
-3025,'03025','Union St (W Of Sir John A Macdonald)',44.2228,-76.51283,0
 3026,'03026','Nelson St (N Of Princess)',44.2371,-76.50178,0
 3027,'03027','King St (S Of Barrack)',44.23307,-76.48065,0
-3030,'03030','University Ave (S Of Earl)',44.2298,-76.49573,0
 9001,'09001','Prince Charles Dr (E Of Collins Bay)',44.24681,-76.61035,0
 9002,'09002','Taylor-Kidd Blvd (E Of Collins Bay)',44.24974,-76.61053,0
 9003,'09003','Mona Dr (S Of Taylor-Kidd)',44.25155,-76.60124,0
@@ -647,7 +642,6 @@
 9077,'09077','Portsmouth Ave (N Of Princess)',44.24955,-76.52934,0
 9078,'09078','1281 Midland Ave (W)',44.27126,-76.57434,0
 9079,'09079','1281 Midland Ave (E)',44.27124,-76.57416,0
-9080,'09080','St Lawrence Ave (S Of Stuart)',44.22365,-76.49897,0
 9081,'09081','369 Dalton Ave (N)',44.26897,-76.51811,0
 9082,'09082','270 Princess St (S)',44.23237,-76.48795,0
 9083,'09083','321 Yonge St (E)',44.22748,-76.51811,0
@@ -663,7 +657,6 @@
 9095,'09095','Markers Acres Pk (W Of Sutherland)',44.26678,-76.48906,0
 9096,'09096','Hwy 15 (S Of Hwy 2)',44.23973,-76.45767,0
 9097,'09097','Markland St (W Of Montreal)',44.23848,-76.48564,0
-9098,'09098','Johnson St (E Of Albert)',44.23145,-76.50006,0
 9099,'09099','Alfred St (S Of Union)',44.22769,-76.49717,0
 9100,'09100','Ellis Hall (W Of University)',44.22624,-76.49571,0
 9101,'09101','Grant Hall (E Of University)',44.22614,-76.49548,0
@@ -687,7 +680,6 @@
 9125,'09125','Evergreen Dr (E Of Rosanna)',44.26508,-76.59989,0
 9126,'09126','Bittersweet Pl (S Of Cataraqui Woods)',44.26723,-76.57657,0
 9127,'09127','VIA Rail Sta (W Of Old Mill)',44.25773,-76.53782,0
-9201,'09201','Union St (W Of University)',44.22833,-76.49566,0
 9206,'09206','Dalgleish Ave (E Of Rose Abbey)',44.26129,-76.4494,0
 9207,'09207','St Martha St (N Of Rose Abbey)',44.26597,-76.44637,0
 9208,'09208','RioCan Ctr (W Of Gardiners)',44.24433,-76.56808,0
@@ -704,8 +696,6 @@
 9231,'09231','Taylor-Kidd Blvd (W Of Gardiners)',44.25095,-76.56854,0
 9232,'09232','Taylor-Kidd Blvd (E Of Gardiners)',44.25126,-76.56821,0
 9234,'09234','Waterside Way (W Of Hwy 15)',44.26972,-76.45062,0
-9235,'09235','Brock St (E Of University)',44.23247,-76.49557,0
-9236,'09236','Brock St (W Of University)',44.23272,-76.49577,0
 9237,'09237','Sheppard St (W Of Montreal)',44.27302,-76.47762,0
 9238,'09238','Sutherland Dr (E Of Montreal)',44.26885,-76.47905,0
 9239,'09239','Discovery Ave (N Of John Marks)',44.27467,-76.44144,0
@@ -732,7 +722,6 @@
 190272,'S00272','Barrie St (S Of Princess)',44.2329,-76.49151,0
 190292,'S00292','Barrie St (N Of Brock)',44.23207,-76.49143,0
 190356,'S00356','Albert St (S Of Princess)',44.23652,-76.50081,0
-190357,'S00357','Albert St (N Of Princess)',44.23658,-76.50051,0
 190363,'S00363','800 Princess St (S)',44.23954,-76.50803,0
 190364,'S00364','Tower St (N Of Princess)',44.23975,-76.50815,0
 190380,'S00380','McMichael St (N Of Princess)',44.24797,-76.52602,0
