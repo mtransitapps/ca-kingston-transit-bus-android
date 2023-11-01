@@ -4,9 +4,10 @@
     <string name="gtfs_real_time_authority">org.mtransit.android.ca_kingston_transit_bus.gtfs.realtime</string>
     <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
     <bool name="gtfs_real_time_stop_id_is_stop_code">true</bool>
+    <bool name="gtfs_real_time_route_id_is_route_short_name">true</bool>
     <string name="gtfs_real_time_agency_service_alerts_url">https://api.cityofkingston.ca/gtfs-realtime/alerts.pb</string>
     <string name="gtfs_real_time_agency_id" />
-    <string name="gtfs_real_time_agency_bold_words" />
+    <string name="gtfs_real_time_agency_bold_words">(a (slight )?delay|route \\d+|service delay|reduced|interrupted|relocated|not affected|cancel[\\S]*|closed|detour|out of service)</string>
     <string-array name="gtfs_real_time_agency_extra_languages" />
     <string-array name="gtfs_real_time_agency_extra_bold_words" />
     <string name="gtfs_real_time_agency_time_regex" />
