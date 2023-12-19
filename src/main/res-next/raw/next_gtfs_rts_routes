@@ -1,23 +1,23 @@
-1,'1','St Lawrence College <> Montreal St','54B948'
-2,'2','Division St <> Kingston Ctr','F99D31'
-3,'3','Kingston Ctr <> Downtown','026CB6'
-4,'4','Cataraqui Ctr <> Downtown','ED1556'
-6,'6','Cataraqui Ctr <> St Lawrence College','9B5F0E'
-7,'7','Rideau Hts <> Invista Ctr','8A6F45'
-10,'10','Amherstview <> Cataraqui Ctr','636466'
-11,'11','Kingston Ctr <> Cataraqui Ctr','008752'
-12,'12','CFB Kingston <> Kingston Ctr','8B005A'
-14,'14','Crossfield Ave / Waterloo Dr','C1CD23'
-15,'15','Cataraqui Ctr / Cataraqui Woods <> Reddendale','009DDC'
-16,'16','Train Sta <> Division / Dalton','B890C2'
-18,'18','Train Sta Circuit - Train Sta','4D6B7D'
-19,'19','Woodhaven <> Cataraqui Ctr','00215B'
-501,'501','Downtown <> Cataraqui Ctr','231F20'
-502,'502','Cataraqui Ctr <> Downtown','231F20'
-601,'601','Queen''s / KGH','231F20'
-602,'602','Innovation Dr','231F20'
-701,'701','Cataraqui Ctr <> Downtown','231F20'
-702,'702','Downtown <> King''s Xing N','231F20'
-801,'801','Queen''s / KGH','000000'
-802,'802','Montreal St P&R','000000'
-99002,'XTRA','Downtown','000000'
+1,'1','St Lawrence College <> Montreal St','54B948',49,3
+2,'2','Division St <> Kingston Ctr','F99D31',50,3
+3,'3','Kingston Ctr <> Downtown','026CB6',51,3
+4,'4','Cataraqui Ctr <> Downtown','ED1556',52,3
+6,'6','Cataraqui Ctr <> St Lawrence College','9B5F0E',54,3
+7,'7','Rideau Hts <> Invista Ctr','8A6F45',55,3
+10,'10','Amherstview <> Cataraqui Ctr','636466',1567,3
+11,'11','Kingston Ctr <> Cataraqui Ctr','008752',1568,3
+12,'12','CFB Kingston <> Kingston Ctr','8B005A',1569,3
+14,'14','Crossfield Ave / Waterloo Dr','C1CD23',1571,3
+15,'15','Cataraqui Ctr / Cataraqui Woods <> Reddendale','009DDC',1572,3
+16,'16','Train Sta <> Division / Dalton','B890C2',1573,3
+18,'18','Train Sta Circuit - Train Sta','4D6B7D',1575,3
+19,'19','Woodhaven <> Cataraqui Ctr','00215B',1576,3
+501,'501','Downtown <> Cataraqui Ctr','231F20',52470,3
+502,'502','Cataraqui Ctr <> Downtown','231F20',52471,3
+601,'601','Queen''s / KGH','231F20',53431,3
+602,'602','Innovation Dr','231F20',53432,3
+701,'701','Cataraqui Ctr <> Downtown','231F20',54392,3
+702,'702','Downtown <> King''s Xing N','231F20',54393,3
+801,'801','Queen''s / KGH','000000',55353,3
+802,'802','Montreal St P&R','000000',55354,3
+99002,'XTRA','Downtown','000000',2704939,3
