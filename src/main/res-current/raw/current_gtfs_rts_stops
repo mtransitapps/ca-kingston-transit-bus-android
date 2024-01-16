@@ -427,7 +427,7 @@
 655,'00655','Pinewood Pl (N Of Cedarwood)',44.26207,-76.58057,0,45812566
 656,'00656','Princess St (E Of Bayridge)',44.26026,-76.58338,0,45812567
 657,'00657','Princess St (W Of Bayridge)',44.26064,-76.58338,0,45812568
-658,'00658','Basswood Pl (S Of Cedarwood)',44.26237,-76.58272,0,45812569
+658,'00658','Pinewood Pl (S Of Cedarwood)',44.26245,-76.58239,0,45812569
 659,'00659','Basswood Pl (N Of Cedarwood)',44.26252,-76.58306,0,45812570
 660,'00660','Bayridge Dr (S Of Old Colony)',44.255,-76.58598,0,45812592
 661,'00661','Bayridge Dr (N Of Old Colony)',44.25538,-76.58632,0,45812593
@@ -682,8 +682,9 @@
 9119,'09119','845 Gardiners Rd (W)',44.25365,-76.56864,0,46075760
 9120,'09120','McEwen Dr (S Of Henderson)',44.22821,-76.5733,0,46075782
 9121,'09121','Compton St (N Of Weller)',44.26198,-76.49049,0,46075783
-9122,'09122','Princess St (W Of Holden)',44.2611,-76.58983,0,46075784
-9124,'09124','Rosanna Ave (E , N Of Princess)',44.26256,-76.59905,0,46075786
+9122,'09122','Holden St (N Of Princess)',44.26083,-76.59037,0,46075784
+9123,'09123','Woodhaven Dr (N Of Princess)',44.26175,-76.59624,0,46075785
+9124,'09124','Rosanna Ave (N Of Princess)',44.26219,-76.59906,0,46075786
 9125,'09125','Evergreen Dr (E Of Rosanna)',44.26508,-76.59989,0,46075787
 9126,'09126','Bittersweet Pl (S Of Cataraqui Woods)',44.26723,-76.57657,0,46075788
 9127,'09127','VIA Rail Sta (W Of Old Mill)',44.25773,-76.53782,0,46075789
