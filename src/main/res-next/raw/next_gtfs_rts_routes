@@ -1,0 +1,30 @@
+1,'1','Montreal St','54B948',49,3
+2,'2','Division St <> Kingston Ctr','F99D31',50,3
+3,'3','Kingston Ctr <> Downtown','026CB6',51,3
+4,'4','Cataraqui Ctr <> Downtown','ED1556',52,3
+6,'6','Cataraqui Ctr <> St Lawrence College','9B5F0E',54,3
+7,'7','Invista Ctr','8A6F45',55,3
+10,'10','Amherstview <> Cataraqui Ctr','636466',1567,3
+11,'11','Kingston Ctr <> Cataraqui Ctr','008752',1568,3
+14,'14','Crossfield Ave / Waterloo Dr','C1CD23',1571,3
+15,'15','Cataraqui Ctr / Cataraqui Woods <> Reddendale','009DDC',1572,3
+16,'16','Bus Term <> Train Sta','B890C2',1573,3
+18,'18','Train Sta Circuit - Train Sta','4D6B7D',1575,3
+19,'19','Woodhaven <> Cataraqui Ctr','00215B',1576,3
+501,'501','Downtown','231F20',52470,3
+502,'502','Cataraqui Ctr','231F20',52471,3
+601,'601','Queen''s / KGH','231F20',53431,3
+602,'602','Innovation Dr','231F20',53432,3
+701,'701','Cataraqui Ctr','231F20',54392,3
+702,'702','King''s Xing','231F20',54393,3
+801,'801','Downtown','000000',55353,3
+802,'802','Montreal St P&R','000000',55354,3
+10003,'3A','Downtown','000000',1646,3
+10007,'7A','7','000000',1770,3
+10012,'12A','12','000000',48704,3
+20001,'1B','Downtown','000000',1585,3
+20002,'2B','Bus Term <> Downtown','000000',1616,3
+20006,'6B','6','000000',1740,3
+20007,'7B','Cataraqui Ctr <> Bus Term','000000',1771,3
+30007,'7C','7','000000',1772,3
+99002,'XTRA','Cataraqui Ctr','000000',2704939,3
