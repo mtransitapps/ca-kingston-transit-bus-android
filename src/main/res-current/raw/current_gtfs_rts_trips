@@ -15,27 +15,28 @@
 14019,0,'Crossfield Ave / Waterloo Dr',14
 15029,0,'Cataraqui Ctr / Cataraqui Woods',15
 15019,0,'Reddendale',15
-16029,0,'Division / Dalton',16
-16019,0,'Train Sta',16
+16019,0,'Bus Term',16
+16029,0,'Train Sta',16
 18019,0,'Train Sta Circuit - Train Sta',18
 19019,0,'Cataraqui Ctr',19
 19029,0,'Woodhaven',19
-20019,0,'Princess / Albert',20
-20029,0,'Queen''s West Campus',20
 50109,0,'Downtown',501
 50209,0,'Cataraqui Ctr',502
 60109,0,'Queen''s / KGH',601
 602019,0,'Innovation Dr',602
 70109,0,'Cataraqui Ctr',701
 70209,0,'King''s Xing',702
-801019,0,'Queen''s / KGH',801
+801019,0,'Downtown',801
 802019,0,'Montreal St P&R',802
+10003019,0,'Downtown',10003
+10007019,0,'Division / Dalton',10007
 10012019,0,'Bus Term',10012
 10012029,0,'Highways 2 & 15',10012
-10017029,0,'Alfred St',10017
-10017019,0,'Van Order Dr',10017
-40017029,0,'Alfred St',40017
-40017019,0,'Downtown',40017
-9900209,0,'Downtown',99002
-16001709,0,'Princess / Albert',160017
-23001709,0,'Queen''s West Campus',230017
+20001019,0,'Downtown',20001
+20002019,0,'Bus Term',20002
+20002029,0,'Downtown',20002
+20006019,0,'Gardiners Ctr',20006
+20007019,0,'Bus Term',20007
+20007029,0,'Cataraqui Ctr',20007
+30007019,0,'Rideau Hts',30007
+9900209,0,'Cataraqui Ctr',99002
