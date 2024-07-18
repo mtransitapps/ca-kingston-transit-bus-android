@@ -1,4 +1,4 @@
-1,'1','Montreal St','54B948',49,3
+1,'1','St Lawrence College <> Montreal St','54B948',49,3
 2,'2','Division St <> Kingston Ctr','F99D31',50,3
 3,'3','Kingston Ctr <> Downtown','026CB6',51,3
 4,'4','Cataraqui Ctr <> Downtown','ED1556',52,3
@@ -11,12 +11,12 @@
 16,'16','Bus Term <> Train Sta','B890C2',1573,3
 18,'18','Train Sta Circuit - Train Sta','4D6B7D',1575,3
 19,'19','Woodhaven <> Cataraqui Ctr','00215B',1576,3
-501,'501','Downtown','231F20',52470,3
-502,'502','Cataraqui Ctr','231F20',52471,3
+501,'501','Downtown <> Cataraqui Ctr','231F20',52470,3
+502,'502','Cataraqui Ctr <> Downtown','231F20',52471,3
 601,'601','Queen''s / KGH','231F20',53431,3
 602,'602','Innovation Dr','231F20',53432,3
-701,'701','Cataraqui Ctr','231F20',54392,3
-702,'702','King''s Xing','231F20',54393,3
+701,'701','Cataraqui Ctr <> Downtown','231F20',54392,3
+702,'702','Downtown <> King''s Xing N','231F20',54393,3
 801,'801','Downtown','000000',55353,3
 802,'802','Montreal St P&R','000000',55354,3
 10003,'3A','Downtown','000000',1646,3
