@@ -119,36 +119,6 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 	@SuppressWarnings("RedundantIfStatement")
 	@Override
 	public boolean directionSplitterEnabled(long routeId) {
-		if (routeId == 1L) {
-			return false; // 2024-04-09: it's a mess
-		}
-		if (routeId == 7L) {
-			return false; // 2024-04-09: it's a mess
-		}
-		if (routeId == 501L) {
-			return false; // 2024-04-09: it's a mess
-		}
-		if (routeId == 502L) {
-			return false; // 2024-04-09: it's a mess
-		}
-		if (routeId == 601L) {
-			return false; // 2024-04-30: it's a mess
-		}
-		if (routeId == 701L) {
-			return false; // 2024-04-09: it's a mess
-		}
-		if (routeId == 702L) {
-			return false; // 2024-04-09: it's a mess
-		}
-		if (routeId == 99_002L) { // XTRA
-			return false; // 2024-04-09: it's a mess
-		}
-		if (routeId == MRouteSNToIDConverter.convert("17W")) {
-			return false; // 2024-04-09: it's a mess
-		}
-		if (routeId == MRouteSNToIDConverter.convert("17P")) {
-			return false; // 2024-04-09: it's a mess
-		}
 		return true;
 	}
 
