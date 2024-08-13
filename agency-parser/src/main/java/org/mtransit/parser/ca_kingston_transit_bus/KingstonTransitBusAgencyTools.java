@@ -7,6 +7,7 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
+import org.mtransit.commons.Letters;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GRoute;
@@ -119,6 +120,11 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 	@SuppressWarnings("RedundantIfStatement")
 	@Override
 	public boolean directionSplitterEnabled(long routeId) {
+		if (routeId == 20L) {
+			return false; // 2024-08-13: it's a mess
+		} else if (routeId == 17L + MRouteSNToIDConverter.endsWith(Letters.W)) { // 17W
+			return false; // 2024-08-13: it's a mess
+		}
 		return true;
 	}
 
