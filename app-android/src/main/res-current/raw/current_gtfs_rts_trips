@@ -2,8 +2,6 @@
 1029,0,'St Lawrence College',1
 2019,0,'Division St',2
 2029,0,'Kingston Ctr',2
-3019,0,'Downtown',3
-3029,0,'Kingston Ctr',3
 4019,0,'Cataraqui Ctr',4
 4029,0,'Downtown',4
 6019,0,'Cataraqui Ctr',6
@@ -36,8 +34,7 @@
 702019,0,'King''s Xing N',702
 801019,0,'Queen''s / KGH',801
 802019,0,'Montreal St P&R',802
-10007019,0,'Division / Dalton',10007
-10007029,0,'Grant Timmins / Dalton',10007
+10007019,0,'Grant Timmins / Dalton',10007
 10012019,0,'Bus Term',10012
 10012029,0,'Highways 2 & 15',10012
 10017019,0,'Norman Rogers / Van Order',10017
