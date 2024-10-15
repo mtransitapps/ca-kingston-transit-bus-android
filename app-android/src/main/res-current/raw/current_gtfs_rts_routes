@@ -11,7 +11,6 @@
 16,'16','Bus Term <> Train Sta','B890C2',1573,3
 18,'18','Train Sta Circuit - Train Sta','4D6B7D',1575,3
 19,'19','Woodhaven <> Cataraqui Ctr','00215B',1576,3
-20,'20','Queen''s West Campus','ED1556',1598,3
 22,'22','Bus Term <> Rideau Town Ctr','000000',1600,3
 31,'31','3','000000',1630,3
 32,'32','3','000000',1631,3
@@ -24,7 +23,6 @@
 801,'801','Queen''s / KGH','000000',55353,3
 802,'802','Montreal St P&R','000000',55354,3
 10007,'7A','7','000000',1770,3
-10017,'17A','Norman Rogers / Van Order <> Union / Alfred','000000',48859,3
 10019,'19A','Cataraqui Ctr <> Westbrook','000000',48921,3
 20001,'1B','Downtown','000000',1585,3
 20002,'2B','Bus Term <> St Lawrence College','000000',1616,3
@@ -33,7 +31,4 @@
 20016,'16B','16','000000',48829,3
 20702,'702B','702','000000',1686249,3
 30007,'7C','7','000000',1772,3
-40017,'17D','Union / Alfred <> Downtown','000000',48862,3
 99002,'XTRA','Cataraqui Ctr','000000',2704939,3
-160017,'17P','Grant Hall <> Princess / Albert','000000',48874,3
-230017,'17W','Queen''s West Campus','000000',48881,3
