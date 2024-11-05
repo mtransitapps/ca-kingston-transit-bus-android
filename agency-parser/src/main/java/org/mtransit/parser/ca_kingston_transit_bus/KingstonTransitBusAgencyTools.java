@@ -205,7 +205,7 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 		//noinspection deprecation
 		final String stopId = gStop.getStopId();
 		if (!stopId.isEmpty() && CharUtils.isDigitsOnly(stopId)) {
-			return Integer.parseInt(stopId); // using stop code as stop ID
+			return Integer.parseInt(stopId);
 		}
 		switch (stopId) {
 		case PLACE_CATC:
@@ -232,12 +232,14 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 				final int digits = Integer.parseInt(matcher.group());
 				if (stopId.startsWith("S")) {
 					return 190_000 + digits;
+				} else if (stopId.startsWith("LT")) {
+					return 12_200_000 + digits;
 				}
-				throw new MTLog.Fatal("Unexpected stop ID for '%s'!", gStop);
+				throw new MTLog.Fatal("Unexpected stop ID for '%s'!", gStop.toStringPlus(true));
 			}
 		} catch (Exception e) {
-			throw new MTLog.Fatal(e, "Error while finding stop ID for '%s'!", gStop);
+			throw new MTLog.Fatal(e, "Error while finding stop ID for '%s'!", gStop.toStringPlus(true));
 		}
-		throw new MTLog.Fatal("Unexpected stop ID for '%s'!", gStop);
+		throw new MTLog.Fatal("Unexpected stop ID for '%s'!", gStop.toStringPlus(true));
 	}
 }
