@@ -19,7 +19,7 @@
 502,'502','Cataraqui Ctr <> Downtown','231F20',52471,3
 601,'601','Queen''s / KGH','231F20',53431,3
 602,'602','Innovation / Hwy 15','231F20',53432,3
-701,'701','Cataraqui Ctr <> Downtown','231F20',54392,3
+701,'701','Downtown <> Cataraqui Ctr','231F20',54392,3
 702,'702','Downtown <> King''s Xing N','231F20',54393,3
 801,'801','Queen''s / KGH','000000',55353,3
 802,'802','Montreal St P&R','000000',55354,3
@@ -27,8 +27,8 @@
 10017,'17A','Norman Rogers / Van Order <> Union / Alfred','000000',48859,3
 10019,'19A','Cataraqui Ctr <> Westbrook','000000',48921,3
 10090,'90A','Loyalist Link - Odessa <> Loyalist Link - Bath','000000',56330,3
-20001,'1B','Downtown','000000',1585,3
-20002,'2B','Bus Term <> St Lawrence College','000000',1616,3
+20001,'1B','Queen / Bagot <> Downtown','000000',1585,3
+20002,'2B','Bus Term','000000',1616,3
 20006,'6B','6','000000',1740,3
 20007,'7B','Cataraqui Ctr <> Bus Term','000000',1771,3
 20016,'16B','16','000000',48829,3
