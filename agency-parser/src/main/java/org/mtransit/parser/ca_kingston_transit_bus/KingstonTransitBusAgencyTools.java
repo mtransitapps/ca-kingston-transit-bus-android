@@ -120,7 +120,9 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 	@SuppressWarnings("RedundantIfStatement")
 	@Override
 	public boolean directionSplitterEnabled(long routeId) {
-		if (routeId == 20L) {
+		if (routeId == 2L + MRouteSNToIDConverter.endsWith(Letters.B)) { // 2B
+			return false; // 2024-11-26: it's a mess
+		} else if (routeId == 20L) {
 			return false; // 2024-08-13: it's a mess
 		} else if (routeId == 17L + MRouteSNToIDConverter.endsWith(Letters.W)) { // 17W
 			return false; // 2024-08-13: it's a mess
@@ -134,7 +136,7 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public boolean directionFinderEnabled() {
-		return true;
+		return true; // no "direction_id" in trips.txt
 	}
 
 	private static final Pattern ENDS_WITH_PARENTHESIS_ = Pattern.compile("( \\(.*\\))", Pattern.CASE_INSENSITIVE);
