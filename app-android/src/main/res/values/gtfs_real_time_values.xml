@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
     <integer name="gtfs_real_time_db_version">1</integer>
-    <string name="gtfs_real_time_authority">org.mtransit.android.ca_kingston_transit_bus.gtfs.realtime</string>
     <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
     <bool name="gtfs_real_time_stop_id_is_stop_code">true</bool>
     <bool name="gtfs_real_time_route_id_is_route_short_name">true</bool>
