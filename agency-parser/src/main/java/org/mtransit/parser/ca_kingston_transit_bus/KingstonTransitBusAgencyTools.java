@@ -124,6 +124,8 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 			return false; // 2024-11-26: it's a mess
 		} else if (routeId == 20L) {
 			return false; // 2024-08-13: it's a mess
+		} else if (routeId == 17L + MRouteSNToIDConverter.endsWith(Letters.P)) { // 17P
+			return false; // 2024-12-10: it's a mess
 		} else if (routeId == 17L + MRouteSNToIDConverter.endsWith(Letters.W)) { // 17W
 			return false; // 2024-08-13: it's a mess
 		} else if (routeId == 601L) {
