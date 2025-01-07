@@ -95,7 +95,7 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public @NotNull String getRouteShortName(@NotNull GRoute gRoute) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		return gRoute.getRouteId(); // used for GTFS-RT
 	}
 
@@ -130,6 +130,8 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 			return false; // 2024-12-10: it's a mess
 		} else if (routeId == 17L + MRouteSNToIDConverter.endsWith(Letters.W)) { // 17W
 			return false; // 2024-08-13: it's a mess
+		} else if (routeId == 22L) {
+			return false; // 2025-01-07: it's a mess
 		} else if (routeId == 601L) {
 			return false; // 2024-10-02: it's a mess
 		} else if (routeId == 602L) {
@@ -202,13 +204,13 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 	@NotNull
 	@Override
 	public String getStopCode(@NotNull GStop gStop) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		return gStop.getStopId(); // used by GTFS-RT
 	}
 
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String stopId = gStop.getStopId();
 		if (!stopId.isEmpty() && CharUtils.isDigitsOnly(stopId)) {
 			return Integer.parseInt(stopId);
