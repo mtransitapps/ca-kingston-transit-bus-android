@@ -19,7 +19,8 @@
 15019,0,'Ctr 70 P&R',15
 16019,0,'Bus Term',16
 16029,0,'Train Sta',16
-18019,0,'Downtown / Train Sta Circuit - Train Sta',18
+18019,0,'Downtown',18
+18029,0,'Train Sta',18
 19019,0,'Cataraqui Ctr',19
 19029,0,'Woodhaven',19
 2009,0,'Queen''s West Campus',20
@@ -31,14 +32,13 @@
 502019,0,'Cataraqui Ctr',502
 502029,0,'Downtown',502
 60109,0,'Queen''s / KGH',601
-60209,0,'Innovation / Hwy 15',602
+60209,0,'Bus Term',602
 701019,0,'Cataraqui Ctr',701
 701029,0,'Downtown',701
 702029,0,'Downtown',702
 702019,0,'King''s Xing N',702
 801019,0,'Queen''s / KGH',801
 802019,0,'Montreal St P&R',802
-10007019,0,'Grant Timmins / Dalton',10007
 10017019,0,'Norman Rogers / Van Order',10017
 10017029,0,'Union / Alfred',10017
 10019019,0,'Cataraqui Ctr',10019
@@ -46,7 +46,7 @@
 10090019,0,'Loyalist Link - Bath',10090
 10090029,0,'Loyalist Link - Odessa',10090
 10601019,0,'Queen''s / KGH',10601
-10602019,0,'Innovation / Hwy 15',10602
+10602019,0,'Bus Term',10602
 2000109,0,'Downtown',20001
 2000209,0,'Downtown',20002
 20006019,0,'Gardiners Ctr',20006
@@ -57,7 +57,6 @@
 20090029,0,'Loyalist Link - Kingston',20090
 20702019,0,'Downtown',20702
 20801019,0,'Downtown',20801
-30007019,0,'Rideau Hts',30007
 40017019,0,'Downtown',40017
 40017029,0,'Union / Alfred',40017
 99002019,0,'Cataraqui Ctr',99002

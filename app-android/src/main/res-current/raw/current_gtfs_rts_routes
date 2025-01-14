@@ -9,7 +9,7 @@
 14,'14','Cataraqui North','C1CD23',1571,3
 15,'15','Cataraqui Woods <> Ctr 70 P&R','009DDC',1572,3
 16,'16','Bus Term <> Train Sta','B890C2',1573,3
-18,'18','Downtown / Train Sta Circuit - Train Sta','4D6B7D',1575,3
+18,'18','Downtown <> Train Sta','4D6B7D',1575,3
 19,'19','Woodhaven <> Cataraqui Ctr','00215B',1576,3
 20,'20','Queen''s West Campus','ED1556',1598,3
 22,'22','Bus Term','000000',1600,3
@@ -18,12 +18,11 @@
 501,'501','Downtown <> Cataraqui Ctr','231F20',52470,3
 502,'502','Cataraqui Ctr <> Downtown','231F20',52471,3
 601,'601','Queen''s / KGH','231F20',53431,3
-602,'602','Innovation / Hwy 15','231F20',53432,3
+602,'602','Bus Term','231F20',53432,3
 701,'701','Cataraqui Ctr <> Downtown','231F20',54392,3
 702,'702','Downtown <> King''s Xing N','231F20',54393,3
 801,'801','Queen''s / KGH','000000',55353,3
 802,'802','Montreal St P&R','000000',55354,3
-10007,'7A','7','000000',1770,3
 10017,'17A','Norman Rogers / Van Order <> Union / Alfred','000000',48859,3
 10019,'19A','Cataraqui Ctr <> Westbrook','000000',48921,3
 10090,'90A','Loyalist Link - Odessa <> Loyalist Link - Bath','000000',56330,3
@@ -37,7 +36,6 @@
 20090,'90B','Loyalist Link - Direct Coil <> Loyalist Link - Kingston','000000',56331,3
 20702,'702B','702','000000',1686249,3
 20801,'801B','Downtown','000000',1716009,3
-30007,'7C','7','000000',1772,3
 40017,'17D','Union / Alfred <> Downtown','000000',48862,3
 99002,'XTRA','Cataraqui Ctr','000000',2704939,3
 160017,'17P','Princess / Albert','000000',48874,3
