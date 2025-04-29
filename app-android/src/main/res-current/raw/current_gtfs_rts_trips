@@ -23,7 +23,6 @@
 18029,0,'Train Sta',18
 19019,0,'Cataraqui Ctr',19
 19029,0,'Woodhaven',19
-2009,0,'Queen''s West Campus',20
 2209,0,'Bus Term',22
 31019,0,'Providence Care Hosp',31
 32019,0,'St Lawrence College',32
@@ -41,8 +40,6 @@
 702019,0,'King''s Xing N',702
 801019,0,'Queen''s / KGH',801
 802019,0,'Montreal St P&R',802
-10017019,0,'Norman Rogers / Van Order',10017
-10017029,0,'Union / Alfred',10017
 10019019,0,'Cataraqui Ctr',10019
 10019029,0,'Westbrook',10019
 10090019,0,'Loyalist Link - Bath',10090
@@ -59,8 +56,4 @@
 20090029,0,'Loyalist Link - Kingston',20090
 20702019,0,'Downtown',20702
 20801019,0,'Downtown',20801
-40017019,0,'Downtown',40017
-40017029,0,'Union / Alfred',40017
 99002019,0,'Cataraqui Ctr',99002
-16001709,0,'Princess / Albert',160017
-23001709,0,'Queen''s West Campus',230017

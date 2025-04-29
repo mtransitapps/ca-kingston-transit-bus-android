@@ -11,7 +11,6 @@
 16,'16','Bus Terminal - Train Station','B890C2',1573,3
 18,'18','Train Station - Downtown','4D6B7D',1575,3
 19,'19','Woodhaven And Westbrook','00215B',1576,3
-20,'20','Queen''s Shuttle','ED1556',1598,3
 22,'22','Bus Terminal - Innovation / Highway 15','000000',1600,3
 31,'31','Providence Care Hospital','000000',1630,3
 32,'32','St Lawrence College','000000',1631,3
@@ -24,7 +23,6 @@
 702,'702','Express - King''s Crossing','231F20',54393,3
 801,'801','Express - Queen''s / Kingston General Hospital','000000',55353,3
 802,'802','Express - Montreal St Park & Ride','000000',55354,3
-10017,'17A','Queen''s Late Night - An Clachan','000000',48859,3
 10019,'19A','Westbrook - Cataraqui Centre','000000',48921,3
 10090,'90A','Loyalist Link - Odessa-Amherstview-Bath','000000',56330,3
 10601,'601A','Express - Queen''s / Kingston General Hospital','000000',1656426,3
@@ -37,7 +35,4 @@
 20090,'90B','Loyalist Link - Taylor Kidd-Amherstview-Kingston','000000',56331,3
 20702,'702B','Express - Downtown','000000',1686249,3
 20801,'801B','Express - Downtown','000000',1716009,3
-40017,'17D','Queen''s Late Night - Downtown','000000',48862,3
 99002,'XTRA','Extra Bus','000000',2704939,3
-160017,'17P','Queen''s Late Night - Princess/Albert','000000',48874,3
-230017,'17W','Queen''s Late Night - West Campus','000000',48881,3
