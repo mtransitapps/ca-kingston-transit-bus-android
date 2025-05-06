@@ -1,38 +1,39 @@
 1,'1','Montreal St - St Lawrence College','54B948',49,3
-2,'2','Kingston Centre - Division St','F99D31',50,3
+2,'2','Division St - Train Station','F99D31',50,3
 4,'4','Downtown - Cataraqui Centre','ED1556',52,3
 6,'6','Cataraqui Centre - St Lawrence College','9B5F0E',54,3
-7,'7','INVISTA Centre - Grant Timmins / Dalton','8A6F45',55,3
+7,'7','Grant Timmins / Dalton - Cataraqui Centre','8A6F45',55,3
 10,'10','Amherstview - Cataraqui Centre','636466',1567,3
-11,'11','Cataraqui Centre - Kingston Centre','008752',1568,3
+11,'11','Cataraqui Centre - Train Station','008752',1568,3
 12,'12','Downtown - CFB Kingston','8B005A',1569,3
-14,'14','Cataraqui North','C1CD23',1571,3
-15,'15','Centre 70 Park & Ride - Cataraqui Woods','009DDC',1572,3
-16,'16','Bus Terminal - Train Station','B890C2',1573,3
+13,'13','Cataraqui North - Waterloo','000000',1570,3
+14,'14','Cataraqui North - INVISTA Centre','C1CD23',1571,3
+15,'15','Centre 70 Park & Ride - Cataraqui Centre','009DDC',1572,3
+16,'16','First Canada - St Lawrence College','B890C2',1573,3
 18,'18','Train Station - Downtown','4D6B7D',1575,3
-19,'19','Woodhaven And Westbrook','00215B',1576,3
-22,'22','Bus Terminal - Innovation / Highway 15','000000',1600,3
-31,'31','Providence Care Hospital','000000',1630,3
-32,'32','St Lawrence College','000000',1631,3
+19,'19','Woodhaven - Cataraqui Centre','00215B',1576,3
+22,'22','First Canada - Innovation/15','000000',1600,3
+31,'31','Providence Care Hospital - St Lawrence College','000000',1630,3
+32,'32','St Lawrence College - Providence Care Hospital','000000',1631,3
 60,'60','King''s Crossing - Downtown','000000',1722,3
 501,'501','Express - Cataraqui Centre - Downtown','231F20',52470,3
 502,'502','Express - Cataraqui Centre - Downtown','231F20',52471,3
-601,'601','Express - Queen''s / Kingston General Hospital','231F20',53431,3
-602,'602','Express - Innovation / 15','231F20',53432,3
-701,'701','Express - Cataraqui Centre','231F20',54392,3
-702,'702','Express - King''s Crossing','231F20',54393,3
-801,'801','Express - Queen''s / Kingston General Hospital','000000',55353,3
-802,'802','Express - Montreal St Park & Ride','000000',55354,3
+601,'601','Express - Queen''s / KGH - Innovation / 15','231F20',53431,3
+602,'602','Express - Innovation / 15 - Queen''s / KGH','231F20',53432,3
+701,'701','Express - King''s Crossing - Cataraqui Centre','231F20',54392,3
+702,'702','Express - Cataraqui Centre - King''s Crossing','231F20',54393,3
+801,'801','Express - Motnreal St Park & Ride - Downtown','000000',55353,3
+802,'802','Express - Downtown - Montreal St Park & Ride','000000',55354,3
 10019,'19A','Westbrook - Cataraqui Centre','000000',48921,3
 10090,'90A','Loyalist Link - Odessa-Amherstview-Bath','000000',56330,3
-10601,'601A','Express - Queen''s / Kingston General Hospital','000000',1656426,3
-10602,'602A','Express - Innovation / 15','000000',1656457,3
+10601,'601A','Express - Queen''s / KGH - Innovation / 15','000000',1656426,3
+10602,'602A','Express - Innovation / 15 - Queen''s / KGH','000000',1656457,3
+10801,'801A','Express - Montreal St Park & Ride - Queen''s / KGH','000000',1716008,3
 20001,'1B','St Lawrence College-Downtown','000000',1585,3
 20002,'2B','Bus Terminal - St Lawrence College','000000',1616,3
 20006,'6B','Cataraqui Centre - Gardiners Centre','000000',1740,3
 20007,'7B','Bus Terminal - Cataraqui Centre','000000',1771,3
 20016,'16B','Bus Terminal - Kingston Centre','000000',48829,3
 20090,'90B','Loyalist Link - Taylor Kidd-Amherstview-Kingston','000000',56331,3
-20702,'702B','Express - Downtown','000000',1686249,3
+20702,'702B','Express - Cataraqui Centre - Downtown','000000',1686249,3
 20801,'801B','Express - Downtown','000000',1716009,3
-99002,'XTRA','Extra Bus','000000',2704939,3
