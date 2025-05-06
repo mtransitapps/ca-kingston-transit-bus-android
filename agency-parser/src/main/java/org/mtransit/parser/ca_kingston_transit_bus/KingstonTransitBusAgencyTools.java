@@ -36,11 +36,6 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 		return LANG_EN;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -122,8 +117,14 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 	public boolean directionSplitterEnabled(long routeId) {
 		if (routeId == 1L + MRouteSNToIDConverter.endsWith(Letters.B)) { // 1B
 			return false; // 2024-12-17: it's a mess
+		} else if (routeId == 2L) {
+			return false; // 2025-05-06: it's a mess
 		} else if (routeId == 2L + MRouteSNToIDConverter.endsWith(Letters.B)) { // 2B
 			return false; // 2024-11-26: it's a mess
+		} else if (routeId == 14L) {
+			return false; // 2025-05-06: it's a mess
+		} else if (routeId == 15L) {
+			return false; // 2025-05-06: it's a mess
 		} else if (routeId == 20L) {
 			return false; // 2024-08-13: it's a mess
 		} else if (routeId == 17L + MRouteSNToIDConverter.endsWith(Letters.P)) { // 17P
@@ -176,7 +177,7 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.SAINT.matcher(tripHeadsign).replaceAll(CleanUtils.SAINT_REPLACEMENT);
 		tripHeadsign = CleanUtils.cleanSlashes(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	private static final Pattern SIDE_ = CleanUtils.cleanWord("side");
@@ -190,7 +191,7 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.CLEAN_AND.matcher(gStopName).replaceAll(CleanUtils.CLEAN_AND_REPLACEMENT);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	private static final String PLACE_CATC = "place_catc";
