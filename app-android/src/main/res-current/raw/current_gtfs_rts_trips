@@ -5,8 +5,8 @@
 4029,0,'Downtown',4
 6019,0,'Cataraqui Ctr',6
 6029,0,'St Lawrence College',6
-7019,0,'Grant Timmins / Dalton',7
-7029,0,'Invista Ctr',7
+7019,0,'Cataraqui Ctr',7
+7029,0,'Grant Timmins / Dalton',7
 10019,0,'Amherstview',10
 10029,0,'Cataraqui Ctr',10
 11019,0,'Cataraqui Ctr',11
@@ -16,13 +16,11 @@
 13019,0,'Cataraqui North',13
 1409,0,'Cataraqui North',14
 1509,0,'Ctr 70 P&R',15
-16029,0,'First Canada',16
-16019,0,'St Lawrence College',16
-18019,0,'Downtown',18
-18029,0,'Train Sta',18
+16019,0,'First Canada',16
+16029,0,'St Lawrence College',16
 19019,0,'Cataraqui Ctr',19
 19029,0,'Woodhaven',19
-2209,0,'A - First Canada / Bus Term',22
+2209,0,'A - First Canada',22
 31019,0,'Providence Care Hosp',31
 32019,0,'St Lawrence College',32
 60019,0,'Downtown',60
@@ -49,10 +47,8 @@
 2000109,0,'B - Downtown',20001
 2000209,0,'Bus Term',20002
 20006019,0,'Gardiners Ctr',20006
-20007029,0,'Bus Term / Cataraqui Ctr',20007
+20007029,0,'Bus Term',20007
 20007019,0,'Cataraqui Ctr',20007
-20016019,0,'Kingston Ctr',20016
 20090019,0,'Loyalist Link - Direct Coil',20090
 20090029,0,'Loyalist Link - Kingston',20090
 20702019,0,'Downtown',20702
-20801019,0,'Downtown',20801
