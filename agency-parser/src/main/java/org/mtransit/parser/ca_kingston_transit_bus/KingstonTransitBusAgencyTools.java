@@ -115,28 +115,8 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 	@SuppressWarnings("RedundantIfStatement")
 	@Override
 	public boolean directionSplitterEnabled(long routeId) {
-		if (routeId == 1L + MRouteSNToIDConverter.endsWith(Letters.B)) { // 1B
-			return false; // 2024-12-17: it's a mess
-		} else if (routeId == 2L) {
-			return false; // 2025-05-06: it's a mess
-		} else if (routeId == 2L + MRouteSNToIDConverter.endsWith(Letters.B)) { // 2B
-			return false; // 2024-11-26: it's a mess
-		} else if (routeId == 14L) {
-			return false; // 2025-05-06: it's a mess
-		} else if (routeId == 15L) {
-			return false; // 2025-05-06: it's a mess
-		} else if (routeId == 20L) {
-			return false; // 2024-08-13: it's a mess
-		} else if (routeId == 17L + MRouteSNToIDConverter.endsWith(Letters.P)) { // 17P
-			return false; // 2024-12-10: it's a mess
-		} else if (routeId == 17L + MRouteSNToIDConverter.endsWith(Letters.W)) { // 17W
-			return false; // 2024-08-13: it's a mess
-		} else if (routeId == 22L) {
-			return false; // 2025-01-07: it's a mess
-		} else if (routeId == 601L) {
-			return false; // 2024-10-02: it's a mess
-		} else if (routeId == 602L) {
-			return false; // 2024-10-02: it's a mess
+		if (routeId == 90L + MRouteSNToIDConverter.endsWith(Letters.B)) { // 90B
+			return false; // 2025-09-16: it's a mess
 		}
 		return true;
 	}
@@ -164,6 +144,8 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 	private static final Pattern STARTS_WITH_EXPRESS = Pattern.compile("(^(express -) )*", Pattern.CASE_INSENSITIVE);
 	private static final Pattern STARTS_WITH_EXTRA_BUS = Pattern.compile("(^(extra bus -) )*", Pattern.CASE_INSENSITIVE);
 
+	private static final Pattern STARTS_WITH_LOYALIST_LINK_ = Pattern.compile("^(loyalist link - )", Pattern.CASE_INSENSITIVE);
+
 	private static final Pattern KGH_ = CleanUtils.cleanWords("kingston general hosp", "kingston general hospital");
 	private static final String KGH_REPLACEMENT = CleanUtils.cleanWordsReplacement("KGH");
 
@@ -172,6 +154,7 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 	public String cleanTripHeadsign(@NotNull String tripHeadsign) {
 		tripHeadsign = STARTS_WITH_EXPRESS.matcher(tripHeadsign).replaceAll(EMPTY);
 		tripHeadsign = STARTS_WITH_EXTRA_BUS.matcher(tripHeadsign).replaceAll(EMPTY);
+		tripHeadsign = STARTS_WITH_LOYALIST_LINK_.matcher(tripHeadsign).replaceAll(EMPTY);
 		tripHeadsign = KGH_.matcher(tripHeadsign).replaceAll(KGH_REPLACEMENT);
 		tripHeadsign = CleanUtils.keepToAndRemoveVia(tripHeadsign);
 		tripHeadsign = CleanUtils.SAINT.matcher(tripHeadsign).replaceAll(CleanUtils.SAINT_REPLACEMENT);
