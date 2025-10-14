@@ -18,8 +18,7 @@
 14019,0,'Cataraqui North',14
 15029,0,'Cataraqui Ctr',15
 15019,0,'Ctr 70 P&R',15
-16019,0,'First Canada',16
-16029,0,'St Lawrence College',16
+1609,0,'A - First Canada',16
 19019,0,'Cataraqui Ctr',19
 19029,0,'Woodhaven',19
 22019,0,'A - First Canada',22
@@ -48,6 +47,8 @@
 20002029,0,'Downtown',20002
 20006019,0,'Gardiners Ctr',20006
 20007019,0,'Bus Term',20007
+20016019,0,'B - Kingston Ctr',20016
+20016029,0,'B - St Lawrence College',20016
 2009009,0,'Bath',20090
 14000001019,0,'Bus Term',14000001
 14000001029,0,'Cataraqui Ctr',14000001
