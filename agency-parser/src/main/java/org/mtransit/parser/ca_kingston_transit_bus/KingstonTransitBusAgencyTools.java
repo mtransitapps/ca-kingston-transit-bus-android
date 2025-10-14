@@ -115,6 +115,9 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 	@SuppressWarnings("RedundantIfStatement")
 	@Override
 	public boolean directionSplitterEnabled(long routeId) {
+		if (routeId == 16L) {
+			return false; // 2025-10-14: it's a mess
+		}
 		if (routeId == 90L + MRouteSNToIDConverter.endsWith(Letters.B)) { // 90B
 			return false; // 2025-09-16: it's a mess
 		}
