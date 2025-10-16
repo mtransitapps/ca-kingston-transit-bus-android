@@ -7,14 +7,12 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
-import org.mtransit.commons.Letters;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GRoute;
 import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.gtfs.data.GTrip;
 import org.mtransit.parser.mt.data.MAgency;
-import org.mtransit.parser.mt.data.MRouteSNToIDConverter;
 
 import java.util.List;
 import java.util.Locale;
@@ -115,12 +113,6 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 	@SuppressWarnings("RedundantIfStatement")
 	@Override
 	public boolean directionSplitterEnabled(long routeId) {
-		if (routeId == 16L) {
-			return false; // 2025-10-14: it's a mess
-		}
-		if (routeId == 90L + MRouteSNToIDConverter.endsWith(Letters.B)) { // 90B
-			return false; // 2025-09-16: it's a mess
-		}
 		return true;
 	}
 
@@ -132,10 +124,13 @@ public class KingstonTransitBusAgencyTools extends DefaultAgencyTools {
 	private static final Pattern ENDS_WITH_PARENTHESIS_ = Pattern.compile("( \\(.*\\))", Pattern.CASE_INSENSITIVE);
 
 	private static final Pattern TRANSFER_POINT_ = Pattern.compile("( transfer (point|pt) (platform|p:)\\d+$)", Pattern.CASE_INSENSITIVE);
+	private static final Pattern STARTS_WITH_LETTER_DASH_ = Pattern.compile("^([A-Z]\\s?-\\s?)", Pattern.CASE_INSENSITIVE);
+
 
 	@NotNull
 	@Override
 	public String cleanDirectionHeadsign(int directionId, boolean fromStopName, @NotNull String directionHeadSign) {
+		directionHeadSign = STARTS_WITH_LETTER_DASH_.matcher(directionHeadSign).replaceAll(EMPTY);
 		directionHeadSign = super.cleanDirectionHeadsign(directionId, fromStopName, directionHeadSign);
 		if (fromStopName) {
 			directionHeadSign = ENDS_WITH_PARENTHESIS_.matcher(directionHeadSign).replaceAll(EMPTY);
