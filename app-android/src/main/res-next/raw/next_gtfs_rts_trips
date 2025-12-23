@@ -12,8 +12,8 @@
 10029,0,'Cataraqui Ctr',10
 11019,0,'Cataraqui Ctr',11
 11029,0,'Train Sta',11
-12029,0,'CFB Kingston',12
-12019,0,'Downtown',12
+12019,0,'CFB Kingston',12
+12029,0,'St Lawrence College',12
 13019,0,'Cataraqui North',13
 14019,0,'Cataraqui North',14
 15029,0,'Cataraqui Ctr',15
@@ -26,18 +26,19 @@
 22029,0,'Innovation / Hwy 15',22
 31019,0,'Providence Care Hosp',31
 32019,0,'St Lawrence College',32
-501019,0,'Cataraqui Ctr',501
-501029,0,'Downtown',501
+501029,0,'Cataraqui Ctr',501
+501019,0,'Downtown',501
 502019,0,'Cataraqui Ctr',502
 502029,0,'Downtown',502
 601019,0,'Queen''s / KGH',601
 602019,0,'Innovation / Hwy 15',602
 701019,0,'Cataraqui Ctr',701
-701029,0,'Downtown',701
 702029,0,'Downtown / King''s Xing',702
 702019,0,'King''s Xing',702
 801019,0,'Cataraqui Ctr',801
 802019,0,'Montreal St P&R',802
+10019019,0,'Cataraqui Ctr',10019
+10019029,0,'Westbrook',10019
 10090019,0,'Kingston',10090
 10090029,0,'Odessa',10090
 20002019,0,'Downtown',20002
