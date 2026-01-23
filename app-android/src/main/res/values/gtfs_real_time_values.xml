@@ -5,6 +5,8 @@
     <bool name="gtfs_real_time_stop_id_is_stop_code">true</bool>
     <bool name="gtfs_real_time_route_id_is_route_short_name">true</bool>
     <string name="gtfs_real_time_agency_service_alerts_url">https://api.cityofkingston.ca/gtfs-realtime/alerts.pb</string>
+    <string name="gtfs_real_time_agency_vehicle_positions_url">https://api.cityofkingston.ca/gtfs-realtime/vehicleupdates.pb</string>
+    <string name="gtfs_real_time_agency_trip_updates_url">https://api.cityofkingston.ca/gtfs-realtime/tripupdates.pb</string>
     <string name="gtfs_real_time_agency_id" />
     <string name="gtfs_real_time_agency_bold_words" />
     <string-array name="gtfs_real_time_agency_extra_languages" />
