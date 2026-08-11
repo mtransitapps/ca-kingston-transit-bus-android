@@ -1,0 +1,8 @@
+{
+    "target_route_type_id": 3,
+    "default_color": "009BC9",
+    "default_color_comment": "LIGHT BLUE (from agency logo)",
+    "default_color_enabled": true,
+    "default_strings_cleaner_enabled": true,
+    "ignore_upper_case_words": []
+}

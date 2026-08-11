@@ -1,0 +1,86 @@
+{
+    "trip_excludes": [
+        {
+            "trip_headsign_regex": "out of service",
+            "ignore_case": true
+        }
+    ],
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "COV",
+            "route_id": 99001
+        },
+        {
+            "route_short_name": "XTRA",
+            "route_id": 99002
+        }
+    ],
+    "default_route_long_name_enabled": true,
+    "direction_splitter_disabled_until": {
+        "6": "20260911"
+    },
+    "direction_finder_enabled": true,
+    "direction_headsign_cleaners": [
+        {
+            "regex": "^([A-Z]\\s?-\\s?)",
+            "ignore_case": true,
+            "comment": "Remove starts with 'X - '"
+        },
+        {
+            "regex": "( \\(.*\\))",
+            "comment": "Remove ends with '(...)'"
+        },
+        {
+            "regex": "( transfer (point|pt) (platform|p:)\\d+$)",
+            "ignore_case": true,
+            "comment": "Remove ends with ' transfer point/platform ...'"
+        }
+    ],
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "^(express)\\s*-\\s*",
+            "ignore_case": true,
+            "comment": "Remove starts with 'express - '"
+        },
+        {
+            "regex": "^(extra bus)\\s*-\\s*",
+            "ignore_case": true,
+            "comment": "Remove starts with 'extra bus - '"
+        },
+        {
+            "regex": "^(loyalist link)\\s*-\\s*",
+            "ignore_case": true,
+            "comment": "Remove starts with 'loyalist link - '"
+        },
+        {
+            "regex": "(kingston general hosp|kingston general hospital)",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "KGH",
+            "comment": "Normalize 'kingston general hospital'"
+        }
+    ],
+    "stop_id_not_supported_configs": [
+        {
+            "original_stop_id": "Smspr1",
+            "stop_id_int": 970000
+        }
+    ],
+    "stop_id_previous_char_configs": [
+        {
+            "char": "LT",
+            "id_part": 12200000
+        }
+    ],
+    "stop_name_cleaners": [
+        {
+            "regex": "side",
+            "ignore_case": true,
+            "is_word": true,
+            "comment": "Remove 'side' word"
+        }
+    ]
+}
