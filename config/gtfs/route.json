@@ -41,17 +41,17 @@
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [
         {
-            "regex": "(^(express -) )*",
+            "regex": "^(express)\\s*-\\s*",
             "ignore_case": true,
             "comment": "Remove starts with 'express - '"
         },
         {
-            "regex": "(^(extra bus -) )*",
+            "regex": "^(extra bus)\\s*-\\s*",
             "ignore_case": true,
             "comment": "Remove starts with 'extra bus - '"
         },
         {
-            "regex": "^(loyalist link - )",
+            "regex": "^(loyalist link)\\s*-\\s*",
             "ignore_case": true,
             "comment": "Remove starts with 'loyalist link - '"
         },
