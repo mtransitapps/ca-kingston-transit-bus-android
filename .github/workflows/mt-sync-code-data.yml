@@ -113,7 +113,7 @@ jobs:
 
       - name: MT setup
         id: mt-setup
-        uses: mtransitapps/gh-actions/.github/actions/setup@v1.5.0
+        uses: mtransitapps/gh-actions/.github/actions/setup@v1.5.1
         with:
           code-sync: ${{ github.ref == format('refs/heads/{0}', env.MT_DEFAULT_BRANCH_NAME) }}
 
@@ -144,7 +144,7 @@ jobs:
 
       - name: MT select archive
         if: ${{ env.MT_IS_AGENCY_BIKE != 'true' && env.MT_IS_MAIN_REPO != 'true' }}
-        run: if [ -d "agency-parser" ]; then ./agency-parser/sh/prepare_only.sh; fi 
+        run: if [ -d "agency-parser" ]; then ./agency-parser/sh/prepare_only.sh; fi
 
       - name: MT log GTFS CSV previews
         if: ${{ env.MT_IS_AGENCY_BIKE != 'true' && env.MT_IS_MAIN_REPO != 'true' }}
